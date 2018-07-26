@@ -109,6 +109,11 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.FORMIDABLE_FOE ]: [ 10, 12, 15 ],
     [ EFFECT.MICROSCOPIC_OBSERVATION ]: [ 10, 12, 15 ],
     [ EFFECT.THE_UNTOUCHABLES ]: [ 10, 12, 15 ],
+    [ EFFECT.UNMERCIFUL_PUNISHMENT ]: [ 10, 12, 15 ],
+    [ EFFECT.ASGARDIAN_HUNT ]: [ 10, 12, 15 ],
+    [ EFFECT.SPECIAL_ASSIST ]: [ 10, 12, 15 ],
+    [ EFFECT.HUNT_THE_UNCANNY ]: [ 10, 12, 15 ],
+    [ EFFECT.CHALLENGE_DEFENSES ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -222,6 +227,11 @@ const effects = [
     { uid: EFFECT.FORMIDABLE_FOE },
     { uid: EFFECT.THE_UNTOUCHABLES },
     { uid: EFFECT.MICROSCOPIC_OBSERVATION },
+    { uid: EFFECT.UNMERCIFUL_PUNISHMENT },
+    { uid: EFFECT.ASGARDIAN_HUNT },
+    { uid: EFFECT.SPECIAL_ASSIST },
+    { uid: EFFECT.HUNT_THE_UNCANNY },
+    { uid: EFFECT.CHALLENGE_DEFENSES },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -339,6 +349,11 @@ const effectIcons = {
     [ EFFECT.FORMIDABLE_FOE ]: 'effect-attack',
     [ EFFECT.MICROSCOPIC_OBSERVATION ]: 'effect-mostly-average-joes',
     [ EFFECT.THE_UNTOUCHABLES ]: 'effect-untouchables',
+    [ EFFECT.UNMERCIFUL_PUNISHMENT ]: 'effect-friend-from-work',
+    [ EFFECT.ASGARDIAN_HUNT ]: 'effect-critical-rate',
+    [ EFFECT.SPECIAL_ASSIST ]: 'effect-idol',
+    [ EFFECT.HUNT_THE_UNCANNY ]: 'effect-critical-damage',
+    [ EFFECT.CHALLENGE_DEFENSES ]: 'effect-directdamage',
 };
 
 function effectIcon(uid) {

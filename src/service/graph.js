@@ -131,6 +131,11 @@ const EFFECT_COLORS = {
     [ EFFECT.FORMIDABLE_FOE ]: '#d00',
     [ EFFECT.MICROSCOPIC_OBSERVATION ]: '#505',
     [ EFFECT.THE_UNTOUCHABLES ]: '#aaf',
+    [ EFFECT.UNMERCIFUL_PUNISHMENT ]: '#0af',
+    [ EFFECT.ASGARDIAN_HUNT ]: '#fc0',
+    [ EFFECT.SPECIAL_ASSIST ]: '#4b4',
+    [ EFFECT.HUNT_THE_UNCANNY ]: '#fc0',
+    [ EFFECT.CHALLENGE_DEFENSES ]: '#9bf',
 };
 
 function getTypeColor(typeId) {

@@ -29,6 +29,8 @@
         "note": "Kingpin begins the fight with 2 Rages. When exiting Overpower mode, Kingpin has a chance to gain up to 4 Rages, each having a 82.44% chance to active."
     },
     "author": {
-        "name": "Kabam"
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-kingpin/"
     }
 }

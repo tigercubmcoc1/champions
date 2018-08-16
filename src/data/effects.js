@@ -125,6 +125,7 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.DARK_ILLUMINATI ]: [ 10, 12, 15 ],
     [ EFFECT.ETERNAL_ADVERSARIES ]: [ 10, 12, 15 ],
     [ EFFECT.HAIL_HYDRA ]: [ 10, 12, 15 ],
+    [ EFFECT.DARK_EMPOWERMENT ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -254,6 +255,7 @@ const effects = [
     { uid: EFFECT.DARK_ILLUMINATI },
     { uid: EFFECT.ETERNAL_ADVERSARIES },
     { uid: EFFECT.HAIL_HYDRA },
+    { uid: EFFECT.DARK_EMPOWERMENT },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -387,6 +389,7 @@ const effectIcons = {
     [ EFFECT.DARK_ILLUMINATI ]: 'effect-armor',
     [ EFFECT.ETERNAL_ADVERSARIES ]: 'effect-bane-of-hells-kitchen',
     [ EFFECT.HAIL_HYDRA ]: 'effect-heal-block',
+    [ EFFECT.DARK_EMPOWERMENT ]: 'effect-spirit-of-justice',
 };
 
 function effectIcon(uid) {

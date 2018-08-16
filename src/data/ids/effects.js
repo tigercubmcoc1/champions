@@ -124,3 +124,4 @@ export const ELEMENTAL_HIDE = 'elementalhide';
 export const DARK_ILLUMINATI = 'darkilluminati';
 export const ETERNAL_ADVERSARIES = 'eternaladversaries';
 export const HAIL_HYDRA = 'hailhydra';
+export const DARK_EMPOWERMENT = 'darkempowerment';

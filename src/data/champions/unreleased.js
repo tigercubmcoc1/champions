@@ -3,7 +3,6 @@ import { CHAMPION } from '../model/Champion';
 export const UNRELEASED_CHAMPIONS = [
     // Cosmic
     CHAMPION.DARKPHOENIX,
-    CHAMPION.HEIMDALL,
     // Tech
     // Mutant
     CHAMPION.WEAPONX,

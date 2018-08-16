@@ -1,3 +1,27 @@
 {
-    "description": "One of the greatest warriors of Asgard, Heimdall was appointed Guardian of the Rainbow Bridge for all time, by Odin All-Father. His eyes can see all of creation, and his ears can hear a whisper from anywhere in the Nine Realms. Heimdall has many times saved Asgard, detecting threats long before they can become a danger, and either dispatching the threat himself or sounding Gjallarhorn to call forth the other defenders of Asgard."
+    "description": "One of the greatest warriors of Asgard, Heimdall was appointed Guardian of the Rainbow Bridge for all time, by Odin All-Father. His eyes can see all of creation, and his ears can hear a whisper from anywhere in the Nine Realms. Heimdall has many times saved Asgard, detecting threats long before they can become a danger, and either dispatching the threat himself or sounding Gjallarhorn to call forth the other defenders of Asgard.",
+    "gameplay": {
+        "description": "Fury   \nWhen Striking or being Blocked by an Opponent, Heimdall gains Passive Fury charges\nOn reaching 100 charges they convert into a Fury Buff increasing Attack by 209 lasting 10 seconds.\n\nArmor Up  \nWhen Struck by or Blocking an Opponent’s attack, Heimdall gains Passive Armor Charges.\nOn reaching 100 charges they convert into an Armor Up Buff increasing Armor by 857 lasting 10 seconds.\n\nWhile Charging Heavy Attack \nRemove 1 active Fury, Armor Up, Precision, or Aptitude Buff, triggered by Heimdall’s abilities, and replace it with one with an infinite Duration.\nHeimdall can have a maximum of 5 of these Buffs at a time.\n\nTrue Sight  \nEvery time he activates a Special Attack, Heimdall gains a permanent True Strike Buff as long as he doesn’t already have one active. This Buff is lost if Heimdall is Struck.\nWhile True Strike is active Heimdall’s Attacks cannot be avoided with Dexterity, he can trigger the Parry Mastery against projectiles, and has a 25% chance to Auto-Block Basic Attacks, this will trigger Parry.\n\nGuardian of the Rainbow Bridge   \nWhen Heimdall is on a team, all Champions except him will gain both an Indestructible and an Unstoppable Buff which last for 2 seconds the first time you would be knocked out"
+    },
+    "specials": {
+        "1": {
+            "description": "Hofund – Heimdall wields his uru sword Hofund with powerful sweeping blows, combining his natural strength with enchantments woven into the blade by Odin himself.",
+            "note": "100% chance to Armor Break the Opponent once for each Fury Buff more than Armor Up Buff currently active on Heimdall. These Armor Breaks reduce Armor by 105 and last for 10 seconds. 100% chance to gain a Power Gain Buff for each Armor Up Buff more than Fury Buff active on Heimdall. These Power Gains grant 12.5% of his Max Power, over 10 seconds."
+        },
+        "2": {
+            "description": "Blue Flame of the Stars – Channeling the cosmic power of the stars themselves, Heimdall unleashes a blast of blue flame of terrifying power.",
+            "note": "100% Chance to be Unblockable if you have least 1 Armor Up Buff. 100% Chance to Stun for 2.5 seconds if you have at least 1 Fury Buff."
+        },
+        "3": {
+            "description": "Master of the Bifrost – Heimdall unlocks the Bifrost, unleashing the power of the rainbow bridge itself upon his opponent.",
+            "note": "100% Chance to grant an Aptitude Buff, increasing the potency of Armor, Fury, and Precision Buffs by 50% lasting for 15 seconds."
+        }
+    },
+    "youtube": "lP_HXG1X4C0",
+    "signature": {},
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-heimdall/"
+    }
 }

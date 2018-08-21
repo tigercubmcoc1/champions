@@ -1,3 +1,31 @@
 {
-    "description": "Oh, hey there, my name is Korg. As you can see… I am made of rocks. Perishable rocks though, so don’t put me into fights thinking I am invincible, unless my opponent is made of scissors. Ha! … Anyway, Miek is here too and wants to help , so instead of blocking with my rock arms, I let Miek taste some of the action! After all, that’s what friends are for!"
+    "description": "Oh, hey there, my name is Korg. As you can see… I am made of rocks. Perishable rocks though, so don’t put me into fights thinking I am invincible, unless my opponent is made of scissors. Ha! … Anyway, Miek is here too and wants to help , so instead of blocking with my rock arms, I let Miek taste some of the action! After all, that’s what friends are for!",
+    "gameplay": {
+        "description": "Crowd Excitement \nThe crowd goes crazy when Miek makes an appearance while Korg is blocking an attack, increasing Crowd Excitement by 1 for 20 seconds. +1 on Well Timed Blocks. Only 4 Crowd Excitement charges can be gained through this ability.\nThe crowd dislikes cowards cheering for Korg when opponents Evade or Dexterity his Basic Attacks, increasing Crowd Excitement by 2 for 20 seconds.\nWhen Crowd Excitement reaches 4 or more, Korg becomes Unstoppable and Unblockable for 2.5 seconds.  \n\nRock Shield \nKorg begins the fight with 9 Rock Shield charges which are removed each time he is struck. An additional charge is removed when Korg’s Dash Attack is interrupted by a Light Attack and if Struck by a Special Attack 3, all Rock Shield charges are removed instead.\nWhile Rock Shield is active, powerful enemy attacks cannot deal more than 40% of the opponent’s Attack Rating in a single hit. Special 3’s cannot deal more than 120% of the opponent’s Attack instead.\nWhen all charges are consumed, Rock Shield is shattered and it takes between 7 and 10 seconds to reform. If Rock Shield is shattered by a Special 3, it takes three times as long to reform. Each time Rock Shield reforms it starts with 1 less charge."
+    },
+    "attack": {
+        "heavy": "Miek expels fluids on opponents when hitting with a Heavy Attack, creeping out the crowd and consuming all Crowd Excitement to inflict Armor Break, reducing their Armor Rating by 941 for each Crowd Excitement charge for 8 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Hey, take it easy man! – Oh man, is that what this thing does? I thought it was just going to like, shoot some net or something. I oughta be careful this thing.",
+            "note": "Opponents cannot Evade this attack. This attack is Unblockable if Crowd Excitement is greater than 1."
+        },
+        "2": {
+            "description": "Rocknado – When I was a kid, I said wanted to be a tornado in class one day and all the other kids laughed at me. But now my dream came true!",
+            "note": "+1256 Attack Rating for 2.5 seconds if Korg is Unblockable. Inflicts Bleed, dealing 1151 Direct Damage over 8 seconds."
+        },
+        "3": {
+            "description": "Friendly Fire – Miek said he wanted to help, but his legs are too small so I have to throw him and stuff. Don’t worry, his shell is quite resilient. I reckon he’ll be okay.",
+            "note": "Crowd Excitement goes up by 9 for 20 seconds."
+        }
+    },
+    "signature": {
+        "description": "Rock Hard Thorns\n\nWhen Attacked \nWhile Rock Shield is active and Korg is struck by a Medium, Heavy or Special Attack that makes contact, 1465 Physical Damage is inflicted to the opponent. This ability does not activate if the opponent’s hit deals Energy Damage and Mutant Champions take 25% less damage.\nWhile Rock Shield is active, Korg has a 65% chance to shrug off Debuffs and gain one Rock Shield charge for each Debuff shrugged off this way."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-korg/"
+    }
 }

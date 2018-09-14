@@ -125,3 +125,7 @@ export const DARK_ILLUMINATI = 'darkilluminati';
 export const ETERNAL_ADVERSARIES = 'eternaladversaries';
 export const HAIL_HYDRA = 'hailhydra';
 export const DARK_EMPOWERMENT = 'darkempowerment';
+export const METAL_MAYHEM = 'metalmayhem';
+export const XASSASSINS = 'xassassins';
+export const SEEING_RED = 'seeingred';
+export const DEADLY_PRESENCE = 'deadlypresence';

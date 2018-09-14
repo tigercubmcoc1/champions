@@ -148,6 +148,10 @@ const EFFECT_COLORS = {
     [ EFFECT.ETERNAL_ADVERSARIES ]: '#53f',
     [ EFFECT.HAIL_HYDRA ]: '#b10',
     [ EFFECT.DARK_EMPOWERMENT ]: '#333',
+    [ EFFECT.METAL_MAYHEM ]: '#aaa',
+    [ EFFECT.XASSASSINS ]: '#58d',
+    [ EFFECT.SEEING_RED ]: '#e00',
+    [ EFFECT.DEADLY_PRESENCE ]: '#70c',
 
 };
 

@@ -126,6 +126,10 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.ETERNAL_ADVERSARIES ]: [ 10, 12, 15 ],
     [ EFFECT.HAIL_HYDRA ]: [ 10, 12, 15 ],
     [ EFFECT.DARK_EMPOWERMENT ]: [ 10, 12, 15 ],
+    [ EFFECT.METAL_MAYHEM ]: [ 10, 12, 15 ],
+    [ EFFECT.XASSASSINS ]: [ 10, 12, 15 ],
+    [ EFFECT.SEEING_RED ]: [ 10, 12, 15 ],
+    [ EFFECT.DEADLY_PRESENCE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -256,6 +260,10 @@ const effects = [
     { uid: EFFECT.ETERNAL_ADVERSARIES },
     { uid: EFFECT.HAIL_HYDRA },
     { uid: EFFECT.DARK_EMPOWERMENT },
+    { uid: EFFECT.METAL_MAYHEM },
+    { uid: EFFECT.XASSASSINS },
+    { uid: EFFECT.SEEING_RED },
+    { uid: EFFECT.DEADLY_PRESENCE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -390,6 +398,10 @@ const effectIcons = {
     [ EFFECT.ETERNAL_ADVERSARIES ]: 'effect-bane-of-hells-kitchen',
     [ EFFECT.HAIL_HYDRA ]: 'effect-heal-block',
     [ EFFECT.DARK_EMPOWERMENT ]: 'effect-spirit-of-justice',
+    [ EFFECT.METAL_MAYHEM ]: 'effect-metal-mayhem',
+    [ EFFECT.XASSASSINS ]: 'effect-xassassins',
+    [ EFFECT.SEEING_RED ]: 'effect-seeing-red',
+    [ EFFECT.DEADLY_PRESENCE ]: 'effect-deadly-presence',
 };
 
 function effectIcon(uid) {

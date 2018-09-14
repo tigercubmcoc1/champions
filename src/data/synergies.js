@@ -462,6 +462,13 @@ const synergies = [
         ...fromStars(4, 6, [ CHAMPION.X23 ], EFFECT.CRITICAL_DAMAGE),
     ]),
 
+    ...fromId(CHAMPION.OMEGARED, [
+        ...fromStars(3, 5, [ CHAMPION.WOLVERINE, CHAMPION.COLOSSUS ], EFFECT.METAL_MAYHEM),
+        ...fromStars(3, 5, [ CHAMPION.DEADPOOLXFORCE, CHAMPION.SABRETOOTH ], EFFECT.XASSASSINS),
+        ...fromStars(3, 5, [ CHAMPION.REDHULK, CHAMPION.REDSKULL ], EFFECT.SEEING_RED),
+        ...fromStars(4, 5, [ CHAMPION.MEPHISTO, CHAMPION.VOID ], EFFECT.DEADLY_PRESENCE),
+    ]),
+
     ...fromId(CHAMPION.PSYLOCKEXFORCE, [
         ...fromStars(3, 5, [ CHAMPION.ARCHANGEL ], EFFECT.POWER_GAIN),
         ...fromStars(3, 5, [ CHAMPION.STORM ], EFFECT.PERFECT_BLOCK),
@@ -607,7 +614,7 @@ const synergies = [
     ...fromId(CHAMPION.KORG, [
         ...fromStars(3, 5, [ CHAMPION.THORRAGNAROK ], EFFECT.PIT_FIGHTERS),
         ...fromStars(3, 5, [ CHAMPION.HULKRAGNAROK ], EFFECT.GRANDMASTERS_CHAMPIONS),
-        ...fromStars(3, 5, [ CHAMPION.ICEMAN ], EFFECT.ELEMENTAL_HIDE),
+        ...fromStars(4, 5, [ CHAMPION.ICEMAN ], EFFECT.ELEMENTAL_HIDE),
         ...fromStars(3, 5, [ CHAMPION.LOKI, CHAMPION.HEIMDALL ], EFFECT.ARMOR),
         ...fromStars(3, 5, [ CHAMPION.HELA ], EFFECT.CRITICAL_RATE),
     ]),

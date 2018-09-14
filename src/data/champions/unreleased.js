@@ -6,7 +6,6 @@ export const UNRELEASED_CHAMPIONS = [
     // Tech
     // Mutant
     CHAMPION.EMMAFROST,
-    // CHAMPION.OMEGARED,
     CHAMPION.WEAPONX,
     // Skill
     // Science

@@ -423,6 +423,13 @@ const synergies = [
         ...fromStars(3, 6, [ CHAMPION.CABLE ], EFFECT.COMPLICATED),
     ]),
 
+    ...fromId(CHAMPION.EMMAFROST, [
+        ...fromStars(3, 5, [ CHAMPION.SENTINEL ], EFFECT.MEMORIES_OF_GENOSHA),
+        ...fromStars(3, 5, [ CHAMPION.COLOSSUS ], EFFECT.IMPENETRABLE_HIDE),
+        ...fromStars(3, 5, [ CHAMPION.CYCLOPS, CHAMPION.CYCLOPS90S ], EFFECT.ITS_COMPLICATED_2),
+        ...fromStars(3, 5, [ CHAMPION.PHOENIX ], EFFECT.PHOENIX_FORCE),
+    ]),
+
     ...fromId(CHAMPION.GAMBIT, [
         ...fromStars(3, 5, [ CHAMPION.X23 ], EFFECT.ARMOR),
         ...fromStars(4, 5, [ CHAMPION.MAGNETO ], EFFECT.CRITICAL_RATE),

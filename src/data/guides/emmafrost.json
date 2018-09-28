@@ -1,0 +1,34 @@
+{
+    "description": "Emma Frost is an incredibly powerful mutant, with a brilliant mind to match. She possesses staggering telepathic abilities, and is able to transform her body into organic diamond, rendering her almost indestructible. From White Queen of the Hellfire Club, to leader of the X-Men, she handles every challenge with grace, poise, and wit as sharp as a diamond.",
+    "gameplay": {
+        "description": "Emma Frost starts the fight in Diamond Form.\nWhen Emma Frost is at least one Power Level ahead of the Opponent, she deactivates Diamond Form and switches to Telepath Form.\nWhen the Opponent is at least one Power Level ahead of Emma Frost, she deactivates Telepath Form and switches to Diamond Form.\nWhen Emma Frost is inflicted by an Armor Break effect, she is forced into Telepath Form, and cannot swap to Diamond Form for the duration of the Armor Break.\n\nDiamond Form \nEmma Frost’s organic diamond is immune to all Stun, Bleed, Poison, Incinerate, Shock, Frostbite, Coldsnap, Fatigue, Concussion, and Exhaustion effects.\nWell-timed Blocks grant a Prowess Buff.\nWhen Emma Frost changes into Diamond Form, she replaces all temporary Prowess Buffs with new indefinite Prowess Buffs that increase Special Attack Damage by +10%. Prowess Buffs are capped at 5 in Diamond Form.\n10% chance that a Block reduces all damage.\n+1636.36 Armor\n+352.94 Block Proficiency\n+1636.36 Physical Resistance\n+2000 Critical Resistance Rating\nOpponents have -181.82 Critical Damage Rating\n\nTelepath Form  \nWhen Emma Frost changes into Telepath Form, she replaces all indefinite Prowess Buffs with new Prowess Buffs that increase Special Attack Damage by +10% and last 7 seconds. Prowess Buffs are capped at 10 in Telepath form.\nCritical hits grant a Prowess Buff, and refresh all existing Prowess Buffs.\nEmma Frost is able to read her opponent’s thoughts, allowing all Emma Frost’s attacks to ignore Evade.\n+222.22 Critical Rate for each active Prowess effect.\n+40.82 Critical Damage Rating for each active Prowess effect.\n\nSpecial Attacks\nEmma Frost switches to Telepath form for the duration of the attack.\nOnce Emma Frost finishes a Special Attack, all Prowess Buffs are removed.\nThis attack deals True Damage, ignoring all of the opponent’s Armor."
+    },
+    "attack": {
+        "heavy": "Diamond Form: Generate 50% additional Power. Opponents generate 80% less Power from this attack. – Telepath Form: 60% chance to Taunt the Opponent for 5 seconds. Opponents that are Taunted have their Attack reduced by 40% and have a 70% higher chance to activate a Special Attack. These Debuffs are removed if Emma Frost switches to Diamond Form.",
+        "note": "Emma Frost’s Heavy attacks make it easier to transition into Telepath Form, and then stay there. In Diamond Form, she will generate more Power than the opponent. In Telepath Form, Opponents are Taunted into using their Special Attacks. In both cases, Emma Frost will likely end up with more Power than the opponent, triggering the swap into Telepath Form."
+    },
+    "specials": {
+        "1": {
+            "description": "Mental Assault – Emma Frost assails the Opponent’s mind directly with a pair of telepathic strikes.",
+            "note": "100% chance to inflict Power Sting for 8 seconds. An opponent with Power Sting takes 1094.4 Direct Damage when activating a Special Attack."
+        },
+        "2": {
+            "description": "Brainstorm – Emma Frost launches a psychic blast at the opponent, following it up with a direct mental attack.",
+            "note": "100% chance to inflict Concussion for 8 seconds, reducing the opponent’s Ability Accuracy by 50%."
+        },
+        "3": {
+            "description": "Dominate the Mind – Emma Frost takes complete control of the Opponent’s mind, subjecting them to extreme mental trauma before giving them a harsh return to reality.",
+            "note": "100% chance to reduce the opponent’s Power Gain from all sources by 75% for 8 seconds."
+        }
+    },
+    "signature": {
+        "description": "White Queen\nWhen Telepath Form is active and Emma Frost would lose more than 15% of her Max Health from a single source, she activates Diamond Form for 3 seconds to reduce the damage. This ability activates before checking Armor and Resistances.\nWhen Emma Frost uses a Special Attack, the opponent’s controls are reversed until just after the end of the attack",
+        "note": "Emma Frost’s Signature Ability powers up both her defensive and offensive abilities. The first ability swaps her into Diamond Form before she would take too much damage, so that her increased defenses can reduce the effectiveness of the attack. The second ability makes it incredibly difficult to dodge Emma Frost’s Special Attacks, and the effect lasts just long enough to also interfere with the opponent’s follow-up attack. However, some Champions like Magneto and Juggernaut are protected from the reversed controls by psychic shielding in their helmets."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-emma-frost/"
+    },
+    "youtube": "4R_VoFYhbLo"
+}

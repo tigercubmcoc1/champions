@@ -129,3 +129,7 @@ export const METAL_MAYHEM = 'metalmayhem';
 export const XASSASSINS = 'xassassins';
 export const SEEING_RED = 'seeingred';
 export const DEADLY_PRESENCE = 'deadlypresence';
+export const MEMORIES_OF_GENOSHA = 'memoriesofgenosha';
+export const IMPENETRABLE_HIDE = 'impenetrablehide';
+export const ITS_COMPLICATED_2 = 'itscomplicatedtwo';
+export const PHOENIX_FORCE = 'phoenixforce';

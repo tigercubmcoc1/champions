@@ -323,6 +323,10 @@
     "effect-xassassins-type": "X-Assassins (Unique Synergy)",
     "effect-seeingred-type": "Seeing Red (Unique Synergy)",
     "effect-deadlypresence-type": "Deadly Presence (Unique Synergy)",
+    "effect-memoriesofgenosha-type": "Memories of Genosha (Unique Synergy)",
+    "effect-impenetrablehide-type": "Impenetrable Hide (Unique Synergy)",
+    "effect-itscomplicatedtwo-type": "It's Complicated (Unique Synergy)",
+    "effect-phoenixforce-type": "Phoenix Force (Unique Synergy)",
 
     "effect-itscomplicated-name": "It's Complicated",
     "effect-mutantagenda-name": "Mutant Agenda",
@@ -441,6 +445,10 @@
     "effect-xassassins-name": "X-Assassins",
     "effect-seeingred-name": "Seeing Red",
     "effect-deadlypresence-name": "Deadly Presence",
+    "effect-memoriesofgenosha-name": "Memories of Genosha",
+    "effect-impenetrablehide-name": "Impenetrable Hide",
+    "effect-itscomplicatedtwo-name": "It's Complicated",
+    "effect-phoenixforce-name": "Phoenix Force",
 
     "effect-attack-description": "Increases damage on all attacks.",
     "effect-critrate-description": "Increases the chance for critical hit.",
@@ -573,6 +581,10 @@
     "effect-xassassins-description": "Omega Red: 30% faster rate to inflict Death Spores and 30% longer rate for Death Spores to be removed. - Deadpool: +25% Power Rate against Bleeding Opponents. - Sabertooth: 30% chance Basic Claw hits inflict Bleed, dealing 40% of Attack as Direct Damage over 4 seconds.",
     "effect-seeingred-description": "Omega Red: Well Timed Blocks have a 100% chance to inflict 1 Death Spore up to a max of 30 Spores total. - Red Skull: While under 1 Bar of Power, Charging Red Skull’s Heavy Attack grants an Unstoppable Buff for 2 seconds. If Hit while Unstoppable, the Buff is removed and Red Skull immediately executes the Heavy Attack. - Red Hulk:+25% Power Rate against Incinerated Opponents.",
     "effect-deadlypresence-description": "Omega Red: The Death Field deals 10% more damage. - Mephisto: The Aura of Incineration deals 15% more damage. - Void: Intimidating Presence debuffs deal 10% more damage.",
+    "effect-memoriesofgenosha-description": "Emma Frost: +15% Attack Rating in Diamond Form. - Sentinel: +4 Physical Resistance for each Analysis Charge.",
+    "effect-impenetrablehide-description": "Emma Frost: Emma Frost switches to Diamond Form when she and the Opponent are in the same bar of Power. - Colossus: +15% increased Power Gain for each Armor Up Buff.",
+    "effect-itscomplicatedtwo-description": "Emma Frost: Emma Frost can strike with Critical Hits even while the opponent is Blocking. - Cyclops (New Xavier School) and Cyclops (Blue Team): +10% increased Power Gain.",
+    "effect-phoenixforce-description": "Emma Frost: Whenever Emma Frost would gain one Prowess Buff, she gains two instead. - Phoenix: Entering Overload does not consume Fury Buffs. When Phoenix stops Overloading, all Fury Buffs are removed.",
 
     "type-cosmic-name": "Cosmic",
     "type-tech-name": "Tech",

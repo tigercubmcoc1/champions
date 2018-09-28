@@ -130,6 +130,10 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.XASSASSINS ]: [ 10, 12, 15 ],
     [ EFFECT.SEEING_RED ]: [ 10, 12, 15 ],
     [ EFFECT.DEADLY_PRESENCE ]: [ 10, 12, 15 ],
+    [ EFFECT.MEMORIES_OF_GENOSHA ]: [ 10, 12, 15 ],
+    [ EFFECT.IMPENETRABLE_HIDE ]: [ 10, 12, 15 ],
+    [ EFFECT.ITS_COMPLICATED_2 ]: [ 10, 12, 15 ],
+    [ EFFECT.PHOENIX_FORCE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -264,6 +268,10 @@ const effects = [
     { uid: EFFECT.XASSASSINS },
     { uid: EFFECT.SEEING_RED },
     { uid: EFFECT.DEADLY_PRESENCE },
+    { uid: EFFECT.MEMORIES_OF_GENOSHA },
+    { uid: EFFECT.IMPENETRABLE_HIDE },
+    { uid: EFFECT.ITS_COMPLICATED_2 },
+    { uid: EFFECT.PHOENIX_FORCE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -402,6 +410,10 @@ const effectIcons = {
     [ EFFECT.XASSASSINS ]: 'effect-xassassins',
     [ EFFECT.SEEING_RED ]: 'effect-seeing-red',
     [ EFFECT.DEADLY_PRESENCE ]: 'effect-deadly-presence',
+    [ EFFECT.MEMORIES_OF_GENOSHA ]: 'effect-perfect-block',
+    [ EFFECT.IMPENETRABLE_HIDE ]: 'type-mutant',
+    [ EFFECT.ITS_COMPLICATED_2 ]: 'effect-power',
+    [ EFFECT.PHOENIX_FORCE ]: 'effect-avengers-tryout',
 };
 
 function effectIcon(uid) {

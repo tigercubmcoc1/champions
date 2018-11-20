@@ -35,6 +35,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.BLACKBOLT }, [ 2, 3, 4, 6 ]),
         ...championStars({ uid: CHAMPION.CAPTAINMARVEL }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.CARNAGE }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.CHAMPION }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.CORVUSGLAIVE }, [ 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.DARKPHOENIX }, [ 5 ]),
         ...championStars({ uid: CHAMPION.DRAX }, [ 2, 3, 4, 5, 6 ]),
@@ -55,6 +56,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.THANOS }, [ 4 ]),
         ...championStars({ uid: CHAMPION.THOR }, [ 2, 3, 4 ]),
         ...championStars({ uid: CHAMPION.VENOM }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.VENOMDUCK }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.VENOMPOOL }, [ 2, 3, 4, 5 ]),
     ]),
     ...typeId(TYPE.TECH, [
@@ -112,6 +114,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.X23 }, [ 2, 3, 4, 5 ]),
     ]),
     ...typeId(TYPE.SKILL, [
+        ...championStars({ uid: CHAMPION.AEGON }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.AGENTVENOM }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.BLACKPANTHER }, [ 1, 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.BLACKPANTHERCIVILWAR }, [ 2, 3, 4, 5 ]),
@@ -175,6 +178,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.MEPHISTO }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.MORNINGSTAR }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.SCARLETWITCH }, [ 1, 2, 3, 4 ]),
+        ...championStars({ uid: CHAMPION.SYMBIOTESUPREME }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.THORJANEFOSTER }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.UNSTOPPABLECOLOSSUS }, [ 2, 3, 4, 5 ]),
     ]),

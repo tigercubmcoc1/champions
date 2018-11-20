@@ -3,6 +3,7 @@ export const ANGELA = 'angela';
 export const BLACKBOLT = 'blackbolt';
 export const CAPTAINMARVEL = 'captainmarvel';
 export const CARNAGE = 'carnage';
+export const CHAMPION = 'champion';
 export const CORVUSGLAIVE = 'corvusglaive';
 export const DARKPHOENIX = 'darkphoenix';
 export const DRAX = 'drax';
@@ -25,6 +26,7 @@ export const SUPERIORIRONMAN = 'superiorironman';
 export const THANOS = 'thanos';
 export const THOR = 'thor';
 export const VENOM = 'venom';
+export const VENOMDUCK = 'venomduck';
 export const VENOMPOOL = 'venompool';
 // Tech
 export const CIVILWARRIOR = 'civilwarrior';
@@ -79,6 +81,7 @@ export const WOLVERINE = 'wolverine';
 export const WOLVERINEOLDMAN = 'wolverineoldman';
 export const X23 = 'x23';
 // Skill
+export const AEGON = 'aegon';
 export const AGENTVENOM = 'agentvenom';
 export const BLACKPANTHER = 'blackpanther';
 export const BLACKPANTHERCIVILWAR = 'blackpanthercivilwar';
@@ -140,6 +143,7 @@ export const MEPHISTO = 'mephisto';
 export const MORNINGSTAR = 'morningstar';
 export const SCARLETWITCH = 'scarletwitch';
 export const SCARLETWITCHULTIMATE = 'scarletwitchultimate';
+export const SYMBIOTESUPREME = 'symbiotesupreme';
 export const THORJANEFOSTER = 'thorjanefoster';
 export const UNSTOPPABLECOLOSSUS = 'unstoppablecolossus';
 // Universal

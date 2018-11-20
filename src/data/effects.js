@@ -134,6 +134,10 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.IMPENETRABLE_HIDE ]: [ 10, 12, 15 ],
     [ EFFECT.ITS_COMPLICATED_2 ]: [ 10, 12, 15 ],
     [ EFFECT.PHOENIX_FORCE ]: [ 10, 12, 15 ],
+    [ EFFECT.TOUGH_BRAWLERS ]: [ 10, 12, 15 ],
+    [ EFFECT.PERSISTENT_FORCE ]: [ 10, 12, 15 ],
+    [ EFFECT.COMBO_FIGHTER ]: [ 10, 12, 15 ],
+    [ EFFECT.DAVID_AND_GOLIATH ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -272,6 +276,10 @@ const effects = [
     { uid: EFFECT.IMPENETRABLE_HIDE },
     { uid: EFFECT.ITS_COMPLICATED_2 },
     { uid: EFFECT.PHOENIX_FORCE },
+    { uid: EFFECT.COMBO_FIGHTER },
+    { uid: EFFECT.PERSISTENT_FORCE },
+    { uid: EFFECT.TOUGH_BRAWLERS },
+    { uid: EFFECT.DAVID_AND_GOLIATH },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -414,6 +422,10 @@ const effectIcons = {
     [ EFFECT.IMPENETRABLE_HIDE ]: 'type-mutant',
     [ EFFECT.ITS_COMPLICATED_2 ]: 'effect-power',
     [ EFFECT.PHOENIX_FORCE ]: 'effect-avengers-tryout',
+    [ EFFECT.TOUGH_BRAWLERS ]: 'effect-unstoppable',
+    [ EFFECT.PERSISTENT_FORCE ]: 'effect-believer',
+    [ EFFECT.COMBO_FIGHTER ]: 'effect-attack',
+    [ EFFECT.DAVID_AND_GOLIATH ]: 'effect-attack',
 };
 
 function effectIcon(uid) {

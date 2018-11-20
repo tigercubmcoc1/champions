@@ -133,3 +133,7 @@ export const MEMORIES_OF_GENOSHA = 'memoriesofgenosha';
 export const IMPENETRABLE_HIDE = 'impenetrablehide';
 export const ITS_COMPLICATED_2 = 'itscomplicatedtwo';
 export const PHOENIX_FORCE = 'phoenixforce';
+export const TOUGH_BRAWLERS = 'toughbrawlers';
+export const PERSISTENT_FORCE = 'persistentforce';
+export const COMBO_FIGHTER = 'combofighter';
+export const DAVID_AND_GOLIATH = 'davidandgoliath';

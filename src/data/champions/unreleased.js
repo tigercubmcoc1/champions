@@ -7,6 +7,7 @@ export const UNRELEASED_CHAMPIONS = [
     // Mutant
     CHAMPION.WEAPONX,
     // Skill
+    CHAMPION.AEGON,
     // Science
     // Mystic
     // Universal

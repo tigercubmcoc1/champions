@@ -84,7 +84,7 @@
     "node-sass": "^4.10.0",
     "opn": "^4.0.2",
     "phantomjs-prebuilt": "^2.1.16",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^5.0.0",
     "simple-hot-loader": "git://github.com/WinstonFassett/simple-hot-loader",
     "string-to-stream": "^1.1.0",
     "style-loader": "^0.13.0",

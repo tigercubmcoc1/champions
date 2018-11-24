@@ -138,6 +138,9 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.PERSISTENT_FORCE ]: [ 10, 12, 15 ],
     [ EFFECT.COMBO_FIGHTER ]: [ 10, 12, 15 ],
     [ EFFECT.DAVID_AND_GOLIATH ]: [ 10, 12, 15 ],
+    [ EFFECT.COMBO_BREAKERS ]: [ 10, 12, 15 ],
+    [ EFFECT.WARRIORS_OF_THE_STARS ]: [ 10, 12, 15 ],
+    [ EFFECT.FRIENDS ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -280,6 +283,9 @@ const effects = [
     { uid: EFFECT.PERSISTENT_FORCE },
     { uid: EFFECT.TOUGH_BRAWLERS },
     { uid: EFFECT.DAVID_AND_GOLIATH },
+    { uid: EFFECT.COMBO_BREAKERS },
+    { uid: EFFECT.WARRIORS_OF_THE_STARS },
+    { uid: EFFECT.FRIENDS },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -426,6 +432,9 @@ const effectIcons = {
     [ EFFECT.PERSISTENT_FORCE ]: 'effect-believer',
     [ EFFECT.COMBO_FIGHTER ]: 'effect-attack',
     [ EFFECT.DAVID_AND_GOLIATH ]: 'effect-attack',
+    [ EFFECT.COMBO_BREAKERS ]: 'effect-like-old-days',
+    [ EFFECT.WARRIORS_OF_THE_STARS ]: 'effect-attack',
+    [ EFFECT.FRIENDS ]: 'effect-critical-rate',
 };
 
 function effectIcon(uid) {

@@ -137,3 +137,6 @@ export const TOUGH_BRAWLERS = 'toughbrawlers';
 export const PERSISTENT_FORCE = 'persistentforce';
 export const COMBO_FIGHTER = 'combofighter';
 export const DAVID_AND_GOLIATH = 'davidandgoliath';
+export const COMBO_BREAKERS = 'combobreakers';
+export const WARRIORS_OF_THE_STARS = 'warriorsofthestars';
+export const FRIENDS = 'friends';

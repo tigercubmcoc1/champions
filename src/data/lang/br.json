@@ -325,6 +325,9 @@
     "effect-persistentforce-name": "Força Persistente",
     "effect-combofighter-name": "Lutador de Combo",
     "effect-davidandgoliath-name": "Davi e Golias",
+    "effect-combobreakers-name": "Destruidores de Combos",
+    "effect-warriorsofthestars-name": "Guerreiros das Estrelas",
+    "effect-friends-name": "Amigos",
 
     "effect-attack-type": "Ataque",
     "effect-stun-type": "Atordoamento",
@@ -461,6 +464,9 @@
     "effect-persistentforce-type": "Força Persistente (Sinergia Única)",
     "effect-combofighter-type": "Lutador de Combo (Sinergia Única)",
     "effect-davidandgoliath-type": "Davi e Golias (Sinergia Única)",
+    "effect-combobreakers-type": "Destruidores de Combos (Unique Synergy)",
+    "effect-warriorsofthestars-type": "Guerreiros das Estrelas (Unique Synergy)",
+    "effect-friends-type": "Amigos (Unique Synergy)",
 
     "effect-attack-description": "Aumenta o dano de todos os ataques.",
     "effect-stun-description": "Chance de Atordoar nos Ataques Especiais",
@@ -598,6 +604,9 @@
     "effect-persistentforce-description": "Campeão do Universo: Quando o Campeão do Universo tem 3 ou mais Cargas Persistentes, ele começa a luta com um Bônus Indestrutível, que desconsidera todo o dano iminente por 8 segundos. - Mefisto: +15% de Avaliação de Ataque para cada Carga Persistente. - Vigilante: +12% de Avaliação de Ataque para cada Distorção da Realidade.",
     "effect-combofighter-description": "Campeão do Universo: Recebe uma Carga Persistente por cada 20 acertos em seu Medidor de Combo. - Thor (Ragnarok): +0,80% de Avaliação de Ataque por cada acerto em seu Medidor de Combo. Máx.: 100 acertos.",
     "effect-davidandgoliath-description": "Ægon: Ægon recebe +20% de Avaliação de Ataque enquanto estiver lutando com Campeões maiores. - Campeão do Universo: O Campeão do Universo recebe +20% de Avaliação de Ataque enquanto estiver lutando com Campeões menores.",
+    "effect-combobreakers-description": "Ægon, Proxima Midnight, Senhor das Estrelas: Ativam o Escudo de Combo por 5 segundos quando estes campeões estão prestes a perder o Medidor de Combo. Esta habilidade se ativa apenas 1 vez por luta.",
+    "effect-warriorsofthestars-description": "Ægon, Angela, Proxima Midnight, Capitã Marvel: +25% de Potencia para efeitos de Fúria.",
+    "effect-friends-description": "Ægon: Bloqueios Perfeitos guarantem que o próximo acerto de Aegon será crítico. - Vigilante: +200 de Taxa de Crítico e Dano Crítico para cada Distorção de Realidade.",
 
     "type-cosmic-name": "Cósmico",
     "type-tech-name": "Tecnológico",

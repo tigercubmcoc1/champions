@@ -335,6 +335,9 @@
     "effect-persistentforce-type": "Persistent Force (Unique Synergy)",
     "effect-combofighter-type": "Combo Fighter (Unique Synergy)",
     "effect-davidandgoliath-type": "David and Goliath (Unique Synergy)",
+    "effect-combobreakers-type": "Combo Breakers (Unique Synergy)",
+    "effect-warriorsofthestars-type": "Warriors of the Stars (Unique Synergy)",
+    "effect-friends-type": "Friends (Unique Synergy)",
 
     "effect-itscomplicated-name": "It's Complicated",
     "effect-mutantagenda-name": "Mutant Agenda",
@@ -461,6 +464,9 @@
     "effect-persistentforce-name": "Persistent Force",
     "effect-combofighter-name": "Combo Fighter",
     "effect-davidandgoliath-name": "David and Goliath",
+    "effect-combobreakers-name": "Combo Breakers",
+    "effect-warriorsofthestars-name": "Warriors of the Stars",
+    "effect-friends-name": "Friends",
 
     "effect-attack-description": "Increases damage on all attacks.",
     "effect-critrate-description": "Increases the chance for critical hit.",
@@ -601,6 +607,9 @@
     "effect-persistentforce-description": "The Champion: When The Champion has 3 or more Persistent Charges, he starts the fight with an Indestructible Buff, ignoring all incoming damage for 8 seconds. - Mephisto: +15% Attack Rating for each Persistent Charge. - Sentry: +12% Attack Rating for each Reality Warp.",
     "effect-combofighter-description": "The Champion: Gains a Persistent Charge for every 20 hits in his Combo Meter. - Thor (Ragnarok): +0.8% Attack Rating per hit in the Combo Meter. Max: 100 hits.",
     "effect-davidandgoliath-description": "Ægon: Ægon gets +20% Attack Rating while fighting larger Champions. - The Champion: The Champion gets +20% Attack Rating while fighting smaller Champions.",
+    "effect-combobreakers-description": "Ægon, Proxima Midnight, Star-Lord: Activates Combo Shield for 5 seconds when this Champion would lose their Combo Meter. This ability activates only 1 time per fight.",
+    "effect-warriorsofthestars-description": "Ægon, Angela, Proxima Midnight, Captain Marvel: +25% Potency to Fury effects.",
+    "effect-friends-description": "Ægon: Well-Timed Blocks guarantee Ægon’s next hit will be a Critical Hit. - Sentry: +200 Critical Rate and Critical Damage Rate for each Reality Warp.",
 
     "type-cosmic-name": "Cosmic",
     "type-tech-name": "Tech",

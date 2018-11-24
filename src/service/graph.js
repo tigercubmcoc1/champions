@@ -160,6 +160,9 @@ const EFFECT_COLORS = {
     [ EFFECT.PERSISTENT_FORCE ]: '#05f',
     [ EFFECT.COMBO_FIGHTER ]: '#fb0',
     [ EFFECT.DAVID_AND_GOLIATH ]: '#f33',
+    [ EFFECT.COMBO_BREAKERS ]: '#369',
+    [ EFFECT.WARRIORS_OF_THE_STARS ]: '#51f',
+    [ EFFECT.FRIENDS ]: '#3af',
 
 };
 

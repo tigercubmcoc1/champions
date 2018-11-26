@@ -1,0 +1,35 @@
+{
+    "description": "Born to a pacifist race forced into slavery by the Master of the first Contest of Champions, Ægon always defied the strict code of nonviolence amongst his kin. He secretly trained as a gladiator, inspired by love and duty to win the Contest and free his people. Against all odds, he fought his way to the final battle against the Master. Ægon was victorious, but the battle cost him his arm, and the life of his beloved. His tragedy was complete when his own people cast him out as a pariah and left him behind in The Battlerealm. As Champion of The Contest, Ægon’s prize was the Iso-Belt, a powerful artifact that grants him the ability to manifest a phantom limb, and other willpower constructs, to replace his missing arm. However, the full extent of the belt’s powers are still unknown.",
+    "youtube": "fl_zG3Pzvk0",
+    "gameplay": {
+        "description": "Base Critical Rating is 0. Critical Rating is increased by +30.46 for each hit of the Combo Meter.\nAny Critical Rating Ægon would receive from a source other than his Combo Meter is converted directly into Critical Damage Rating.\n\nCombo Meter Abilities \nÆgon unlocks additional Passive Abilities as his Combo Meter increases.\n5 Hits – Critical Hits have a 40% chance to shrug off one Debuff.\n10 Hits – Critical Damage Rating is increased by +12.07 for each hit of the Combo Meter.\n20 Hits – When the Opponent Evades, Ægon activates a Combo Shield for 5 second(s) and has a 45% chance to become Unstoppable for 2 second(s).\n30 Hits – Ægon can strike with Critical Hits even while the Opponent is Blocking.\n50 Hits – Charging a Heavy Attack grants Ægon 1 second(s) of Unstoppable. Cannot be activated while his Heavy Attack ability is on cooldown.\n75 Hits – Opponents have -85% Block Proficiency when Ægon strikes with a Critical Hit\n100 Hits – Critical Hits have a 100% chance to shrug off one Debuff.\n150 Hits – Critical Hits grant 0.75 seconds of True Accuracy, allowing him to ignore Auto Block and all Evade effects. This stacks up to 3 times.\n200 Hits – Critical Hits ignore 100% of the Opponent’s Physical Resistance\n300 Hits – Critical Hits grant a Fury Buff, increasing Attack by +270.2 for 1 second(s). This stacks up to 3 times.\n500 Hits – Critical Hits cause Opponents to suffer -100% reduced Defensive Ability Accuracy for Ægon’s next hit\n750 Hits – Critical Hits grant 1.50 seconds of Unstoppable and Combo Shield. This stacks up to 3 times.\n1000 Hits – Critical Hits cause Ægon’s next Hit to be Unblockable\n\nWhen Attacked \n100% chance for Fury, increasing your Attack by 675.5 for 6 seconds.\nGain 1 additional Fury Buff for every 50 hits on the Combo Meter, then refresh those Buffs. Ægon can have up to 6 Fury Buffs total.",
+        "note": "Ægon unlocks many different abilities as his combo meter rises, increasing his strength in different ways. Most of these abilities increase the strength of his Critical Hits, or grant him additional abilities when he lands a Critical Hit. However, there are also a few important abilities to make note of. The abilities he unlocks at 20 and 150 hits improve his ability to attack opponents with Evade, which would otherwise be an excellent counter to Ægon. At 10 and 300 hits he is able to significantly increase his damage. And at 50 hits, he becomes Unstoppable while charging his Heavy Attack, which allows him to more easily land Heavy Attacks."
+    },
+    "attack": {
+        "heavy": "While Heavy Attack charging, Ægon activates Combo Shield, and cannot lose more than 5% of his maximum Health from a single source, other than Special Attacks, for 6 seconds. Once this ability expires, it goes into cooldown and cannot be reactivated for 15 second(s). Landing a Heavy Attack reduces the cooldown of this ability by 3 second(s).",
+        "note": "This attack has two main uses. First, if you ever find yourself in a difficult spot and about to lose your Combo Meter, you can quickly charge a heavy attack to keep your Combo. Its other use is to give Ægon a Combo Shield he can activate at will, in turn allowing him to take a hit and gain Fury without losing him Combo Meter."
+    },
+    "specials": {
+        "1": {
+            "description": "ISO Discharge – Ægon releases the energy in his phantom limb as a blast of cosmic energy.",
+            "note": "This Special Attack has no additional effects, but the blast of energy is able to hit the Opponent multiple times, which is useful for building up Ægon’s Combo Meter."
+        },
+        "2": {
+            "description": "Spear of the Forsaken – Ægon knocks back his Opponent, invokes his phantom limb holding a spear, then attacks with a series of slashes and strikes.",
+            "note": "100% chance to inflict Bleed over 6 seconds, dealing 135.1 direct damage for each hit of the Combo Meter, up to 60 hits. Developer Note: This attack is an excellent source of damage, especially once Ægon has reached 60 hits, and has one or more Fury effects from being struck."
+        },
+        "3": {
+            "description": "Beyond Limits – Ægon charges up his Iso-belt beyond his own limits, and releases the energy in a violent blast, tearing up the ground and sending his Opponent flying",
+            "note": "100% chance to Stun the Opponent for 1 second(s). The duration of the Stun increases by 0.10 second(s) for each hit of the Combo Meter, up to 7 second(s) total. Developer Note: The stun from this ability reaches its maximum duration once Ægon’s Combo Meter reaches 60. At that point, a 7 second stun is long enough to get a lot of hits in on the opponent."
+        }
+    },
+    "signature": {
+        "description": "At the end of the fight, Ægon adds 65% of his final Combo Meter into his Persistent Combo, up to 999 hits total. Ægon’s abilities that count the Combo Meter add his Persistent Combo on top of it.",
+        "note": "This is key to getting Ægon’s Combo Meter up high enough to unlock his final Combo Meter Abilities. In modes like Realm of Legends, it’s possible to store over 100 hits into Persistent Combo every fight."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-aegon/"
+    }
+}

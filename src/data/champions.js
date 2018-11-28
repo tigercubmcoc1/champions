@@ -159,7 +159,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.SPIDERMAN }, [ 1, 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.SPIDERMANMORALES }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.VOID }, [ 3, 4, 5, 6 ]),
-        ...championStars({ uid: CHAMPION.WASP }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.WASP }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.YELLOWJACKET }, [ 2, 3, 4, 5, 6 ]),
     ]),
     ...typeId(TYPE.MYSTIC, [

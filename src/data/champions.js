@@ -61,6 +61,7 @@ const champions = [
     ]),
     ...typeId(TYPE.TECH, [
         ...championStars({ uid: CHAMPION.CIVILWARRIOR }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.DARKHAWK }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.DROCTOPUS }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.GREENGOBLIN }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.GHOST }, [ 3, 4, 5, 6 ]),
@@ -133,6 +134,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.KORG }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.MASACRE }, [ 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.MOONKNIGHT }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.NIGHTTHRASHER }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.PUNISHER }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.TASKMASTER }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.THORRAGNAROK }, [ 2, 3, 4, 5, 6 ]),

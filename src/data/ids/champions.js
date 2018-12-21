@@ -30,6 +30,7 @@ export const VENOMDUCK = 'venomduck';
 export const VENOMPOOL = 'venompool';
 // Tech
 export const CIVILWARRIOR = 'civilwarrior';
+export const DARKHAWK = 'darkhawk';
 export const DROCTOPUS = 'docock';
 export const GREENGOBLIN = 'greengoblin';
 export const GHOST = 'ghost';
@@ -99,6 +100,7 @@ export const KILLMONGER = 'killmonger';
 export const KINGPIN = 'kingpin';
 export const MASACRE = 'masacre';
 export const MOONKNIGHT = 'moonknight';
+export const NIGHTTHRASHER = 'nightthrasher';
 export const PUNISHER = 'punisher';
 export const TASKMASTER = 'taskmaster';
 export const THORRAGNAROK = 'thorragnarok';

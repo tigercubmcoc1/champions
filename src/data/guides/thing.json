@@ -1,0 +1,30 @@
+{
+    "description": "Benjamin Grimm, also known as “Thing”, served as the pilot on the starship expedition led by Reed Richards. During the voyage, the ship encountered unprecedented levels of radiation, granting the crew extraordinary powers. Ben gained incredible physical strength, and his body was covered in a flexible, rock-like hide. After returning to earth, the team banded together to form the Fantastic Four. It’s clobberin’ time!",
+    "gameplay": {
+        "description": "Passive \nImmune to Bleed, Shock, Armor Break, Armor Shattered, Nullify, Stagger, and Fate Seal effects.\nGenerate 1 Rock Stack when Struck.\nGenerate 1 Rock Stack when Blocking a Hit.\nGenerate 4 additional Rock Stacks with a Well-Timed Block.\nThing removes 3 Rock Stack(s) when he would receive a Bleed. This can’t occur more than once every 2 second(s).\nDeveloper Note: Rock Stacks are Thing’s main ability. Learning how they’re generated and making the best use of them is key to both fighting as Thing, and fighting against him.\n\nPassive – Rock Stack \nRock Stacks last indefinitely, up to 15 Stacks. Any additional Rock Stacks last for 5 seconds. Rock Stacks are capped at 20.\nFor each Rock Stack, Physical and Energy Resistance is increased by +127.66.\nWhenever a Rock Stack is removed or the duration expires, Thing gains a permanent Passive Fury, granting +36.81 Attack. These Fury effects are capped at 60.\nDeveloper Note: The fact that Thing’s Rock Stacks have a duration once he reaches 15 Stacks is actually beneficial. When those Rock Stacks expire, they’ll give Thing a passive Fury for the rest of the fight.\n\nWhen Attacked \nWhen Thing is Hit and he has 15 or more Rock Stacks, he becomes Unstoppable for 5 second(s) and removes 3 Rock Stack(s) instead of generating any.\nDeveloper Note: This is the main ability to keep in mind when fighting against Thing. As soon as he has 15 Rock Stacks, any additional hit will grant him Unstoppable. This takes effect immediately, so Thing is able to strike back, even if his opponent is still swinging.\n\nSpecial Attacks \nFor the next 8 second(s), Thing’s attacks Nullify all Unstoppable buffs when striking the Opponent.\nDeveloper Note: Juggernaut might be an Unstoppable force, but Thing is an immovable object."
+    },
+    "specials": {
+        "1": {
+            "description": "Fists of Stone – Thing rips up the ground, then pummels the Opponent with a pair of boulder boxing gloves.",
+            "note": "For each Rock Stack, Damage increased by +61.35. If Thing has 15 or more Rock Stacks, he removes all Rock Stacks and this attack is Unblockable. If Thing has 20 Rock Stacks, inflict Weakness decreasing the Opponent’s Attack by 70% for 6 second(s). Developer Note: All of Thing’s Special Attacks gain an additional ability when he has 15 Rock Stacks, and another when he has 20 Rock Stacks. These also remove all of his Rock Stacks, but doing so will give him a passive Fury for the rest of the fight for each Rock Stack removed."
+        },
+        "2": {
+            "description": "Rush Down – Thing charges forward, then jumps high in the air to cannonball his Opponent.",
+            "note": "Stagger the opponent, preventing them from gaining their next Buff for 6 seconds. If Thing has 15 or more Rock Stacks, he removes all Rock Stacks and this attack is Unblockable. If Thing has 20 Rock Stacks, Stun the Opponent for 4.50 second(s)."
+        },
+        "3": {
+            "description": "It’s Clobberin’ Time! – Thing crushes the Opponent with a boulder, then rolls them into a rock-burrito and flings them into the wall.",
+            "note": "Thing is Unblockable and Unstoppable for 8 second(s). If Thing has 15 or more Rock Stacks, he removes all Rock Stacks and he gains a Passive Fury for 8 second(s), increasing his Attack by +490.8. If Thing has 20 Rock Stacks, all his Fury effects are +100% stronger for 8 second(s). Developer Note: The ability Thing gains at 20 Rock Stacks improves all his Fury effects, including the Fury he gains at 15 Rock Stacks, all of the passive Fury he’s gained so far from removing Rock Stacks, and any new Fury gained from removing Rock Stacks while the ability is active."
+        }
+    },
+    "signature": {
+        "description": "Unbreakable Spirit:\n\nWhile Heavy Attack Charging \nThing activates Protection for the next 5 second(s), reducing all damage by 70%, plus +1% for each Rock Stack.\nOnce this ability finishes, it goes into cooldown and cannot be reactivated for 20 seconds.\nUnbreakable Spirit will also trigger when Thing is Stunned.\nUnbreakable Spirit will also trigger when the Opponent would deal 300% or more of their Attack Rating with a Basic Attack, or 300% or more of their Attack Rating with a Special Attack Hit. This trigger ignores the ability cooldown.",
+        "note": "Thing’s signature ability adds another layer to his defensive capabilities. The protection granted by this ability significantly reduces incoming damage from all sources, and it can be activated by charging a Heavy Attack, or when Thing is stunned by something like the Parry mastery. Lastly, if he’s ever up against a Champion that consistently does staggering amounts of damage, it’s entirely possible for this ability to be active for the majority of the fight."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-thing/"
+    },
+    "youtube": "Y7KrE2TsLZw"
+}

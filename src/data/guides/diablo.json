@@ -1,0 +1,32 @@
+{
+    "description": "An unrivaled alchemist and a member of Spanish nobility, Esteban Corazon de Ablo uses his arcane concoctions to lengthen his life, incinerate his foes and more. Driven by an unending desire to become as powerful as a god, Diablo now finds himself in the Contest hoping to secure the ISO-Sphere for his continued experimentation. Ambition pushes the Spanish nobleman to acquire power at all costs, and very few heroes can, or will, stand in his way.",
+    "gameplay": {
+        "description": "Self Experimentation \nDiablo takes 35% reduced damage from Poison effects and gains +20% Power Rate and +450 Attack while Poisoned.  \n\n\nAlchemy \nA master alchemist, Diablo begins each Quest with a selection of Concoctions ready to be brewed. Throwing Light Attacks allows Diablo to switch which Concoction to brew. By finishing a combo with a Medium attack, Diablo begins brewing the selected Concoction.\nOnce the Concoction has Brewed for 3 seconds, Diablo may dash back and hold block for 1.2 seconds to drink it. A new Concoction can’t be brewed until the first is consumed.\nIf Diablo drinks a Concoction while the matching Concoction effect is still active, he instead Poisons himself, dealing 731 direct damage over 8 seconds and reducing healing effects by 30%.\nDeveloper Note: This self inflicted Poison doesn’t account for Diablo’s natural poison resistance. The actual damage dealt will be reduced by 35% (roughly 475 instead).\n\nEmberboon Concoction – 4 Available each Quest \nFor 12 seconds, attacks deal a burst of additional Energy Damage equal to 55% of the damage dealt plus an additional 20% for each Buff the opponent has.\n\n\nCounterflow Concoction – 4 Available each Quest \nGain 110% of a bar of Power over 12 seconds and allow basic attacks a 25% chance to Nullify for that duration.\n\n\nLifestitch Concoction – 4 Available each Quest \nRecover 848 Health when consumed and increases Regeneration rate by 25% for 12 seconds.\n\n\nIronskin Concoction – 4 Available each Quest  \nGain +957 attack and Stun Immunity for 12 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Double-Edged Elixir – Splashing the opponent with a scalding elixir, Diablo creates enough space to drink the remainder to heal his wounds.",
+            "note": "After the attack Diablo starts drinking an elixir, recovering up to 848 Health based on how long he continues to drink. If he has a Concoction brewed, Diablo drinks it after the attack."
+        },
+        "2": {
+            "description": "Whelming Surge – A special mixture spawns a wave of arcane energy to engulf Diablo’s foe.",
+            "note": "This attack is Unblockable. This attack deals +50% Energy Damage for each Concoction and Poison effect active on Diablo."
+        },
+        "3": {
+            "description": "Epic Experimentation – Experimentation yields power, as Diablo quaffs an unknown set of elixirs then lets fly with a barrage of arcane might.",
+            "note": "If he has a Concoction brewed, Diablo drinks it during this attack and gains a permanent effect based on the Concoction consumed. Emberboon or Ironskin: +168 Attack for Energy-based attacks. Counterflow or Lifestitch: +10% Regeneration rate.\nDeveloper Note: The permanent effects lasts until end of the fight and can be seen in the pause screen."
+        }
+    },
+    "signature": {
+        "description": "Arcane Innovation\n\nExperimentation has enhanced Diablo’s Concoctions, decreasing their Brewing time by 1 second and increasing their duration by 40%."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-diablo/"
+    },
+    "youtube": "IgI_wG0o9uk",
+    "attack": {
+        "heavy": "Diablo destroys his Brewed Concoction to inflict Poison, dealing 1520 direct damage over 10 seconds and reducing Healing effects by 30%."
+    }
+}

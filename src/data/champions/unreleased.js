@@ -6,7 +6,6 @@ export const UNRELEASED_CHAMPIONS = [
     // Tech
     // Mutant
     CHAMPION.WEAPONX,
-    CHAMPION.MISTERSINISTER,
     // Skill
     // Science
     // Mystic

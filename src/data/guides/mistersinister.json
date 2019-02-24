@@ -1,0 +1,30 @@
+{
+    "description": "Nathaniel Essex, a scientist in the latter half of the 19th century, pledged loyalty to the mutant-demi god Apocalypse in exchange for activation of his dormant X-Factor. Donning the moniker of Mister Sinister, Essex began to engineer bloodlines in the hope of creating the perfect mutant. His attention would eventually focus on two particularly gifted children, Scott Summers and Jean Grey. In command of the Marauders, a band of mutants that follow him, Mister Sinister has been the mastermind of many schemes and plots, not the least of which was the birth of Cyclops and Madelyne Pryor’s child, Nathan Summers, also known as Cable.",
+    "youtube": "ekQSKswBHd4",
+    "gameplay": {
+        "description": "Passive:  \nMister Sinister’s Telepathic Mastery renders him Immune to Taunt and Reversed Controls.\nMister Sinister’s Telekinetic Powers allow him to Block Unblockable Special Attacks.\nDeveloper Notes: Mister Sinister’s Immunity to mind manipulating effects will help him both when attacking and defending.\n\nMolecular Regeneration – Passive:  \nMr. Sinister’s Regeneration Rate cannot be lowered below 0%.\n100% chance to Regenerate 70% of damage dealt by enemy Critical Hits over 0.4 seconds. Abilities cannot affect the Ability Accuracy, Duration, or Potency of this ability, aside from effects that would modify Mister Sinister’s Regeneration Rate.\nRegeneration Rate is increased by 1% for every hit on the opponent’s Combo Meter up to 50 hits.\nDeveloper Notes: Bringing a Heal Blocking champion will be essential when fighting Mister Sinister when placed on complimentary AW Nodes. Another important note is that Damaging Debuffs will not trigger Sinister’s Regeneration, but run the risk of being Transferred to you as a result of his first Special Attack.\n\nWhile Heavy Attack Charging:  \nPauses the duration of Damaging Debuffs, Stun, Concussion, and Power Leech on the opponent.\nCharging a Heavy Attack for 1 second grants a Precision Buff, increasing Critical Rating by 857.14 for 6.2 seconds. This Precision provides 857.14 additional Critical Rating for each Debuff on the opponent.\nCharging the Heavy Attack for an additional 1 second grants a Cruelty Buff, increasing Critical Damage Rating by 127.66 for 4.9 seconds. This Cruelty provides 127.66 additional Critical Damage Rating for each Debuff on the opponent.\nDeveloper Notes: Utilizing Sinister’s Ability to Pause the Debuffs he inflicts or Transfers will allow you to get the most from their potent effects. When paired with a Stun, it’s possible to easily gain added Critical Rating and Damage by fully charging the Heavy Attack."
+    },
+    "specials": {
+        "1": {
+            "description": "Genetic Disruption - Mister Sinister sends a pulse of energy, infusing his opponent with faulty genetic material.",
+            "note": "100% chance to Transfer all Damaging Debuffs to the opponent for 4 seconds. This ability activates even if this attack is Blocked or avoided. 100% Chance to cause Degeneration, inflicting 990.4 Direct Damage over 4 seconds. Developer Notes: It’s important to remember that the Transfer of Damaging Debuffs cannot be prevented. Definitely reconsider bringing any epic Bleed champions in against him."
+        },
+        "2": {
+            "description": "Genetic Negation - Disabling several important genes can render the opponent powerless, in this case, it also leaves the opponent in a catatonic state.",
+            "note": "100% chance to inflict Concussion, reducing the opponent’s Ability Accuracy by 100% for 6 seconds. This ability activates even if this attack is Blocked or avoided. 100% chance to Stun for 2.5 seconds. Developer Notes: Facing off against a prolific Evader? How about an enemy who likes to trigger a defensive ability when struck? Worry not, Sinister’s Special Attack will ensure those abilities don’t get in the way of this Special Attack."
+        },
+        "3": {
+            "description": "Genetic Extraction - Once an exciting genetic structure is discovered, Mister Sinister takes great pleasure negating its beneficial effects and extracting its essence for himself.",
+            "note": "100% chance to inflict Concussion, reducing the opponent’s Ability Accuracy by 100% for 12 seconds. 100% chance of applying Power Leech to the target, stealing 20% of Max Power over 3 seconds. Developer Notes: The culmination of Sinister’s work, make sure to Pause the Power Leech to maximize the Power he is able to steal once the attack ends."
+        }
+    },
+    "signature": {
+        "description": "Engineered Perfection:  \nMister Sinister is able to improve himself with the genes of defeated opponents. \nEach time Mister Sinister defeats an opponent, he extracts their genetic code, gaining a different Passive ability for the rest of the quest depending on the defeated Champion’s Class. [Max 3 of each Passive, 10 Passives total.]\nMutant: Prowess, increasing Special Attack Damage by 30%.\nSkill: Precision, increasing Critical Rating by 500.\nScience: Regen Rate, increasing Regeneration Rate by 20%.\nMystic: Power Rate, increasing Power Rate by 20%.\nCosmic: Fury, increasing Attack Rating by 371.4.",
+        "note": "Sinister is always in pursuit of perfection, be sure to use him often to build his strength over the course of a quest. Inversely, for those fighting him, it’s also important to note that losing a Tech champion to Sinister will not grant him any Passive effects."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-mister-sinister/"
+    }
+}

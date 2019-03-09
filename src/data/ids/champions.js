@@ -2,6 +2,7 @@
 export const ANGELA = 'angela';
 export const BLACKBOLT = 'blackbolt';
 export const CAPTAINMARVEL = 'captainmarvel';
+export const CAPTAINMARVELMOVIE = 'captainmarvelmovie';
 export const CARNAGE = 'carnage';
 export const CORVUSGLAIVE = 'corvusglaive';
 export const DARKPHOENIX = 'darkphoenix';
@@ -102,6 +103,7 @@ export const KILLMONGER = 'killmonger';
 export const KINGPIN = 'kingpin';
 export const MASACRE = 'masacre';
 export const MOONKNIGHT = 'moonknight';
+export const NICKFURY = 'nickfury';
 export const NIGHTTHRASHER = 'nightthrasher';
 export const PUNISHER = 'punisher';
 export const TASKMASTER = 'taskmaster';

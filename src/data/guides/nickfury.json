@@ -1,0 +1,30 @@
+{
+    "youtube": "W4XUSuFJSHg",
+    "description": "Known across The Battlerealm as a powerful leader and master tactician, Nick Fury is a seasoned combat veteran skilled in various martial arts –including a black belt in Tae Kwon Do. Nick also has access to an arsenal of lethal weapons developed by S.H.I.E.L.D. and is a master of espionage, always equipped to fight should the situation arise.",
+    "gameplay": {
+        "description": "BATTLE SCARS \n- When striking a Bleeding Opponent Nick’s Critical Rating is increased by 222.22 and his attacks ignore 100% of Physical Resistance.\n- While the Opponent is not under the effect of a Regeneration Buff all Nick’s Bleeds are 100% more Potent. \n \nBASIC ATTACKS\n- Ending a combo with a Light Attack has a 100% chance to inflict a Bleed, dealing 516.6 damage over 1 second.\n- Landing any Medium Attack has a 100% chance to inflict a Bleed, dealing 28.7 damage over 6 seconds.\n- Landing a Heavy Attack has a 100% chance to inflict up to 3 stacks of Bleed, each dealing 57.4 damage over 12 seconds.\n- When hitting into Auto-Block Nick is Stun Immune and has a 100% to inflict a Bleed dealing 57.4 damage over 12 seconds.\n- Knocking down the Opponent Purifies Nick's non-damaging Debuffs.\n\nINTERNAL BLEED - PASSIVE\n- If the Opponent gets 8 stacks of Bleed, their Bleed effects are removed and replaced with a Passive Internal Bleed effect which deals 3099.6 damage over 30 seconds.\n- While Internal Bleed is active all the Opponent's Bleed Debuffs have an increased duration of 0.2 seconds per Tactical Charge.    \n\n\nTACTICAL ADVANTAGE CHARGES - PASSIVE\n- Nick starts the fight with 6 Charges when fighting an Avenger.\n- When Nick is Struck he has a 100% chance to gain 1 Tactical charge. Reduced to 25% against Mutant Opponents.\n- While Nick is under the effect of a Fury Effect, Tactical Charge durations are paused.\n- Nick loses 1 Charge every 6 seconds, decreasing to every 4 seconds while at or above 10 total Charges. Additionally if the Opponent performs a Well-Timed Block Nick loses 1 Charge.\n- At 5+ charges: Nick's attacks can’t Miss or be Evaded.\n- At 10+ Charges: Nick's Purify effects now target all Debuffs.\n- At 15+ charges: Nick becomes Unblockable.\n- At 20+ charges: All Charges are removed and replaced with a Fury’s Fury Buff which grants 2066.4 Attack Rating for 10 seconds. All Tactical Charges gains are doubled while Fury’s Fury is active.    \n\n\nNICK’S LEADERSHIP - UNIQUE SYNERGY \n- All Hero Champions except Nick: +10% Attack Rating. +20% if Nick is Dead."
+    },
+    "specials": {
+        "1": {
+            "description": "S.H.I.E.L.D. Air Strike - Nick throws a tracker onto his opponent, calling in multiple strikes from a helicarrier above.",
+            "note": "When performing this attack Nick immediately gains 4 Tactical charges. Disorients the Opponent, reducing their Block Proficiency by 50% and Defensive Ability Accuracy by 70% for 8 seconds."
+        },
+        "2": {
+            "description": "Tactical Takedown - Nick lets loose a series of knife slashes followed with a shot from his pistol.",
+            "note": "Nick slashes his Opponent causing up to 4 stacks of Bleed, each dealing 287 damage over 8 seconds. 50% chance to stun the Opponent for 3 seconds. Stun chance increases by a flat 10% for each of Nick’s Tactical charges."
+        },
+        "3": {
+            "description": "Destroyer Gun - Nick throws an electrical gadget at the opponent, shocking them and holding them in place before firing a deadly shot from his Destroyer gun.",
+            "note": "Additional 2296 Attack if Fury’s Fury is active. Additional 2296 Attack if Internal Bleed is active."
+        }
+    },
+    "signature": {
+        "description": "Life Model Decoy\nWhen Nick would be knocked out, his Life Model Decoy is destroyed instead and he returns to the fight with a permanent Fury’s Fury Buff and Stun Immunity.\nHowever, Nick loses his Infinity Formula and begins Degenerating 3.3% of his health per second for the rest of the quest while above 30% max health.\nThe destruction of Nick’s decoy Removes all Effects and isn't affected by Ability Accuracy reduction.",
+        "note": "This ability gives players a second chance to flatten their opponent. The Fury granted in this window gives Nick access to some pretty crazy damage potential, however any mistakes made in this window can be detrimental as Nick will be constantly taking damage until he's below 30% health. Keep in mind, after Nick's decoy is destroyed it can't be rebuilt until the next quest; however, who needs a decoy when you’ve got a permanent Fury’s Fury granting you enough damage to kick some serious ass for the rest of the quest."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://forums.playcontestofchampions.com/en/discussion/127582/champion-spotlight-nick-fury"
+    }
+}

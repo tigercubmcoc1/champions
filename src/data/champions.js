@@ -107,7 +107,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.MAGNETOMARVELNOW }, [ 2, 3, 4 ]),
         ...championStars({ uid: CHAMPION.MISTERSINISTER }, [ 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.NIGHTCRAWLER }, [ 2, 3, 4, 5, 6 ]),
-        ...championStars({ uid: CHAMPION.OMEGARED }, [ 3, 4, 5, 6 ]),
+        ...championStars({ uid: CHAMPION.OMEGARED }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.PSYLOCKEXFORCE }, [ 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.ROGUE }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.SABRETOOTH }, [ 2, 3, 4, 5, 6 ]),
@@ -118,7 +118,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.X23 }, [ 2, 3, 4, 5 ]),
     ]),
     ...typeId(TYPE.SKILL, [
-        ...championStars({ uid: CHAMPION.AEGON }, [ 3, 4, 5, 6 ]),
+        ...championStars({ uid: CHAMPION.AEGON }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.AGENTVENOM }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.BLACKPANTHER }, [ 1, 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.BLACKPANTHERCIVILWAR }, [ 2, 3, 4, 5, 6 ]),

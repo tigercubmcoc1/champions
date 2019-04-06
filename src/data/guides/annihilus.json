@@ -1,0 +1,30 @@
+{
+    "description": "After the Fantastic Four opened a portal to the Negative Zone in search of anti-particles, they encountered Annihilus. A vicious, raving, and paranoid insectoid creature ruling over the Negative Zone. Aided by his most prized possession, the Cosmic Control Rod, Annihilus has waged an all out war on every living thing in the Universe for it’s the only way he can ensure nothing can ever threaten his life or his precious Cosmic Control Rod.",
+    "youtube": "U1djpU0I2eA",
+    "gameplay": {
+        "description": "COSMIC CONTROL ROD  \n- Annihilus gains the Cosmic Control Rod at the Start of the Fight.\n- Whenever any Buff would be removed by a Nullify, Fate Seal, or Stagger, the effect is Purified and the Cosmic Control Rod is removed for 10 seconds.\n- Immune to Incinerate, Frostbite, Coldsnap, and any effect that lowers or locks Power\n- While Taunted, gain True Accuracy, Unblockable, and Unstoppable.  \n\n\nOBLITERATING STRIKES\n- While the Cosmic Control Rod is active, all Attacks have a 60% chance to be an Obliterating Strike.\n- Obliterating Strikes are not affected by Ability Accuracy reduction.\n- Obliterating Strikes inflict Armor Break, reducing Armor Rating by 222.22 for 5 seconds.\n- Annihilus is Immune to incoming Stun Debuffs while launching an Obliterating Strike.\n\n\nSTIFLE (MAX 12)\n- Whenever Annihilus would inflict an Armor Break, he also has a 100% chance to inflict Stifle, reducing Offensive Power Gain by 9% for 4 seconds.\n- While the Opponent is Stifled, Annihilus’ first Medium Attack in a combo removes 1 Stifle and generates 1 Fury Buff, increasing Attack Rating by 273 for 0.90 seconds.\n- If the Opponent Dashes Back while Stifled, Annihilus removes 1 Stifle and gains 1 Unstoppable Buff lasting 0.90 seconds.\n\n\nIT’S MIIIINE--!\n- When the Cosmic Control Rod is Removed, Annihilus gains 3 Fury Buffs, each increasing Attack Rating by 436.8 for 10 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Control Infestation - Annihilus pounces onto his prey with two quick strikes, then fires a swarm of Control bugs to infest and dominate their mind.",
+            "note": "Each hit Refreshes all Stifle Debuffs on the Opponent, the Final Hit pauses the Duration of all active Stifles for 6 seconds. Any Paused Stifles on the Opponent increase Annihilus’ Offensive Power Gain by 9%."
+        },
+        "2": {
+            "description": "Cosmic Obliteration - Annihlus cripples his Opponent with a burst of wind before unleashing a Devastating blast of energy from the Cosmic Control Rod.",
+            "note": "When activating this Special, Annihilus consumes every Stifle on the Opponent, each generating 1 Fury increasing Attack Rating by 327.6 for 12 seconds."
+        },
+        "3": {
+            "description": "The Living Death That Walks - Annihilus projects a horrific aura of fear, capable of crippling the minds of even the strongest willed Champions in the Realm.",
+            "note": "Annihilus inflicts the Opponent with 10 Stifle Debuffs, each reducing Offensive Power Gain by 9% for 4 seconds. Until the Opponent has 0 Stifles remaining, the duration of Stifle Debuffs is increased by 125%"
+        }
+    },
+    "signature": {
+        "description": "TREMBLE BEFORE ME:\n- When Annihilus’ Opponents back is near a wall, Annihilus gains 1 Passive Aptitude Effect, increasing the Potency of all Fury, Armor Up, and Precision Buffs by 100%.\n- When Annihilus’ back is near a wall he gains a Passive Block Penetration Effect, allowing all attacks to ignore 100% of the Opponents Block Proficiency.",
+        "note": "At max SIG, activating a Special 2 while the Opponents back is against a wall with 12 Stfile Debuffs will give Annihilus a whopping 720% attack rating increase for 12 seconds. Annihilus is an absolute monster when the momentum of the match is in his favor and this SIG doubles down on that theme."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://forums.playcontestofchampions.com/en/discussion/131529/champion-spotlight-annihilus"
+    }
+}

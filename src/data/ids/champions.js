@@ -1,5 +1,6 @@
 // Cosmic
 export const ANGELA = 'angela';
+export const ANNIHILUS = 'annihilus';
 export const BLACKBOLT = 'blackbolt';
 export const CAPTAINMARVEL = 'captainmarvel';
 export const CAPTAINMARVELMOVIE = 'captainmarvelmovie';
@@ -118,6 +119,7 @@ export const CAPTAINAMERICAIW = 'capamericaiw';
 export const ELECTRO = 'electro';
 export const HULK = 'hulk';
 export const HULKRAGNAROK = 'hulkragnarok';
+export const HUMANTORCH = 'humantorch';
 export const JOEFIXIT = 'joefixit';
 export const LUKECAGE = 'lukecage';
 export const MODOK = 'modok';

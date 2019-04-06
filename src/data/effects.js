@@ -188,6 +188,12 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.SIBLING_RIVALRY ]: [ 10, 12, 15 ],
     [ EFFECT.CYBERNETICS_UPGRADE_ASSAULT ]: [ 10, 12, 15 ],
     [ EFFECT.CYBERNETICS_UPGRADE_TACTICS ]: [ 10, 12, 15 ],
+    [ EFFECT.DOUBLE_NEGATIVE ]: [ 10, 12, 15 ],
+    [ EFFECT.CHALLENGER ]: [ 10, 12, 15 ],
+    [ EFFECT.RAIN_OF_FIRE ]: [ 10, 12, 15 ],
+    [ EFFECT.TURN_UP_THE_HEAT ]: [ 10, 12, 15 ],
+    [ EFFECT.A_SONG_OF_FIRE_AND_ICE ]: [ 10, 12, 15 ],
+    [ EFFECT.FAMILIAR_FACES ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -380,6 +386,12 @@ const effects = [
     { uid: EFFECT.SIBLING_RIVALRY },
     { uid: EFFECT.CYBERNETICS_UPGRADE_ASSAULT },
     { uid: EFFECT.CYBERNETICS_UPGRADE_TACTICS },
+    { uid: EFFECT.DOUBLE_NEGATIVE },
+    { uid: EFFECT.CHALLENGER },
+    { uid: EFFECT.RAIN_OF_FIRE },
+    { uid: EFFECT.TURN_UP_THE_HEAT },
+    { uid: EFFECT.A_SONG_OF_FIRE_AND_ICE },
+    { uid: EFFECT.FAMILIAR_FACES },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -576,6 +588,12 @@ const effectIcons = {
     [ EFFECT.SIBLING_RIVALRY ]: 'effect-inseparable',
     [ EFFECT.CYBERNETICS_UPGRADE_ASSAULT ]: 'effect-cybernetics-assault',
     [ EFFECT.CYBERNETICS_UPGRADE_TACTICS ]: 'effect-cybernetics-tactics',
+    [ EFFECT.DOUBLE_NEGATIVE ]: 'effect-armor-break',
+    [ EFFECT.CHALLENGER ]: 'effect-armor',
+    [ EFFECT.RAIN_OF_FIRE ]: 'effect-mercs-for-money',
+    [ EFFECT.TURN_UP_THE_HEAT ]: 'effect-mercs-for-money',
+    [ EFFECT.A_SONG_OF_FIRE_AND_ICE ]: 'effect-shock',
+    [ EFFECT.FAMILIAR_FACES ]: 'effect-inseparable',
 };
 
 function effectIcon(uid) {

@@ -54,6 +54,12 @@ const synergies = [
         ...fromStars(4, 6, [ CHAMPION.LOKI ], EFFECT.HEALTH),
     ]),
 
+    ...fromId(CHAMPION.ANNIHILUS, [
+        ...fromStars(4, 5, [ CHAMPION.DARKHAWK ], EFFECT.DOUBLE_NEGATIVE),
+        ...fromStars(3, 5, [ CHAMPION.HULKRAGNAROK ], EFFECT.CHALLENGER),
+        ...fromStars(3, 5, [ CHAMPION.THING, CHAMPION.HUMANTORCH ], EFFECT.CRITICAL_RATE),
+    ]),
+
     ...fromId(CHAMPION.BLACKBOLT, [
         ...fromStars(2, 6, [ CHAMPION.KAMALAKHAN, CHAMPION.RONAN ], EFFECT.COSMIC_SUPREMACY),
         ...fromStars(2, 6, [ CHAMPION.SPIDERMAN, CHAMPION.CYCLOPS ], EFFECT.ARMOR),
@@ -798,6 +804,14 @@ const synergies = [
         ...fromStars(3, 6, [ CHAMPION.BLACKWIDOW ], EFFECT.LULLABY),
         ...fromStars(4, 6, [ CHAMPION.HELA ], EFFECT.OFF_LIMITS),
         ...fromStars(4, 6, [ CHAMPION.LOKI ], EFFECT.PUNY_GOD),
+    ]),
+
+    ...fromId(CHAMPION.HUMANTORCH, [
+        ...fromStars(3, 5, [ CHAMPION.THING ], EFFECT.RAIN_OF_FIRE),
+        ...fromStars(3, 5, [ CHAMPION.THING ], EFFECT.TURN_UP_THE_HEAT),
+        ...fromStars(3, 5, [ CHAMPION.ICEMAN ], EFFECT.A_SONG_OF_FIRE_AND_ICE),
+        ...fromStars(3, 5, [ CHAMPION.CAPTAINAMERICAIW, CHAMPION.KILLMONGER ], EFFECT.FAMILIAR_FACES),
+        ...fromStars(3, 5, [ CHAMPION.MEDUSA, CHAMPION.ROGUE ], EFFECT.POWER_GAIN),
     ]),
 
     ...fromId(CHAMPION.JOEFIXIT, [

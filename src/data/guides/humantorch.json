@@ -1,0 +1,30 @@
+{
+    "youtube": "uoo2E_sM4KE",
+    "description": "Hot-headed Johnny Storm was one of four people on the space flight accident that gave rise to the Fantastic Four. After their ship was bathed in cosmic radiation, Johnny gained the ability to create and control fire. In addition to generating powerful blasts of flame, he can envelop his body in plasma, giving him the ability to fly. Now dubbed “Human Torch”, he and the rest of the Fantastic Four are taking The Contest by storm. Flame On!",
+    "gameplay": {
+        "description": "IMMUNE TO INCINERATE, COLDSNAP AND FROSTBITE \n- Whenever Human Torch would be Incinerated, he places a Smoulder Passive on himself.\nSmoulder Passives deal 0 damage and last indefinitely.\nBasic attacks deal Energy Damage instead of Physical.  \n\n\nFLAME ON! - PRE-FIGHT ABILITY\n- Human Torch starts a Quest with 1 Persistent Charge(s).\n- Smoulder Passives deal 0 damage and last indefinitely.\n- If Human Torch has at least 1 Persistent Charge(s), he can consume them to activate this ability before the Fight.\n- For the entire Fight, all of Human Torch's Incinerates are Nova Flames, last 2 second(s) longer, and deal an additional +75% damage. This ability does not stack.\n\n\nTEMPERATURE\n- While Charging a Heavy Attack, Human Torch increases his Temperature.\n- Temperature decreases constantly over time.\n- Temperature decreases slower for each Incinerate or Smoulder on either Champion.\n- At 10 Temperature, the heat from Human Torch’s attacks is so intense, they cannot Miss.\n- At 20 Temperature, Temperature cannot decrease for 6.50 second(s), then it is set to 18.\n- The duration of all of Human Torch's Incinerate effects increases by up to 4 second(s) depending on his Temperature.\n\n\nINCINERATE\n- Human Torch Incinerates the Opponent with his first and last Light hits, and all his Medium and Heavy hits. These Incinerate Debuffs deal 233 damage over 3 seconds.\n- Incinerate removes Perfect Block Chance and reduces Block Proficiency by 50% while it's active.\n- The damage of all of Human Torch's Incinerate effects increases by 12% for each Incinerate or Smoulder on either Champion.\n- For each Incinerate on the Opponent, their Regeneration Rate is reduced by 20%.\n- While Human Torch is Bleeding, the duration of all his Incinerate effects is reduced by 4 second(s).\n\n\nNOVA FORM\n- When Temperature is at 20 and the Opponent has 7 Incinerate effects, for the next 7 second(s) instead of placing Incinerate Debuffs on the Opponent, Human Torch places Nova Flame Passives instead.\n\n\nNOVA FLAME\n- Nova Flame deals Energy damage over time, removes Perfect Block Chance, reduces Block Proficiency to 0, and inflicts Power Sting.\n- An Opponent with Power Sting takes 699 Direct Damage when activating a Special Attack. Power Sting is removed when Nova Flame expires.\n- Nova Flame Passives are treated as Incinerate Debuffs for all of Human Torch's abilities.  \n\n\nWHEN ATTACKED - CONTACT\n- 0% chance to Incinerate the Opponent for 233 damage over 4 seconds. This chance increases by a flat 10% for each Incinerate or Smoulder on either Champion.\n\n\nWHEN BLOCKING OR ATTACKED\n- If the hit dealt Energy Damage, Temperature increases by 5, and Human Torch Smoulders.\nAll Attacks from Mystic Champions are considered as Energy Attacks towards this ability."
+    },
+    "specials": {
+        "1": {
+            "description": "- The first hit of this attack increases Temperature by 5, and it cannot decrease for 6.50 second(s).\n- If the last hit is blocked, it places a Smoulder Passive on Human Torch.",
+            "note": "If you want to increase your Temperature, this attack is a great way to do it. For extra style points, activate the Special 1 right after starting his Heavy Attack to lock in the Temperature you gained from charging the Heavy."
+        },
+        "2": {
+            "description": "- 100% chance to Stun for 3 seconds.\n- The last two hits of this Attack each have a 100% chance to Incinerate the Opponent, dealing 349.5 damage over 5 seconds.\n- If the last two hits are blocked, they each place a Smoulder on Human Torch instead.",
+            "note": "At face value, this attack is handy for putting a couple Incinerates on the Opponent that last longer than this other ones. But you can also use the Stun to as free time to increase his Temperature by charging a Heavy Attack."
+        },
+        "3": {
+            "description": "- Inflict a Nova Flame, dealing 1165 damage over 5 seconds.\n- Human Torch enters his Nova Form for 7 second(s) and places 2 Smoulder Passives on himself.",
+            "note": "As mentioned above, Nova Flame bypasses immunity to Incinerate, and Nova Form turns all of his Incinerates into Nova Flames. So if you find yourself up against someone who’s immune to Johnny’s flames, the Special 3 gives you a way around that."
+        }
+    },
+    "signature": {
+        "description": "REKINDLE:\nFIGHT START:\n- If Human Torch has 0 Persistent Charges and his Pre-Fight Ability is not active, he has a 14.95% chance to gain 1 Persistent Charge(s).\n- This chance increases by a flat 22% every time the ability fails to activate.",
+        "note": "This is the only way for Johnny to regain his Persistent Charge and use his Pre-Fight ability again. The ability only activates if he’s brought into a fight after the Pre-Fight Ability is expended, so if you’re very lucky you can activate the Pre-Fight ability every other fight."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://forums.playcontestofchampions.com/en/discussion/132909/champion-spotlight-human-torch"
+    }
+}

@@ -8,7 +8,6 @@ export const UNRELEASED_CHAMPIONS = [
     CHAMPION.WEAPONX,
     // Skill
     // Science
-    CHAMPION.HUMANTORCH,
     // Mystic
     // Universal
     CHAMPION.MAESTRO,

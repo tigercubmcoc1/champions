@@ -48,7 +48,7 @@ function fromStars(minStars, maxStars, toIdList, effectId) {
 const synergies = [
 
     ...fromId(CHAMPION.ANGELA, [
-        ...fromStars(3, 6, [ CHAMPION.ROCKET, CHAMPION.STARLORD ], EFFECT.ARMOR),
+        ...fromStars(2, 6, [ CHAMPION.ROCKET, CHAMPION.STARLORD ], EFFECT.ARMOR),
         ...fromStars(3, 6, [ CHAMPION.GAMORA, CHAMPION.GROOT ], EFFECT.ARMOR),
         ...fromStars(4, 6, [ CHAMPION.THOR ], EFFECT.HEALTH),
         ...fromStars(4, 6, [ CHAMPION.LOKI ], EFFECT.HEALTH),
@@ -57,7 +57,7 @@ const synergies = [
     ...fromId(CHAMPION.ANNIHILUS, [
         ...fromStars(4, 5, [ CHAMPION.DARKHAWK ], EFFECT.DOUBLE_NEGATIVE),
         ...fromStars(3, 5, [ CHAMPION.HULKRAGNAROK ], EFFECT.CHALLENGER),
-        ...fromStars(3, 5, [ CHAMPION.THING, CHAMPION.HUMANTORCH ], EFFECT.CRITICAL_RATE),
+        ...fromStars(3, 5, [ CHAMPION.THING, CHAMPION.HUMANTORCH, CHAMPION.INVISIBLEWOMAN, CHAMPION.MRFANTASTIC ], EFFECT.CRITICAL_RATE),
     ]),
 
     ...fromId(CHAMPION.BLACKBOLT, [
@@ -173,7 +173,7 @@ const synergies = [
 
     ...fromId(CHAMPION.PHOENIX, [
         ...fromStars(3, 5, [ CHAMPION.STORM ], EFFECT.ARMOR),
-        ...fromStars(3, 5, [ CHAMPION.CYCLOPS90S, CHAMPION.WOLVERINE ], EFFECT.ITS_COMPLICATED),
+        ...fromStars(2, 5, [ CHAMPION.CYCLOPS90S, CHAMPION.WOLVERINE ], EFFECT.ITS_COMPLICATED),
         ...fromStars(4, 5, [ CHAMPION.BEAST, CHAMPION.NIGHTCRAWLER ], EFFECT.PERFECT_BLOCK),
         ...fromStars(4, 5, [ CHAMPION.GAMORA ], EFFECT.PERFECT_BLOCK),
     ]),
@@ -217,8 +217,8 @@ const synergies = [
     ]),
 
     ...fromId(CHAMPION.VENOM, [
-        ...fromStars(2, 5, [ CHAMPION.SPIDERMAN ], EFFECT.ATTACK),
-        ...fromStars(3, 5, [ CHAMPION.SPIDERMANBLACK ], EFFECT.HEALTH),
+        ...fromStars(2, 5, [ CHAMPION.SPIDERMAN, CHAMPION.SPIDERMANMORALES ], EFFECT.ATTACK),
+        ...fromStars(2, 5, [ CHAMPION.SPIDERMANBLACK, CHAMPION.AGENTVENOM, CHAMPION.VENOMPOOL ], EFFECT.HEALTH),
         ...fromStars(3, 5, [ CHAMPION.ELECTRO ], EFFECT.CRITICAL_DAMAGE),
         ...fromStars(4, 5, [ CHAMPION.JOEFIXIT ], EFFECT.PERFECT_BLOCK),
     ]),
@@ -280,6 +280,13 @@ const synergies = [
         ...fromStars(4, 5, [ CHAMPION.KAMALAKHAN ], EFFECT.PERFECT_BLOCK),
     ]),
 
+    ...fromId(CHAMPION.HULKBUSTER, [
+        ...fromStars(2, 5, [ CHAMPION.HULK, CHAMPION.YELLOWJACKET ], EFFECT.CRITICAL_DAMAGE),
+        ...fromStars(3, 5, [ CHAMPION.IRONMAN ], EFFECT.HEALTH),
+        ...fromStars(3, 5, [ CHAMPION.SUPERIORIRONMAN ], EFFECT.HEALTH),
+        ...fromStars(4, 5, [ CHAMPION.ULTRON ], EFFECT.CRITICAL_RATE),
+    ]),
+
     ...fromId(CHAMPION.IRONMAN, [
         ...fromStars(2, 5, [ CHAMPION.THOR, CHAMPION.WARMACHINE ], EFFECT.PERFECT_BLOCK),
         ...fromStars(3, 5, [ CHAMPION.ULTRON ], EFFECT.CRITICAL_RATE),
@@ -311,13 +318,6 @@ const synergies = [
         ...fromStars(3, 6, [ CHAMPION.DRAX ], EFFECT.CRITICAL_RATE),
         ...fromStars(3, 6, [ CHAMPION.THANOS, CHAMPION.GAMORA ], EFFECT.HEALTH),
         ...fromStars(3, 6, [ CHAMPION.GAMORA ], EFFECT.CRITICAL_DAMAGE),
-    ]),
-
-    ...fromId(CHAMPION.HULKBUSTER, [
-        ...fromStars(2, 5, [ CHAMPION.HULK, CHAMPION.YELLOWJACKET ], EFFECT.CRITICAL_DAMAGE),
-        ...fromStars(3, 5, [ CHAMPION.IRONMAN ], EFFECT.HEALTH),
-        ...fromStars(3, 5, [ CHAMPION.SUPERIORIRONMAN ], EFFECT.HEALTH),
-        ...fromStars(4, 5, [ CHAMPION.ULTRON ], EFFECT.CRITICAL_RATE),
     ]),
 
     ...fromId(CHAMPION.PUNISHER2099, [
@@ -401,6 +401,7 @@ const synergies = [
         ...fromStars(4, 6, [ CHAMPION.ROCKET ], EFFECT.ARMOR),
         ...fromStars(4, 6, [ CHAMPION.RONAN ], EFFECT.CRITICAL_RATE),
         ...fromStars(3, 6, [ CHAMPION.STARLORD ], EFFECT.CRITICAL_DAMAGE),
+        ...fromStars(2, 6, [ CHAMPION.BEAST, CHAMPION.NIGHTCRAWLER ], EFFECT.CRITICAL_RATE),
     ]),
 
     ...fromId(CHAMPION.ARCHANGEL, [
@@ -461,14 +462,14 @@ const synergies = [
     ]),
 
     ...fromId(CHAMPION.DOMINO, [
-        ...fromStars(3, 6, [ CHAMPION.DEADPOOLXFORCE ], EFFECT.XFORCE),
+        ...fromStars(2, 6, [ CHAMPION.DEADPOOLXFORCE ], EFFECT.XFORCE),
         ...fromStars(3, 6, [ CHAMPION.DEADPOOL ], EFFECT.SIX_PACK),
-        ...fromStars(3, 6, [ CHAMPION.WOLVERINEOLDMAN, CHAMPION.SABRETOOTH ], EFFECT.WEAPON_X_STRIKE_TEAM),
-        ...fromStars(3, 6, [ CHAMPION.MASACRE ], EFFECT.MERCS_FOR_MONEY),
+        ...fromStars(2, 6, [ CHAMPION.WOLVERINEOLDMAN, CHAMPION.SABRETOOTH ], EFFECT.WEAPON_X_STRIKE_TEAM),
+        ...fromStars(2, 6, [ CHAMPION.MASACRE ], EFFECT.MERCS_FOR_MONEY),
         ...fromStars(3, 6, [ CHAMPION.REDHULK ], EFFECT.CODE_RED_REVELATIONS),
         ...fromStars(4, 6, [ CHAMPION.MODOK, CHAMPION.TASKMASTER ], EFFECT.BETTER_LUCK_NEXT_TIME),
-        ...fromStars(3, 6, [ CHAMPION.COLOSSUS, CHAMPION.WOLVERINE ], EFFECT.POWER_GAIN),
-        ...fromStars(3, 6, [ CHAMPION.CABLE ], EFFECT.COMPLICATED),
+        ...fromStars(2, 6, [ CHAMPION.COLOSSUS, CHAMPION.WOLVERINE ], EFFECT.POWER_GAIN),
+        ...fromStars(2, 6, [ CHAMPION.CABLE ], EFFECT.COMPLICATED),
     ]),
 
     ...fromId(CHAMPION.EMMAFROST, [
@@ -639,7 +640,7 @@ const synergies = [
 
     ...fromId(CHAMPION.ELEKTRA, [
         ...fromStars(3, 6, [ CHAMPION.WOLVERINE ], EFFECT.ARMOR),
-        ...fromStars(3, 6, [ CHAMPION.DAREDEVIL, CHAMPION.DAREDEVILNETFLIX ], EFFECT.POWER_GAIN),
+        ...fromStars(2, 6, [ CHAMPION.DAREDEVIL, CHAMPION.DAREDEVILNETFLIX ], EFFECT.POWER_GAIN),
         ...fromStars(3, 6, [ CHAMPION.BLACKWIDOW ], EFFECT.CRITICAL_DAMAGE),
         ...fromStars(4, 6, [ CHAMPION.DEADPOOL, CHAMPION.DEADPOOLXFORCE ], EFFECT.PERFECT_BLOCK),
     ]),
@@ -807,11 +808,11 @@ const synergies = [
     ]),
 
     ...fromId(CHAMPION.HUMANTORCH, [
-        ...fromStars(3, 5, [ CHAMPION.THING ], EFFECT.RAIN_OF_FIRE),
-        ...fromStars(3, 5, [ CHAMPION.THING ], EFFECT.TURN_UP_THE_HEAT),
-        ...fromStars(3, 5, [ CHAMPION.ICEMAN ], EFFECT.A_SONG_OF_FIRE_AND_ICE),
-        ...fromStars(3, 5, [ CHAMPION.CAPTAINAMERICAIW, CHAMPION.KILLMONGER ], EFFECT.FAMILIAR_FACES),
-        ...fromStars(3, 5, [ CHAMPION.MEDUSA, CHAMPION.ROGUE ], EFFECT.POWER_GAIN),
+        ...fromStars(3, 6, [ CHAMPION.THING, CHAMPION.INVISIBLEWOMAN, CHAMPION.MRFANTASTIC ], EFFECT.RAIN_OF_FIRE),
+        ...fromStars(3, 6, [ CHAMPION.THING ], EFFECT.TURN_UP_THE_HEAT),
+        ...fromStars(5, 6, [ CHAMPION.ICEMAN ], EFFECT.A_SONG_OF_FIRE_AND_ICE),
+        ...fromStars(4, 6, [ CHAMPION.CAPTAINAMERICAIW, CHAMPION.KILLMONGER ], EFFECT.FAMILIAR_FACES),
+        ...fromStars(3, 6, [ CHAMPION.MEDUSA, CHAMPION.ROGUE ], EFFECT.POWER_GAIN),
     ]),
 
     ...fromId(CHAMPION.JOEFIXIT, [
@@ -949,19 +950,6 @@ const synergies = [
         ...fromStars(3, 4, [ CHAMPION.BLACKBOLT ], EFFECT.PERFECT_BLOCK),
     ]),
 
-    ...fromId(CHAMPION.IRONFIST, [
-        ...fromStars(2, 6, [ CHAMPION.BLACKPANTHER ], EFFECT.ARMOR),
-        ...fromStars(3, 6, [ CHAMPION.LUKECAGE, CHAMPION.SHEHULK ], EFFECT.HEROES_FOR_HIRE),
-        ...fromStars(3, 6, [ CHAMPION.DRSTRANGE ], EFFECT.ARMOR),
-        ...fromStars(4, 6, [ CHAMPION.WOLVERINE ], EFFECT.ARMOR),
-    ]),
-
-    ...fromId(CHAMPION.IRONFISTWHITE, [
-        ...fromStars(3, 5, [ CHAMPION.DRSTRANGE ], EFFECT.ARMOR),
-        ...fromStars(3, 5, [ CHAMPION.DAREDEVIL ], EFFECT.ARMOR),
-        ...fromStars(4, 5, [ CHAMPION.WARMACHINE ], EFFECT.PERFECT_BLOCK),
-    ]),
-
     ...fromId(CHAMPION.GHOSTRIDER, [
         ...fromStars(3, 5, [ CHAMPION.X23 ], EFFECT.PERFECT_BLOCK),
         ...fromStars(3, 5, [ CHAMPION.DEADPOOL, CHAMPION.ELEKTRA ], EFFECT.PERFECT_BLOCK),
@@ -980,6 +968,19 @@ const synergies = [
         ...fromStars(3, 6, [ CHAMPION.JOEFIXIT ], EFFECT.CRITICAL_RATE),
         ...fromStars(3, 6, [ CHAMPION.IRONPATRIOT, CHAMPION.LOKI ], EFFECT.PERFECT_BLOCK),
         ...fromStars(4, 6, [ CHAMPION.DORMAMMU ], EFFECT.DARK_EMPOWERMENT),
+    ]),
+
+    ...fromId(CHAMPION.IRONFIST, [
+        ...fromStars(2, 6, [ CHAMPION.BLACKPANTHER ], EFFECT.ARMOR),
+        ...fromStars(3, 6, [ CHAMPION.LUKECAGE, CHAMPION.SHEHULK ], EFFECT.HEROES_FOR_HIRE),
+        ...fromStars(3, 6, [ CHAMPION.DRSTRANGE ], EFFECT.ARMOR),
+        ...fromStars(4, 6, [ CHAMPION.WOLVERINE ], EFFECT.ARMOR),
+    ]),
+
+    ...fromId(CHAMPION.IRONFISTWHITE, [
+        ...fromStars(3, 5, [ CHAMPION.DRSTRANGE ], EFFECT.ARMOR),
+        ...fromStars(3, 5, [ CHAMPION.DAREDEVIL ], EFFECT.ARMOR),
+        ...fromStars(4, 5, [ CHAMPION.WARMACHINE ], EFFECT.PERFECT_BLOCK),
     ]),
 
     ...fromId(CHAMPION.JUGGERNAUT, [

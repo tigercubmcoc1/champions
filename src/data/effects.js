@@ -194,6 +194,15 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.TURN_UP_THE_HEAT ]: [ 10, 12, 15 ],
     [ EFFECT.A_SONG_OF_FIRE_AND_ICE ]: [ 10, 12, 15 ],
     [ EFFECT.FAMILIAR_FACES ]: [ 10, 12, 15 ],
+    [ EFFECT.LAST_HOPE ]: [ 10, 12, 15 ],
+    [ EFFECT.UNLIKELY_COMBINATION ]: [ 10, 12, 15 ],
+    [ EFFECT.LIVE_AND_DIE_BY_THE_SWORD ]: [ 10, 12, 15 ],
+    [ EFFECT.MASTERLESS ]: [ 10, 12, 15 ],
+    [ EFFECT.LIEUTENANTS_OF_THE_BLACK_ORDER ]: [ 10, 12, 15 ],
+    [ EFFECT.CULL_OF_THE_MAW ]: [ 10, 12, 15 ],
+    [ EFFECT.INVASIVE_FORCE ]: [ 10, 12, 15 ],
+    [ EFFECT.DISPLAY_OF_STRENGTH ]: [ 10, 12, 15 ],
+    [ EFFECT.HEROES_NEVER_LEARN ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -392,6 +401,15 @@ const effects = [
     { uid: EFFECT.TURN_UP_THE_HEAT },
     { uid: EFFECT.A_SONG_OF_FIRE_AND_ICE },
     { uid: EFFECT.FAMILIAR_FACES },
+    { uid: EFFECT.LAST_HOPE },
+    { uid: EFFECT.UNLIKELY_COMBINATION },
+    { uid: EFFECT.LIVE_AND_DIE_BY_THE_SWORD },
+    { uid: EFFECT.MASTERLESS },
+    { uid: EFFECT.LIEUTENANTS_OF_THE_BLACK_ORDER },
+    { uid: EFFECT.CULL_OF_THE_MAW },
+    { uid: EFFECT.INVASIVE_FORCE },
+    { uid: EFFECT.DISPLAY_OF_STRENGTH },
+    { uid: EFFECT.HEROES_NEVER_LEARN },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -594,6 +612,15 @@ const effectIcons = {
     [ EFFECT.TURN_UP_THE_HEAT ]: 'effect-mercs-for-money',
     [ EFFECT.A_SONG_OF_FIRE_AND_ICE ]: 'effect-shock',
     [ EFFECT.FAMILIAR_FACES ]: 'effect-inseparable',
+    [ EFFECT.LAST_HOPE ]: 'effect-immunity-bleed',
+    [ EFFECT.UNLIKELY_COMBINATION ]: 'effect-poison',
+    [ EFFECT.LIVE_AND_DIE_BY_THE_SWORD ]: 'effect-masters-of-the-sword',
+    [ EFFECT.MASTERLESS ]: 'effect-bane-of-hells-kitchen',
+    [ EFFECT.LIEUTENANTS_OF_THE_BLACK_ORDER ]: 'effect-critical-rate',
+    [ EFFECT.CULL_OF_THE_MAW ]: 'effect-attack',
+    [ EFFECT.INVASIVE_FORCE ]: 'effect-invasive-force',
+    [ EFFECT.DISPLAY_OF_STRENGTH ]: 'effect-invasive-force',
+    [ EFFECT.HEROES_NEVER_LEARN ]: 'effect-friend-from-work',
 };
 
 function effectIcon(uid) {

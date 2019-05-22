@@ -1,0 +1,33 @@
+{
+    "description": "A ferocious combatant like few others, Cull Obsidian is always seeking a truly challenging fight to impress his master, Thanos. Wielding his one-of-a-kind multi-weapon, Cull tears his opponent’s defenses apart and stops heroes in their tracks. Lord Thanos won’t be stopped so long as his imposing enforcer, Cull, stands by his side ready to strike down any opposition.",
+    "gameplay": {
+        "description": "MISSIONS FROM THANOS \n- Cull Obsidian has 3 Missions to complete, which may be done in any order. Each Mission can be completed multiple times and doing so grants 1 Persistent Charge.\n- Mission 1: Break their Defenses: Knockout any Champion.\n- Mission 2: Crush their Hope: Knockout an Avenger.\n- Mission 3: End their Resistance: Knockout a Champion above 95% Health without the Combo Meter resetting during the fight.\n\n\nTHANOS’S FAVOR - Max Persistent Charges 10\n- At the beginning of the fight, 1 Thanos’s Favor Buff is gained per Persistent Charge. These Buffs last 10 seconds each and they gain effects based on the number of charges. These Buffs have their duration paused for 1 second each time an attack is landed.\n\n\nThanos’s Favor Buffs - Effects from Persistent Charge\n- 1+ Each Buff grants +10% Attack\n- 3+ Each Buff grants +40 Critical Damage Rating\n- 5+ Each Buff provides True Accuracy, allowing attacks to ignore Evade and Auto-Block effects.\n- 8+ Each Buff grants +5% Rout Buff Duration.\n\n\nWELL-TIMED BLOCKS\n- Cull Obsidian’s unique shield allows him to use the Parry Mastery against Projectile attacks (only if the Mastery is unlocked and active).\n\n\nDASH BACK AND HOLD BLOCK FOR 1.2 SECONDS - Once Per Fight\n- Cull Obsidian overcharges his weapon to gain a Rout Buff for 8 seconds. This causes his opponent to suffer - 100% Auto-Block Ability Accuracy and also grants his attacks an additional burst of Energy Damage equal to 120% of the damage dealt.\n\n\nSPECIAL ATTACKS\n- Cull Obsidian's overwhelming presence reduces the opponent's Armor Up Ability Accuracy by 100% during his Special Attacks."
+    },
+    "attack": {
+        "heavy": "50% chance per strike to inflict an Armor Break Debuff, reducing Armor by 1333 for 11 seconds. This effect gains +15% duration and Ability Accuracy for each Persistent Charge."
+    },
+    "youtube": "e-30roNv2Ng",
+    "specials": {
+        "1": {
+            "description": "Collision of Challenge\n- A series of devastating strikes softens the opponent before Cull roars a challenge in their face to prove his dominance.\n- Combat expertise grants 10 Combo Shield Buffs. When struck 1 Combo Shield Buff is lost instead of the Combo Meter resetting. Max:10 Combo Shield Buffs.",
+            "note": "There is a max of 10 Combo Shield Buffs that Cull can have at any time. This is a good Special Attack to use if you struggle to maintain your Combo Meter but still want to ramp up your Persistent Charges quickly."
+        },
+        "2": {
+            "description": "Transformation Devastation\n- A flurry of blows are rained down upon Cull's foe and deliver punishing hammer and claw strikes.\n- Each strike has an 80% chance to pause the duration of all Armor Break Debuffs on the opponent for 2 seconds.\n- 100% chance to Stun for 2 seconds.",
+            "note": "Only the final strike of his Special 2 can inflict a Stun Debuff."
+        },
+        "3": {
+            "description": "Pummeling Eradication\n- With a fully-deployed whip-chain, Cull snags his opponent in a crushing grip before launching them into the wall.\n- An influx of power from Thanos causes Cull Obsidian to re-trigger all of his Thanos’s Favor Buffs.",
+            "note": "The max number of Thanos’s Favor Buffs you can have is 10, the same max as the Persistent Charges."
+        }
+    },
+    "signature": {
+        "description": "Enforced Oblivion\n- Once Cull Obsidian’s Rout Buff has expired, it goes into cool down, and can be reactivated after 15 seconds.\n- When Rout enters cool down, Cull’s aggression is awarded with a Fury Buff, granting +2944 Attack for 5 seconds. This Buff gains +0.5 seconds duration for each hit landed while Rout was active.",
+        "note": "Cull is greatly rewarded for staying aggressive during his Rout time. Make sure to launch it when you’re sure it is safe to land as many attacks as possible."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://forums.playcontestofchampions.com/en/discussion/138275/champion-spotlight-cull-obsidian"
+    }
+}

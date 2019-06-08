@@ -203,6 +203,13 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.INVASIVE_FORCE ]: [ 10, 12, 15 ],
     [ EFFECT.DISPLAY_OF_STRENGTH ]: [ 10, 12, 15 ],
     [ EFFECT.HEROES_NEVER_LEARN ]: [ 10, 12, 15 ],
+    [ EFFECT.TIDE_TO_GO ]: [ 10, 12, 15 ],
+    [ EFFECT.KINGS_OF_THE_WORLD ]: [ 10, 12, 15 ],
+    [ EFFECT.BEACH_BODS ]: [ 10, 12, 15 ],
+    [ EFFECT.FORCE_BLOCK ]: [ 10, 12, 15 ],
+    [ EFFECT.TILL_DEATH ]: [ 10, 12, 15 ],
+    [ EFFECT.UNPHASED ]: [ 10, 12, 15 ],
+    [ EFFECT.ONE_WAY_OR_ANOTHER ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -410,6 +417,13 @@ const effects = [
     { uid: EFFECT.INVASIVE_FORCE },
     { uid: EFFECT.DISPLAY_OF_STRENGTH },
     { uid: EFFECT.HEROES_NEVER_LEARN },
+    { uid: EFFECT.TIDE_TO_GO },
+    { uid: EFFECT.KINGS_OF_THE_WORLD },
+    { uid: EFFECT.BEACH_BODS },
+    { uid: EFFECT.FORCE_BLOCK },
+    { uid: EFFECT.TILL_DEATH },
+    { uid: EFFECT.UNPHASED },
+    { uid: EFFECT.ONE_WAY_OR_ANOTHER },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -621,6 +635,13 @@ const effectIcons = {
     [ EFFECT.INVASIVE_FORCE ]: 'effect-invasive-force',
     [ EFFECT.DISPLAY_OF_STRENGTH ]: 'effect-invasive-force',
     [ EFFECT.HEROES_NEVER_LEARN ]: 'effect-friend-from-work',
+    [ EFFECT.TIDE_TO_GO ]: 'effect-tide-to-go',
+    [ EFFECT.KINGS_OF_THE_WORLD ]: 'effect-unstoppable',
+    [ EFFECT.BEACH_BODS ]: 'effect-attack',
+    [ EFFECT.FORCE_BLOCK ]: 'effect-perfect-block',
+    [ EFFECT.TILL_DEATH ]: 'effect-till-death',
+    [ EFFECT.UNPHASED ]: 'effect-hell-lords',
+    [ EFFECT.ONE_WAY_OR_ANOTHER ]: 'effect-friend-from-work',
 };
 
 function effectIcon(uid) {

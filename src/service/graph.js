@@ -225,6 +225,13 @@ const EFFECT_COLORS = {
     [ EFFECT.INVASIVE_FORCE ]: '#991',
     [ EFFECT.DISPLAY_OF_STRENGTH ]: '#845',
     [ EFFECT.HEROES_NEVER_LEARN ]: '#a9a',
+    [ EFFECT.TIDE_TO_GO ]: '#a78',
+    [ EFFECT.KINGS_OF_THE_WORLD ]: '#c04',
+    [ EFFECT.BEACH_BODS ]: '#88c',
+    [ EFFECT.FORCE_BLOCK ]: '#b2f',
+    [ EFFECT.TILL_DEATH ]: '#119',
+    [ EFFECT.UNPHASED ]: '#1de',
+    [ EFFECT.ONE_WAY_OR_ANOTHER ]: '#27a',
 
 };
 

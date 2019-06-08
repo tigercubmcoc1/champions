@@ -76,6 +76,7 @@ export const ICEMAN = 'iceman';
 export const MAGNETO = 'magneto';
 export const MAGNETOMARVELNOW = 'magnetomarvelnow';
 export const MISTERSINISTER = 'mistersinister';
+export const NAMOR = 'namor';
 export const NIGHTCRAWLER = 'nightcrawler';
 export const OMEGARED = 'omegared';
 export const PSYLOCKEXFORCE = 'psylockexforce';

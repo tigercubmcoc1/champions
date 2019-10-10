@@ -1,0 +1,30 @@
+{
+    "description": "Susan “Sue” Storm-Richards became the “Invisible Woman” when she joined her brother and her husband on a spacecraft test flight. During the flight, their ship was bombarded by extreme levels of cosmic radiation, and after landing she found she had the ability to turn invisible and create force fields out of energy. Over time she learned to manipulate these force fields into constructs of any shape and size.\n\nAlongside the other members of the crew, she became one of the founding members of the Fantastic Four!",
+    "youtube": "eI39GfXdbgw",
+    "gameplay": {
+        "description": "Passive:  \n- While Dodging backward, Invisible Woman is not struck by attacks.\n- 20% chance that a Block is a Perfect Block, reducing all damage to 0.\n- Physical Resistance decreased by -666.67.\n- For each Debuff on the Opponent, Invisible Woman’s Attacks deal an additional 4% of the damage dealt as a burst of Physical Damage.  \n\n\nThe Best Defense… – Pre-Fight Ability: \n- If the Force Field is active, Invisible Woman’s Hits have +243.2 Attack Rating, but also drain the Force Field by 5%.\n\n\nForce Field – Passive: \n- Invisible Woman starts the Fight with a Force Field. The Force Field’s maximum strength is equal to 1307.5 Health, and scales with boosts and buffs.\n- Whenever Invisible Woman would take damage other than from a Special 3 Attack, the Force Field takes up to 90% of the damage instead.\n- Physical and Energy Resistance are increased by 352.94.\n- When the Force Field runs out, it goes into cool-down for 20 second(s), after which it will reform at 100% strength. If the Force Field doesn’t reform for any reason, it goes into cool-down again for 10 second(s).\n\n\nInvisibility – Passive:\n- Invisible Woman turns Invisible whenever she Dodges an attack or the Force Field is depleted.\n- Invisibility lasts for 2 second(s), but starts Paused if Invisible Woman is not Bleeding.\n- While Invisible, incoming attacks have a 100% chance to Miss as long as Invisible Woman is not Blocking or Dodging, and Critical Rating is increased by 3714.29.\n- Invisibility is unpaused when Invisible Woman Blocks an Attack, an Opponent Misses, or an Opponent hits Invisible Woman.\n- When Invisibility expires, it goes into cooldown for 10 second(s).\n\n\nVulnerability – Debuff:\n- Whenever Invisible Woman would turn Invisible, she places a Vulnerability Debuff on the Opponent, to a maximum of 50 Vulnerabilities.\n- When attacking a Vulnerable Opponent, increase Critical Damage Rating by 32.52 and decrease their Block Proficiency by 10%.\n- All Vulnerability Debuffs are Purified when Invisibility expires. Whenever a Vulnerability Debuff is Purified, Invisibility expires immediately.\n\n\nWhen Attacked:\n- If the Force Field is active, 65% chance to Exhaust the Opponent, decreasing Critical Damage Rating by 58.25 for 5 second(s). The Opponent’s Power Gain effects are also reduced by 25% for each Exhaustion Debuff on them."
+    },
+    "specials": {
+        "1": {
+            "description": "Field Trip: Invisible Woman launches an energy construct, sails into the air, then kicks a second construct at the Opponent.",
+            "note": "On the last hit, if the Force Field is active, add a flat 25% to its current strength. If the Force Field is on Cooldown, 50% chance for it to be restored at 50% strength."
+        },
+        "2": {
+            "description": "Force Smash: Invisible Woman knocks the Opponent off their feet with an energy platform, then slams into them with her Force Field.",
+            "note": "The first hit of this attack grants Fury for 9 second(s), increasing Attack Rating by 1216, scaling with the current Force Field strength. Then the Force Field is drained. If this attack is Blocked, Invisible Woman has a 50% chance to turn Invisible."
+        },
+        "3": {
+            "description": "Now You See Me, Now You Don’t: Sue vanishes before the Opponent’s eyes, launches them into the air with an energy platform, then sends them flying into the wall.",
+            "note": "If the Force Field is active, add a flat 100% to the Force Field’s current strength. If the Force Field is on Cooldown, it is instead restored at 100% strength. Pause Invisibility on Invisible Woman. It cannot unpause for 6 second(s)."
+        }
+    },
+    "signature": {
+        "description": "Vanishing Act: \n- Invisible Woman turns Invisible at the start of the fight, but it is not Paused.\n- 50% chance to turn Invisible whenever Invisible Woman is knocked down.\n- Whenever the Opponent Misses, the Force Field gains back 5% of its starting value.",
+        "note": "Since the Invisibility at the start of the fight will not be Paused, it will expire and go into Cooldown 2 seconds into the fight. The last part of this Signature Ability increases Force Field strength every time a Miss occurs, so attacks with additional hits will trigger it additional times."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-invisible-woman/"
+    }
+}

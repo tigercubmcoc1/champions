@@ -1,0 +1,32 @@
+{
+    "description": "The Man-Thing was once the brilliant biochemist Dr. Ted Sallis. While working for S.H.I.E.L.D. to replicate the Super Soldier Serum, Dr. Sallis was forced to flee due to an A.I.M. plot to steal his work. Injecting himself with the only remaining sample of his serum before crashing his car into the swamp while on the run. Rather than dying from that crash, he was reformed into a creature made of the swamp itself, The Man-Thing!",
+    "gameplay": {
+        "description": "Made of Mush – Passive \n- Man-Thing is made of swamp mush, and lacks any meaningful weak points to exploit, this makes it Immune to Armor Break or Shatter effects, and prevents Critical Hits from dealing Bonus Damage.\n- Man-Thing’s lack of blood also makes it Immune to Bleed effects.\n\n\nEmpathic Agitation – Passive\n- Man-Thing reacts to powerful emotions, gaining +5 Agitation when Struck by any attack, and when Hitting a Buffed Opponent with a Medium Attack, up to a maximum of 100.\n- As Man-Thing’s Agitation grows so does its Attack, gaining up to 882.4 Attack based on Agitation.\n- Agitation falls off over time, falling off faster the longer it’s been since it last increased.\n- If the Opponent is a #Villain or has an active Buff, Man-Thing will wait 5 second(s) after each increase before Agitation begins to fall off.\n\n\nAcidic Secretions – Passive\n- Each time Man-Thing makes Contact it has up to a 15% chance based on its current Agitation to Nullify a Buff off the Opponent.\n\n\nToxic Pustules – Buff\n- Any Buff other than a Toxic Pustule Nullified on the Opponent has a 100% chance to become a Toxic Pustule lasting for 15 seconds.\n- Whenever a Toxic Pustule Buff is Nullified it has a 100% chance to burst becoming a Poison Debuff and an Armor Break Debuff.\n- The Poison Debuff does 1020.28 damage over 15 seconds, and reduces Regeneration effect by 30%.\n- The Armor Break Debuff reduces Armor by 222.22 and lasts 15 seconds.\n\n\nWhile Heavy Attack Charging – Buff\n- 100% Chance to gain an Unstoppable Buff for 1 second(s). Cooldown: 5 seconds.\n\nSpecial Attacks – Buff\n- When Activating a Special Attack Man-Thing has a 100% Chance to place a Toxic Pustule Buff on the Opponent lasting 15 seconds."
+    },
+    "attack": {
+        "heavy": "100% chance to Nullify each Toxic Pustule Buff on the Opponent. Armor Break and Poison Debuffs caused by bursting Toxic Pustules with this ability have 50% increased potency."
+    },
+    "specials": {
+        "1": {
+            "description": "Armed and Dangerous: Man-Thing uses a part of itself as a weapon, splattering its opponent with caustic slime.\n\n- 100% Chance on Contact, to place a Toxic Pustule Buff on the Opponent lasting 15 seconds.",
+            "note": "There are 2 hits in this Special Attack, so when combined with the Toxic Pustule placed for Activating any of its Special Attacks this Special will allow Man-Thing to place a total of 3 Toxic Pustules, assuming both hits make contact of course."
+        },
+        "2": {
+            "description": "Toxic Burst: Man-Thing unleashes blasts of toxic swamp sludge, slamming its opponents away.\n\n- 100% Chance to Nullify up to 2 Buff(s) per Hit.",
+            "note": "There are 3 hits in this Special Attack, so a total of 6 Nullifies are possible. This Special will also Nullify Toxic Pustules, so it’s very possible to Nullify for example 3 Fury Buffs straight into 3 Poisons and 3 Armor Breaks."
+        },
+        "3": {
+            "description": "Evil’s Bane: Man-Thing reacts to the aggression in its opponnent’s heart, attempting to burn it away, before striking them down.\n\n- 100% Chance to grant a Fury Buff increasing Attack by up to 882.4 based on Agitation for 30 seconds.\n- 100% Chance to place a Poison Debuff on the Opponent causing up to 1626.93 damage based on Agitation over 20 seconds, and reducing all Regeneration by 30%.\n- 100% Chance to place 2 Toxic Pustule Buffs on the Opponent lasting 15 seconds.",
+            "note": "Man-Thing’s Special 3 is great for longer fights, especially when combined with Mystic Dispersion. While the effects won’t stack (we tried it, and with Mystic Dispersion things got out of hand quickly!) the Attack bonus from the Fury Buff does get magnified by all of the Poisons Man-Thing is triggering as well as the Armor Breaks it’s placing."
+        }
+    },
+    "signature": {
+        "description": "Strength of the Swamp: Man-Thing draws power from the swamp around it empowering its strikes or healing its wounds.\n\nSpecial Attacks\n- If Man-Thing is at or Above 50% Health it has a 100% Chance to trigger a Fury Buff, increasing its Attack by 275.75 for 10 seconds.\n- If Man-Thing is below 50% Health it has a 100% Chance to trigger a Regeneration Buff regaining 790.6 Health over 10 seconds.",
+        "note": "Again we had to keep these to only a single stack or Man-Thing’s propensity to throw many special attacks had things spiralling out of control! But that also means it’s very possible to have one or the other of these Buffs active for most of the fight giving a noticeable bump to Man-Things damage and ability to come back after a tough fight."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-man-thing/"
+    }
+}

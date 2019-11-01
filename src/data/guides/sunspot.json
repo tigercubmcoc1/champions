@@ -1,0 +1,32 @@
+{
+    "youtube": "wyWlKxMTF3Q",
+    "description": "Roberto Da Costa is a hot-headed, suave Brazilian millionaire, and a highly respected leader to mutants and heroes alike. Backed up with the ability to absorb, store, and unleash enormous amounts of solar energy at will, Sunspot is a force to be reckoned with both behind the scenes and on the battlefield.",
+    "gameplay": {
+        "description": "Solar Charges – Max: 80 Stacks  \n- Sunspot is Immune to all Incinerate effects. Whenever Sunspot would be incinerated he instead generates 5 Solar Charges.\n- Sunspot starts a fight with his maximum Solar Charges. 1 charge expires every 3 seconds.\n\n\nFlare State – Max: 10 Stacks\n- Sunspot maintains Flare State for as long as he has Solar Charges.\n- If under the effects of Shock or when running out of Solar Charges, Flare State is disabled and all stacks are removed.\n- Whenever Sunspot’s attacks make contact with his Opponent he expends 1 Solar Charge per hit for each stack of Flare State. Each charge expended increases the damage of that hit by 523.5.\n\n\nIncinerates\n- When Striking the Opponent, inflict an Incinerate for each Solar Charge expended, dealing 104.7 energy damage for 5 seconds.\n- Incinerates remove Perfect Block chance and lower the Opponent’s Block Proficiency by 50%.\n- If a Strike fails to apply an Incinerate on the Opponent due to chance, or whenever any Incinerate is Purified, gain 10% of a bar of Power and 1 Solar Charge. \n- As Sunspot gains Power the potency of any Power gained by Incinerates is reduced by up to 57%.\n\nOn Well-Timed Blocks\n- For as long as Sunspot’s Opponent is Incinerated, Well-Timed blocks grant 100% Perfect Block chance for the duration of his Opponents Combo or Special Attack.\n- When Sunspot performs a Perfect Block he Purifies 1 Incinerate Debuff on his Opponent."
+    },
+    "attack": {
+        "heavy": "While Charging a Heavy Attack, Sunspot Purifies 1 Incinerate Debuff on his Opponent every 0.18 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Kick Off: Sunspot performs a dazzling combination of Capoeira kicks.\n- Gain an additional stack of Flare State.\n- Incinerates inflicted during this Special Attack last 9 seconds longer.",
+            "note": "This Special Attack is Sunspot’s bread and butter and should be his focus for the beginning of any fight. Each time this Special Attack is launched Sunspot is going to increase the number of Solar Charges he consumes on each hit. Make sure you keep an eye on how many Solar Charges you have to spend, if you launch too many Special 1’s and can’t reach your Special 2 for the big pay off or the Special 3 to reload your charges, you’re going to need to reset from the beginning."
+        },
+        "2": {
+            "description": "Ultra-violent Radiation: After a flurry of attacks Sunspot drives his fist into the Earth, creating an eruption of molten lava.\n- The final hit expends up to 15 Solar Charges.\n- For each stack of Flare State, Sunspot gains a Prowess effect increasing the damage dealt by this Special Attack by 200%.",
+            "note": "The best I was able to do was achieve 8 Stacks of Flare State before launching this Special Attack. When Sunspot lands the final hit of this attack with 1600% increased damage… it really is Ultra-violent"
+        },
+        "3": {
+            "description": "SPF 10,000: Following a quick adjustment of his stylish suit, Sunspot aims to close the deal by unleashing a devastating blast of solar energy.\n- Sunspot recovers up to his maximum Solar Charges.\n- For every 20 Solar Charges recovered Sunspot Inflicts 1 Incinerate Debuff dealing 1047 Energy Damage over 12 seconds.",
+            "note": "This Special is great for long fights. If you find you’re running low on Solar Charges but you still want to build to a higher number of Flare States, skip the Special 2 and rush for the Special 3 to reload all your Solar Charges while keeping your active Flare States."
+        }
+    },
+    "signature": {
+        "description": "Gideons Experiments\n- Sunspot becomes more proficient with absorbing and unleashing the energies of the Contest.\n- Sunspot increases his maximum number of Solar Charges by 30."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-sunspot/"
+    }
+}

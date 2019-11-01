@@ -1,0 +1,30 @@
+{
+    "description": "Vision, whose true name is Aarkus, is an alien law enforcement officer from a dimension known as Smokeworld. After being accidentally contacted by a scientist from Earth, Aarkus came to our dimension to fight crime. He has the ability to control gasses, smoke and cold, even teleporting to the far side of the world using little more than a smouldering cigar.",
+    "gameplay": {
+        "description": "Passive:  \n- Aarkus reduces the potency of Power Drain effects by 80%, and the duration of Power Lock effects by 50%.\n- Aarkus gains 15% less Power from landing and receiving Hits.\n\n\nPower of Smokeworld – Buff – Max: 5\n- Aarkus draws strength from the Smokeworld dimension at all times. He starts the fight with a Power Gain Buff, and gains 1 every 10 second(s).\n- These Buffs last indefinitely. The first one grants Aarkus 4% of a Bar of Power every 1 second(s), and every subsequent Power Gain Buff is 33.33% less effective.\n- He also gains one whenever his Power is Drained or he receives a Power Lock Debuff.\n\n\nFrozen Air:\n- While Aarkus has a Power Gain Buff, he freezes the area near him. Every 2.30 second(s) the Opponent spends near Aarkus, they gain an Armor Break Debuff, decreasing Armor Rating by 222.22 for 5 second(s). These Armor Breaks are capped at 10.\n- Armor Break Debuffs on the Opponent are Paused while they are near Aarkus.\n- While the Opponent is near Aarkus and they have an Armor Break or Armor Shattered Debuff, they also gain a Coldsnap Debuff, dealing 126.28 Energy damage every 0.50 second(s). Opponents under a Coldsnap cannot Evade attacks.  \n\n\nSpecial Attacks:\n- Hits from Special Attacks Pause all Armor Break Debuffs on the Opponent until the end of the Special Attack."
+    },
+    "specials": {
+        "1": {
+            "description": "Spiral of Smoke: Aarkus rises up on a tornado of smoke and vapor, then slams into his Opponent, knocking them back with the force of a gale.\n\n- Each hit refreshes all Armor Break Debuffs on the Opponent.\n- If the Opponent is Armor Shattered, this Attack deals 2066.4 bonus Energy damage.",
+            "note": "Aarkus is most effective when he can get 10 Armor Breaks on the Opponent before converting them into Armor Shattered.The refresh on The Vision’s Special 1 Attack makes it easier for him to get those 10 Armor Breaks."
+        },
+        "2": {
+            "description": "Blizzard Blast: Aarkus conjures a blast of frozen energy, snow, and ice, chilling his Opponents to the core.\n\n- Replace all Armor Break Debuffs on the Opponent with one Armor Shattered Debuff. For each Armor Break removed, this Debuff lasts 5 seconds and reduces Armor Rating by 352.94.\n- While Armor Shattered is active, Opponents cannot suffer from further Armor Break Debuffs nor activate their Armor Buffs. Additionally, this Debuff shatters Robot Champion’s systems, reducing their Ability Accuracy and Power Gain by 100%.\n- If the Opponent was already Armor Shattered, instead this Attack deals 2066.4 bonus Energy damage.",
+            "note": "This is the Special Attack that Aarkus wants to work towards in the initial stages of the fight. In addition to Armor Shattered being potent against Robots, it has a stronger Armor reduction than his individual Armor Breaks, and is used to trigger bonus effects on his other Special Attacks"
+        },
+        "3": {
+            "description": "Talk to the Hand: Aarkus vanishes into the ground in a puff of smoke, then uses the energy of Smokeworld to grow his hand to gargantuan size. He toys with the Opponent for a brief time, before picking them up and slamming them into the wall.\n\n- Aarkus increases the area his abilities affect to cover the entire field for 20 seconds.\n- If the Opponent is Armor Shattered when this Attack is activated, gain a Fury Buff increasing Attack Rating by 2066.4 for 20 seconds.",
+            "note": "For 20 seconds Aarkus doesn’t have to worry about keeping the Opponent in-range to apply Armor Break and Coldsnap to them. And if they’re affected by Armor Shattered, he gets a nice long Fury buff which increases the damage of both his regular hits, and his Coldsnap. This attack is great when you just want to let loose on the Opponent."
+        }
+    },
+    "signature": {
+        "description": "Smoke and Mirrors: Like smoke slipping through your fingers, this Signature Ability makes Aarkus even harder to pin down.\n\nPassive:\n- Whenever Aarkus gains a non-Damaging Debuff, he has a 80.08% chance to Purify one of each non-Damaging Debuff on him. This cannot trigger more than once every 9.50 seconds",
+        "note": "Important to note that it purifies one of each type of non-Damaging Debuff on him, so triggering this can have consequences for more than just the Debuff that triggered it."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-vision-aarkus/"
+    },
+    "youtube": "x32MwhIiis4"
+}

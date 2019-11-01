@@ -1,0 +1,33 @@
+{
+    "youtube": "HVAe6B8-t6Y",
+    "description": "Self is referred to as Warlock. Self is capable of many wondrous feats, including changing shape and making jokes! Transmode virus, also used to transfer lifeglow from Opponents, Self will not harm any Champion in The Contest! Hilarious falsehood! Much harm will come to any who attempt to harm Self or SelfFriends!",
+    "gameplay": {
+        "description": "Passive: \n- Immune to Bleed, Poison, Coldsnap, and Frostbite.\n- His durable Technarch form grants Warlock a permanent Armor Up Buff, increasing Armor Rating by +666.67. If this Buff is removed for any reason, it will refresh itself after 10 second(s).\n- While this Buff is active, Opponent’s Special Attacks cannot be Critical.\n\n\nContact:\n- The Opponent gains a charge of Techno-Organic Transmode Virus. The Virus is not affected by Ability Accuracy.\n- Once the Opponent has 20 charges, they are removed and replaced with one Infection Passive that lasts for 20 second(s). The duration is decreased by 6 second(s) for each unique Buff on the Opponent when it activates.\n\n\nTechno-Organic Transmode Virus Infection - Passive:\n- The Opponent is Heal Blocked. If the Salve Mastery is active, the Mastery is removed.\n- The Opponent has -30% Offensive Ability Accuracy.\n- Whenever the Opponent would gain Health while infected, they Drain 5% of their current Power over 0.50 second(s).\n\n\nBlocking:\n- If the Block was Well-Timed, the Opponent gains 3 Virus charges.\n- If the hit was a non-contact Basic Attack, the Opponent instantly Drains 10% of their current Power."
+    },
+    "attack": {
+        "heavy": "Lacerate opponents, inflicting 1090.6 Bleed damage over 5 second(s)."
+    },
+    "specials": {
+        "1": {
+            "description": "Mega Buster\n- The last hit Shocks the Opponent, dealing 1722 energy damage over 10 second(s). If they are Infected, this also triggers when the Attack is activated, but lasts half as long.\n- The first hit removes all Infections to Passively Drain 25% of the Opponent’s Max Power over 5.50 second(s) for each Infection removed.",
+            "note": "If the Opponent is Infected, Warlock places two Shocks on them: one on activation, and a second one on the final hit. The one triggered on activation deals half as much damage, since it lasts half as long. The Power Drain removes Infections right after the first Shock activates."
+        },
+        "2": {
+            "description": "Pinwheel + Pummel\n- The last hit places two Armor Break Debuffs on Opponent, each reducing Armor Rating by 2000 for 10 second(s). If they are Infected, the Debuffs also trigger when the Attack is activated, but lasts half as long.\n- The last hit refreshes one Infection.",
+            "note": "Like with the Shock, this attack places two Armor Breaks on the Opponent if they’re Infected. Armor Break isn’t as threatening as a Shock, but it can still trigger the Willpower mastery, which will cause the Opponent to drain Power if they’re Infected. This attack also has 10 contact hits, so it’s a great way to quickly build up lots of Infection Charges."
+        },
+        "3": {
+            "description": "Dine & Smash\n- Inflict a Passive Power Burn on the Opponent, draining 100% of their current Power over 5.50 second(s) and dealing damage proportionate to the amount lost.\n- Regenerate 620.32 Health for each Infection the Opponent has.",
+            "note": "The Power Burn includes any Power the Opponent gains from being hit by the attack. But since the Power Burn is over time, the Opponent still has a chance to activate Special Attacks while their Power is draining."
+        }
+    },
+    "signature": {
+        "description": "Child of Kvch:\n- When Opponent’s Power is Drained or Burned:\nDegenerate the Opponent, dealing 287.03 direct damage over 2 second(s).",
+        "note": "Warlock can trigger this via his SP1, SP3, when Blocking a non-contact Basic Attack, and when the Opponent tries to heal. If the Power Drain/Burn is longer than 2 seconds, this ability will trigger multiple times."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-warlock/"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "description": "In the future world of 2099, the Alchemax Corporation acquires “La fleur du mal”, the ancient demon sword of the Guillotine lineage. Using future technology and corporate mystical arts, they reverse-engineer the demonic forces inhabiting the sword, creating a new weapon capable of “digitizing” human souls. Born out of an unholy blend of cutting-edge technology and ancient dark magic, Guillotine 2099 is developed as the blueprint for an army of sword-wielding robotic warriors.",
+    "gameplay": {
+        "description": "Robotics \n- Advanced Robotics provides Immunity to Bleed & Poison effects.\n- Once per fight, when Guillotine 2099 drops below 15% health and she has at least 1 Digi-Soul, Self-Repair is activated, recovering 2079.9 health per Digi-Soul over 4 seconds. This ability triggers instantly when starting a fight below 15% health. If Stunned during repair, connection is lost and the Repair immediately ends.\n\n\nDigi-Souls – Persistent Charge\n- Guillotine 2099 begins the quest with 2 Digi-Souls, each providing +16% defensive Power Rate. Digi-Souls are refunded after each fight and can be spent to enhance Guillotines sword on the Pre-Fight screen.\n- At the start of the fight, if Guillotine has at least 1 Digi-Soul, she gains an Armor Up Buff granting +1333.33 Armor Rating per Digi-Soul and lasting indefinitely. If removed, this Armor reactivates after 4 seconds.\n\n\nPre-Fight – Sword Empowerment – Costs 1 Digi-Soul each.\n- Huntress Function: Every 20th attack on the Combo Meter is a guaranteed Critical Hit, if this Attack is a Special 1 or 2 all hits of the Attack are guaranteed to be Critical.\n- Stability Function: While above 99 hits in the Combo Meter, Medium attacks Life Steal 5% of the damage dealt.\n- Assault Function: While above 99 hits in the Combo Meter, Medium attacks Burn 5% of the Opponent’s Current Power.\n\n\nPassive – Combo Meter Abilities\n- Guillotine’s Attack Rating increases by +19.08 with each hit in her Combo Meter, capping after 100 hits.\n- At a Combo of 100+ Guillotine’s sword becomes empowered, dealing a burst of 25.44 direct energy damage for each hit above 100, scaling with base attack and capping after 600 hits.\n\n\nWhen Attacked by a Light or Medium Attack\n- 15% chance to activate Digi-Cloak, lasting 2.50 seconds per Digi-Soul and causing all unblocked attacks to Miss. Cooldown: 10 seconds after each use, and each time Guillotine is knocked down.\n- While fighting Mutant Opponents the Digi-Cloak’s cooldown is reduced by 50% and it’s chance to activate is doubled."
+    },
+    "attack": {
+        "description": "Guillotine 2099 can’t land Critical Hits naturally, however every time she would have landed a Critical Hit her sword strikes deep into the Opponent’s soul, inflicting a Degeneration Debuff, dealing 318 direct damage over 3 seconds.",
+        "note": "Guillotine 2099’s degeneration damage scales with her Attack, meaning the increased Attack gained from building Combo Meter will also significantly enhance her degeneration damage.",
+        "heavy": "100% chance to gain a Combo Shield Passive lasting indefinitely. Max stacks 2, plus an additional 2 for every Digi-Soul. When struck, a Combo Shield is removed."
+    },
+    "specials": {
+        "1": {
+            "description": "Soul Slash: Guillotine 2099 slashes her opponent before releasing a powerful blast of excess soul energy from within her Soulsplitter.\n\n- The final strike of this attack drains 20% of the Opponent’s current Power per Digi-Soul, increasing to 40% per Digi-Soul if the attack doesn’t make contact with the Opponent."
+        },
+        "2": {
+            "description": "LFM 99 Soulsplitter: Guillotine 2099 temporarily splits her blade in two, unleashing a series of devastating blows in rapid succession.\n\n- On activation: 100% chance to inflict a Spectre Debuff, reducing the Opponent’s Regeneration Rate by 120% for 12 seconds.",
+            "note": "Using Special 2 is a quick way to rapidly ramp up Guillotine 2099’s Combo Meter and unlock her best abilities since it has so many hits. Mix in a few heavy attacks along the way to gain the Combo Shield and protect the Combo Meter even further."
+        },
+        "3": {
+            "description": "Soul Digitizer: Using the blades from her Soulsplitter as projectiles, Guillotine 2099 pierces deep within the opponent’s soul before holding them in place and scanning their soul for digitization.\n\n- If the Opponent is at or below 5% of their max health this attack knocks them out. This damage can be prevented or reduced.\n- If Guillotine uses this attack to knock out her Opponent, their soul is digitized and absorbed, allowing her to start the next fight with 100 hits in her Combo Meter.",
+            "note": "When playing as Guillotine 2099, you’ll always want to end your fights with a Special 3, this will significantly boost Guillotine 2099 in her next fight and allow her to start dealing some great damage immediately!"
+        }
+    },
+    "signature": {
+        "description": "Advanced A.I. Integration\n\nPassive\n- When Guillotine would be struck she has a 76.71% chance to gain a Combo Shield Passive lasting 2 seconds, plus 2 additional seconds per Digi-Soul. Cooldown: 60 seconds.\n- While under the effect of a Combo Shield, damage from incoming attacks excluding Special 3 is capped at 10% of Guillotine’s max health.",
+        "note": "Not only does this ability allow Guillotine 2099 to retain her Combo Meter when she is struck, it also allows her to potentially survive attacks from extremely stacked Opponents! This combination is yet another way she is great at holding onto that Combo Meter and surviving in a variety of situations that would normally result in a knockout!"
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-guillotine-2099/"
+    },
+    "youtube": "_mgVSmKLbuQ"
+}

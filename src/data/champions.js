@@ -53,6 +53,7 @@ const champions = [
         ...championStars({ uid: CHAMPION.PHOENIX }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.PROXIMAMIDNIGHT }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.RONAN }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.SILVERSURFER }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.SPIDERMANBLACK }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.SUPERIORIRONMAN }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.THANOS }, [ 4, 5 ]),
@@ -186,9 +187,10 @@ const champions = [
     ...typeId(TYPE.MYSTIC, [
         ...championStars({ uid: CHAMPION.BLACKWIDOWCLAIRE }, [ 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.DIABLO }, [ 3, 4, 5, 6 ]),
-        ...championStars({ uid: CHAMPION.DRVOODOO }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.DORMAMMU }, [ 2, 3, 4, 5, 6 ]),
+        ...championStars({ uid: CHAMPION.DRDOOM }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.DRSTRANGE }, [ 2, 3, 4, 5 ]),
+        ...championStars({ uid: CHAMPION.DRVOODOO }, [ 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.EBONYMAW }, [ 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.GHOSTRIDER }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.GUILLOTINE }, [ 2, 3, 4, 5, 6 ]),
@@ -210,6 +212,7 @@ const champions = [
     ...typeId(TYPE.UNIVERSAL, [
         ...championStars({ uid: CHAMPION.MAESTRO }, [ 5 ]),
         ...championStars({ uid: CHAMPION.THECOLLECTOR }, [ 5 ]),
+        ...championStars({ uid: CHAMPION.GRANDMASTER }, [ 5 ]),
     ]),
 ].map((champion) => new Champion(champion));
 

@@ -1,0 +1,33 @@
+{
+    "description": "Leaving his tribe in Latveria, Victor Von Doom moved to the United States to study at the Empire State University where he combined sorcery and technology to create fantastic inventions. Disregarding the warnings of fellow classmate Reed Richards, one of his inventions malfunctioned resulting in an explosion that severely damaged his face. Expelled after the incident, Victor began traveling the world eventually collapsing exhausted, on a Tibetan mountainside where he was rescued by a clan of monks. Mastering their discipline and forging himself a suit of armor, Victor took on the mantle Doctor Doom, his mission to serve revenge on those he holds responsible for his accident.",
+    "gameplay": {
+        "description": "Passive – Titanium Armor\n- Doom’s resilient armor protects him, granting immunity to Armor Break, Armor Shatter and Shock effects.\n\n\nAura of Haazareth – Passive\n- The Aura of Haazareth can’t trigger while Doom is suffering from a Slow or Petrify Debuff and is paused during his Special Attacks.\n- While active, Special Attack 1 and 2 are Unblockable and grant no Power.\n- Light Attacks grant no Power and steal 3% of the Opponent’s current Power, gaining 200% of the Power stolen.\n- Contact with the Opponent has a 30% chance to Nullify up to 1 Buff.\n- Doom becomes Unstoppable and Stun Immune against the last hit of incoming Special 1, Special 2, and Heavy Attacks. Additionally, damage received from this hit can’t exceed 5% of the Opponent’s Attack.\n\n\nI Answer to No One (Passive Synergy with Himself)\n- Attack Rating is increased by 10% for each knocked out team member."
+    },
+    "attack": {
+        "description": "- If the Opponent isn’t already Shocked, Medium Attacks inflict a Shock Debuff dealing 148.6 direct energy damage over 2 second(s).",
+        "heavy": "- While charging a Heavy Attack, if the Opponent is within striking distance and suffering from Shock their Shock effects are removed and replaced with a Passive Stun for 0.60 seconds. This can’t trigger during the Opponent’s Special Attacks. Landing a Heavy Attack has a 100% chance to Stagger the Opponent for 10 seconds. A Staggered enemy has their next Buff Nullified."
+    },
+    "specials": {
+        "1": {
+            "description": "Invocation of Sorcery: Channeling his knowledge of sorcery, Doom blasts his opponent with a mystical beam, burning their energy and absorbing it for himself.\n\n- The Aura of Haazareth is activated for 6 seconds, this will not trigger if the Aura was already active.\n- The first hit of this Attack steals 10% of each Full Power Bar the Opponent has and Doom gains 200% of the Power stolen, capping at a maximum of 2 Bars of Power.\n- The amount of Power stolen is increased by a flat +10% for each full Power Bar the Opponent has.\n- Each beam hit of this attack has a 100% chance to Nullify up to 1 Buff.",
+            "note": "As long as Dr. Doom isn’t suffering from Slow or Petrify, this attack will always be Unblockable, meaning if the opponent is playing defensively Doom can just throw this attack into their block and laugh."
+        },
+        "2": {
+            "description": "Cosmic Energy Absorption: Syphoning cosmic energy from the Battlerealm, Doom supercharges his armor capacitors, unleashing a destructive blast onto his opponent. \n\n\n- Each beam hit has a 100% chance to inflict an Incinerate Debuff, each dealing 2080.4 direct energy damage over 5 seconds.",
+            "note": "This ability is strictly for damage purposes. If the Opponent has a lot of Power, using the Special 1 can steal enough Power to instantly chain into a Special 2 which will be Unblockable and grant no Power since the Aura of Haazareth will be active. Meaning a bunch of damage inflicted without giving the Opponent a ton of Power!"
+        },
+        "3": {
+            "description": "Hassenstadt Tour: Teleporting the opponent to Castle Doom, Doom combines both sorcery and technology to devastate them with an incredible blast.\n\n- 100% chance to inflict a Passive Stun for 2 seconds.\n- The Aura of Haazareth is activated for 12 seconds and Doom gains a Fury Buff granting 1931.8 Attack Rating for the duration of the Aura, max stacks 2. This will always refresh at maximum duration whether or not the Aura was already active.",
+            "note": "The stun from this attack is just long enough for Doom to immediately initiate his next combo. If this is a combo of Light Attacks, Doom can steal enough Power to instantly chain into another Special 1 and steal even more Power!"
+        }
+    },
+    "signature": {
+        "description": "Indomitable Will\n\n- Whenever Doom Nullifies a Power Gain Buff he receives one for himself, granting 20% of his max Power over 3 seconds.\n- If the Opponent isn’t already Shocked whenever Doom Nullifies any Buff, they have a 80.39% chance to be inflicted with a Shock Debuff, dealing 445.8 direct energy damage over 6 seconds.",
+        "note": "If Doom is fighting a champion who frequently gains Buffs such as Hyperion, Vision Aarkus or Medusa, players can strategically align Doom’s Stagger effects to instantly Nullify these Buffs as they activate. Which will in turn inflict a shock from Doom’s Signature Ability and allow him to immediately chain a Heavy into another Stagger."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-doctor-doom/"
+    }
+}

@@ -18,7 +18,6 @@ import roster from '../../src/service/roster';
 roster.clear();
 
 describe('view/pages/', () => {
-
     describe('<GuideEditPage/>', () => it('should render without error', () => expect(render(<GuideEditPage />)).to.exist));
     describe('<GuidePage/>', () => it('should render without error', () => expect(render(<GuidePage />)).to.exist));
     describe('<LanguageEditPage/>', () => it('should render without error', () => expect(render(<LanguageEditPage langId="en" />)).to.exist));
@@ -32,7 +31,10 @@ describe('view/pages/', () => {
     });
     describe('<RosterEditPage/>', () => it('should render without error', () => expect(render(<RosterEditPage />)).to.exist));
     describe('<RosterPage/>', () => it('should render without error', () => expect(render(<RosterPage />)).to.exist));
-    describe('<SynergyPage/>', () => it('should render without error', () => expect(render(<SynergyPage />)).to.exist));
+    describe('<SynergyPage/>', () => it('should render without error', (done) => {
+        expect(render(<SynergyPage />)).to.exist);
+        done();
+    });
     describe('<TeamsPage/>', () => it('should render without error', () => expect(render(<TeamsPage />)).to.exist));
     describe('<TeamsEditPage/>', () => it('should render without error', () => expect(render(<TeamsEditPage />)).to.exist));
     describe('<TeamsSettingsPage/>', () => it('should render without error', () => expect(render(<TeamsSettingsPage />)).to.exist));

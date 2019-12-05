@@ -20,6 +20,7 @@ export const KORG = 'korg';
 export const LOKI = 'loki';
 export const MEDUSA = 'medusa';
 export const MSMARVEL = 'msmarvel';
+export const NOVA = 'nova';
 export const PHOENIX = 'phoenix';
 export const PROXIMAMIDNIGHT = 'proximamidnight';
 export const RONAN = 'ronan';

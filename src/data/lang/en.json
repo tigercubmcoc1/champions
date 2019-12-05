@@ -29,6 +29,7 @@
     "champion-mrfantastic-name": "Mr. Fantastic",
     "champion-drdoom-name": "Doctor Doom",
     "champion-silversurfer-name": "Silver Surfer",
+    "champion-nova-name": "Nova",
     "champion-namor-name": "Namor",
     "champion-havok-name": "Havok",
     "champion-mistersinister-name": "Mister Sinister",
@@ -467,6 +468,9 @@
     "effect-skastronomy-name": "Shared Knowledge - Astronomy",
     "effect-skrobotics-name": "Shared Knowledge - Robotics",
     "effect-skgenetics-name": "Shared Knowledge - Genetics",
+    "effect-heraldsofgalactus-name": "Heralds of Galactus",
+    "effect-secretdefenders-name": "Secret Defenders",
+    "effect-minetravelsthroughspace-name": "Mine Travels Through Space",
 
     "effect-attack-type": "Attack",
     "effect-critrate-type": "Critical Rate",
@@ -721,6 +725,9 @@
     "effect-skastronomy-type": "Shared Knowledge - Astronomy (Unique Sinergy)",
     "effect-skrobotics-type": "Shared Knowledge - Robotics (Unique Sinergy)",
     "effect-skgenetics-type": "Shared Knowledge - Genetics (Unique Sinergy)",
+    "effect-heraldsofgalactus-type": "Heralds of Galactus (Unique Sinergy)",
+    "effect-secretdefenders-type": "Secret Defenders (Unique Sinergy)",
+    "effect-minetravelsthroughspace-type": "Mine Travels Through Space (Unique Sinergy)",
 
     "effect-attack-description": "Increases damage on all attacks.",
     "effect-critrate-description": "Increases the chance for critical hit.",
@@ -975,6 +982,9 @@
     "effect-skastronomy-description": "Cosmic and Skill Champion’s Basic Hits pause one of each Buff on them for 0.2 second(s).",
     "effect-skrobotics-description": "Tech and Science Champion’s Debuffs also apply an indefinite Power Sting, dealing Direct Damage equal to 60% of their Attack Rating when the Opponent activates a Special Attack. The Power Sting stacks up to 3 times.",
     "effect-skgenetics-description": "Mutant and Mystic Champions regain 5% of the Power spent on any Special Attack, for each unique Special Attack they’ve used in the fight.",
+    "effect-heraldsofgalactus-description": "Silver Surfer: Once per fight, if Silver Surfer were to lose more than 25% of his life in a single hit he instead consumes the Power Cosmic Buff and gains an Indestructible Buff for 6.0 seconds.",
+    "effect-secretdefenders-description": "Silver Surfer: Reduce the cooldown of Silver Surfer’s Power Cosmic Buff by 3.0 seconds. - Hulk: All of Hulk’s Fury Buffs are Passive effects and grant 100 bonus Critical Rating when striking a Stunned Opponent. - Doctor Strange: Increase the Potency of each of Doctor Strange’s Blessings by 25%.",
+    "effect-minetravelsthroughspace-description": "Silver Surfer: Board attacks generate 30% less power for the Opponent. - Night Thrasher: Board attacks deal a burst of 5% bonus Physical Damage for each Unique Debuff on the Opponent. . - Mysterio: Mysterio’s advantages against Spider-Verse champions extends to all Hero Champions.",
 
     "type-cosmic-name": "Cosmic",
     "type-tech-name": "Tech",

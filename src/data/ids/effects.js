@@ -251,3 +251,6 @@ export const COLLEGE_RIVALS = 'collegerivals';
 export const SK_ASTRONOMY = 'skastronomy';
 export const SK_ROBOTICS = 'skrobotics';
 export const SK_GENETICS = 'skgenetics';
+export const HERALDS_OF_GALACTUS = 'heraldsofgalactus';
+export const SECRET_DEFENDERS = 'secretdefenders';
+export const MINE_TRAVELS_THROUGH_SPACE = 'minetravelsthroughspace';

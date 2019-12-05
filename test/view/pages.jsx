@@ -31,13 +31,7 @@ describe('view/pages/', () => {
     });
     describe('<RosterEditPage/>', () => it('should render without error', () => expect(render(<RosterEditPage />)).to.exist));
     describe('<RosterPage/>', () => it('should render without error', () => expect(render(<RosterPage />)).to.exist));
-    describe('<SynergyPage/>', () => it('should render without error', (done) => {
-        setTimeout(() => {
-            const component = render(<SynergyPage />);
-            expect(component).to.exist;
-            done();
-        });
-    }));
+    describe('<SynergyPage/>', () => it('should render without error', () => expect(render(<SynergyPage />)).to.exist).timeout(10000));
     describe('<TeamsPage/>', () => it('should render without error', () => expect(render(<TeamsPage />)).to.exist));
     describe('<TeamsEditPage/>', () => it('should render without error', () => expect(render(<TeamsEditPage />)).to.exist));
     describe('<TeamsSettingsPage/>', () => it('should render without error', () => expect(render(<TeamsSettingsPage />)).to.exist));

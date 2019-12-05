@@ -1,0 +1,29 @@
+{
+    "description": "To protect his planet from certain Annihilation, Norrin Radd relinquished his life to become the Silver Surfer, a Herald of Galactus. Now imbued with the Power Cosmic, the Silver Surfer travels the galaxy in search of new planets to feed Galactus’ insatiable hunger.",
+    "gameplay": {
+        "description": "Passive:\n- Silver Surfer takes -100% damage from Coldsnap, Incinerate, and Shock Debuffs. Each stack of these Debuffs count as a Unique Buff for any of Silver Surfer’s abilities.\n- Each hit deals a Burst of 136.5 Energy Damage for each Unique Buff. This scales with base attack only.\n\n\nPower Cosmic Buff:\n- At the start of the Fight, Silver Surfer generates an indefinite Power Cosmic Buff. If this Buff ends for any reason it will return in 9.0 seconds.\n- While the Power Cosmic Buff is active Silver Surfer rotates between dormant icons every 2 seconds in the order of Power Rate, Fury, then Armor Up.\n- Consuming the Power Cosmic Buff converts the dormant icon into an active Buff and inflicts 3 Armor Break Debuffs each reducing the Opponent’s Armor Rating by 352.94 for 12.0 seconds. Max 3 Stacks.\n\n\nRotating Buffs – Max 2 of Each:\n- Refresh the expiry of all active Buffs when creating a Rotating Buff that does not already exist.\n- Power Rate: Increase Power Rate by 15% for 15.0 seconds.\n- Fury: Increase Attack Rating by 546 for 24.0 seconds.\n- Armor Up: Increase Armor Rating by 2000 for 24.0 seconds.\n\n\nWhen Charging a Heavy Attack:\n- If available, consume the Power Cosmic Buff and create a Phase Buff, causing Opponent’s 100% chance to miss for 1.10 second(s).\n\n\nSpecial Attacks:\n- Pause the Duration of Silver Surfer’s Power Cosmic Buff Cooldown, his Rotating Dormant icons and all active Buffs until the Special Attack ends."
+    },
+    "specials": {
+        "1": {
+            "description": "Force of Will\n- If available, consume the Power Cosmic Buff and create 2 Buffs based on whichever dormant icon was active.\n- If at least 3 Unique Buffs are active when launching this Special Attack gain a Vigilance Buff allowing all attacks to bypass Miss for 12.0 seconds.",
+            "note": "This Special Attack provides a quick way to gain multiple stacks of a Buff and allows Silver Surfer to generate a new Unique Buff, Vigilance."
+        },
+        "2": {
+            "description": "Test of Might\n- Silver Surfer increases the potency of any bursts of Energy or Physical damage by 180% for the duration of this Special Attack.\n- If at least 3 Unique Buffs were active when launching this Special Attack, Silver Surfer creates an Unblockable Buff for 4.0 seconds.",
+            "note": "Once Silver Surfer is sitting on a comfortable number of Unique Buffs launching the Special 2 can be devastating for the Opponent Champion. If the Unblockable Buff is something to be desired, players can hold onto their Power Cosmic Buff until after this Special Attack has concluded and refresh it’s duration."
+        },
+        "3": {
+            "description": "Lack of Patience\n- Gain an Aptitude Buff increasing the potency of Silver Surfer’s Fury, Armor Up and Precision Buffs by 25% for 24.0 seconds, then Retrigger each of Silver Surfer’s active Rotating Buffs. Max 1.\n- Each Aptitude Buff on Silver Surfer also increases the potency of his Power Rate Buffs by 25%.",
+            "note": "By retriggering all of Silver Surfer’s Rotating Buffs they gain the beneficial effects provided by the Aptitude."
+        }
+    },
+    "signature": {
+        "description": "Energies of the Universe\n- All Buffs on Silver Surfer have 5~50% increased Potency.",
+        "note": "This Signature Ability will greatly increase the potency of any Buffs activated by Synergies or Silver Surfer’s Kit."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-silver-surfer/"
+    }
+}

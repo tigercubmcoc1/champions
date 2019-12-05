@@ -252,6 +252,9 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.SK_ASTRONOMY ]: [ 10, 12, 15 ],
     [ EFFECT.SK_ROBOTICS ]: [ 10, 12, 15 ],
     [ EFFECT.SK_GENETICS ]: [ 10, 12, 15 ],
+    [ EFFECT.HERALDS_OF_GALACTUS ]: [ 10, 12, 15 ],
+    [ EFFECT.SECRET_DEFENDERS ]: [ 10, 12, 15 ],
+    [ EFFECT.MINE_TRAVELS_THROUGH_SPACE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -508,6 +511,9 @@ const effects = [
     { uid: EFFECT.SK_ASTRONOMY },
     { uid: EFFECT.SK_ROBOTICS },
     { uid: EFFECT.SK_GENETICS },
+    { uid: EFFECT.HERALDS_OF_GALACTUS },
+    { uid: EFFECT.SECRET_DEFENDERS },
+    { uid: EFFECT.MINE_TRAVELS_THROUGH_SPACE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -768,6 +774,9 @@ const effectIcons = {
     [ EFFECT.SK_ASTRONOMY ]: 'effect-time',
     [ EFFECT.SK_ROBOTICS ]: 'effect-sk-robotics',
     [ EFFECT.SK_GENETICS ]: 'effect-power',
+    [ EFFECT.HERALDS_OF_GALACTUS ]: 'effect-believer',
+    [ EFFECT.SECRET_DEFENDERS ]: 'effect-time',
+    [ EFFECT.MINE_TRAVELS_THROUGH_SPACE ]: 'effect-hell-lords',
 };
 
 function effectIcon(uid) {

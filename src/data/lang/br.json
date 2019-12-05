@@ -23,6 +23,7 @@
     "champion-brothervoodoo-name": "Doutor Voodoo",
     "champion-cable-name": "Cable",
     "champion-namor-name": "Namor",
+    "champion-nova-name": "Nova",
     "champion-grandmaster-name": "O Grão-Mestre",
     "champion-spidermanstealth-name": "Homem-Aranha (Traje Furtivo)",
     "champion-mysterio-name": "Mystério",
@@ -479,6 +480,9 @@
     "effect-skastronomy-name": "Conhecimento Compartilhado - Astronomia",
     "effect-skrobotics-name": "Conhecimento Compartilhado - Robótica",
     "effect-skgenetics-name": "Conhecimento Compartilhado - Genética",
+    "effect-heraldsofgalactus-name": "Arautos de Galactus",
+    "effect-secretdefenders-name": "Defensores Secretos",
+    "effect-minetravelsthroughspace-name": "A Minha Viaja Pelo Espaço",
 
     "effect-attack-type": "Ataque",
     "effect-stun-type": "Atordoamento",
@@ -730,6 +734,9 @@
     "effect-skastronomy-type": "Conhecimento Compartilhado - Astronomia (Sinergia Única)",
     "effect-skrobotics-type": "Conhecimento Compartilhado - Robótica (Sinergia Única)",
     "effect-skgenetics-type": "Conhecimento Compartilhado - Genética (Sinergia Única)",
+    "effect-heraldsofgalactus-type": "Arautos de Galactus (Sinergia Única)",
+    "effect-secretdefenders-type": "Defensores Secretos (Sinergia Única)",
+    "effect-minetravelsthroughspace-type": "A Minha Viaja Pelo Espaço (Sinergia Única)",
 
     "effect-attack-description": "Aumenta o dano de todos os ataques.",
     "effect-stun-description": "Chance de Atordoar nos Ataques Especiais",
@@ -982,6 +989,9 @@
     "effect-skastronomy-description": "Os Acertos Básicos de Campeões Cósmicos e De Habilidade pausam um Bônus de cada neles por 0,2 segundo(s).",
     "effect-skrobotics-description": "As Debilitações de Campeões Tecnológicos e Científicos também causam um Ferrão Poderoso indeterminado, que inflige Dano Direto igual a 60% da Avaliação de Ataque deles quando o oponente ativa um Ataque Especial. O Ferrão Poderoso acumula até 3 vezes.",
     "effect-skgenetics-description": "Campeões Mutantes e Místicos recuperam 5% do Poder gasto em qualquer Ataque Especial para cada Ataque Especial único que usaram na luta.",
+    "effect-heraldsofgalactus-description": "Surfista Prateado: Uma vez a cada luta, em vez de o Surfista Prateado perder mais de 25% de sua Saúde. de um único acerto, ele consome o Bônus de Poder Cósmico e recebe um Bônus Indestrutível por 6,0 segundos.",
+    "effect-secretdefenders-description": "Surfista Prateado: Reduz a recarga do Bônus de Poder do Surfista Prateado em 3 segundos. - Hulk: Todos os Bônus de Fúria do Hulk são efeitos passivos, e concedem 100 de Avaliação Crítica extra ao acertar um oponente atordoado. - Doutor Estranho: Aumenta a Potência de cada Bênção do Doutor Estranho em 25%.",
+    "effect-minetravelsthroughspace-description": "Surfista Prateado: Os ataques com prancha geram 30% menos poder para o oponente. - Espancador: Os ataques com prancha causam uma explosão de 5% extra de Dano Físico para cada Debilitação Única no oponente. . - Mystério: As vantagens do Mystério contra Campeões do Aranhaverso se estendem a todos os Campeões Heróis.",
 
     "type-cosmic-name": "Cósmico",
     "type-tech-name": "Tecnológico",

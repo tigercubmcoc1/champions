@@ -8,7 +8,6 @@ export const UNRELEASED_CHAMPIONS = [
     // Mutant
     CHAMPION.WEAPONX,
     // Skill
-    CHAMPION.SQUIRRELGIRL,
     // Science
     // Mystic
     // Universal

@@ -1,0 +1,33 @@
+{
+    "description": "Doreen Green’s squirrel-like abilities made her an outsider in her teenage years. She escaped the insults of her classmates by hiding in the woods, among the squirrels. When Doreen stumbled upon Iron Man, she saw her chance to impress him, overpowering Doctor Doom with the help of her army of squirrels. Ever since her first victory, Squirrel Girl has taken down some of the most feared Super Villains in the universe. With an almost unrivaled win record, she lives up to the title, the “Unbeatable Squirrel Girl.”",
+    "gameplay": {
+        "description": "Tippy-Toe \n- Squirrel Girl starts each fight with her squirrel sidekick, Tippy-Toe already attached to her.\n\n\nOn Contact\n- When making contact with a Medium Attack, Tippy inflicts a Bleed Debuff dealing 243.2 Direct Damage over 6 seconds. This ability does not trigger during a Well-Timed Block.\n- Personal Bleed Debuffs inflicted with a Critical Hit become a Critical Bleed, multiplying their potency by the Critical Damage Multiplier and lasting for 12 seconds.\n- When making contact with a Light Attack, Squirrel Girl gains an additional hit in her Combo Meter. This ability does not trigger during a Well-Timed Block.\n\n\nOn Champion Knockdown\n- Whenever either champion is knocked down, Tippy attaches to that champion applying various effects. Tippy attaches to the Opponent for 15 seconds.\n- When attaching to the Opponent, consume up to 40 hits from Squirrel Girl’s Combo Meter to activate Tippy’s effects.\n- When Squirrel Girl charges her Heavy Attack for 0.4 second(s), Tippy-Toe attaches to her, applying various effects.\n- Tippy attachment cannot be affected by Ability Accuracy.\n\n\nTippy-Toe – On Squirrel Girl\n- When attaching: Purify all non-damaging Debuffs on Squirrel Girl.\n- While attached: Gain +1333.33 Block Proficiency.\n\n\nTippy-Toe – On Opponent\n- While attached: Inflict an Injury Debuff. Hitting an Injured Opponent bypasses 100% of their Physical Resistance.\n- While attached, if 30+ Combo was consumed: Inflict a Distraction Debuff, preventing Evade and Auto-Block abilities\n- While attaching, if 40 Combo was consumed: Inflict an Instant Bleed, dealing a burst of 790.4 Direct Damage for every Bleed Debuff on the Opponent, removing all Bleed Debuffs."
+    },
+    "attack": {
+        "heavy": "Inflicts a Bleed Debuff dealing 243.2 Direct Damage over 6 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Army of Squirrels\n- Inflict a Distraction Debuff, preventing Evade and Auto-Block abilities.\n- The last hit increases Squirrel Girl’s Combo Meter by 10 hits.\n- Squirrel Girl gains 1 Combo Shield Buff, lasting indefinitely. When struck, the Combo Shield Buff is lost after 2 seconds instead of the Combo Meter resetting.",
+            "note": "If you’re playing it safe, Squirrel Girl’s Special 1 is the best option, giving her 10 extra hits in her Combo Meter and an indefinite Combo Shield. However, the Combo Shield does not protect Squirrel Girl’s Combo Meter from being consumed. Against champions like M.O.D.O.K. who have reliable Auto-Blocks, this Special Attack is your best way in."
+        },
+        "2": {
+            "description": "Flurry of Fur\n- Each hit that makes contact, inflicts a Bleed Debuff dealing 243.2 Direct Damage over 6 seconds. This ability does not trigger during a Well-Timed Block.\n- All personal Bleed Debuffs on the Opponent are paused during this attack.",
+            "note": "During this Special Attack, Squirrel Girl can wrack up to 7 Bleed Debuffs. With 40 Combo Meter hits consumed, this will deal huge damage with her Instant Bleed."
+        },
+        "3": {
+            "description": "Tippy-Toe’s Takedown\n- Inflicts 3 Bleed Debuffs dealing 486.4 Direct Damage over 20 seconds.\n- Squirrel Girl gains 100 additional hits in her Combo Meter.\n- If Tippy inflicts an Instant Bleed with this attack, there is a 30% chance for each Bleed Debuff to be refreshed instead of being removed.",
+            "note": "If you’re looking to store away some hits in your Combo Meter, this Special Attack provides Squirrel Girl with more than enough Combo to deal multiple Instant Bleeds back-to-back."
+        }
+    },
+    "signature": {
+        "description": "Tippy-Toe Level Up!\n- Squirrel Girl starts each fight with 40 hits in her Combo Meter.\n- When Tippy-Toe inflicts an Instant Bleed, each Bleed Debuff has a 70% chance to be refreshed instead of being removed.",
+        "note": "With her Signature Ability, Squirrel Girl doesn’t have to work her way up to 40 hits at the start of the fight. The second half of this ability gives Bleeds a chance to refresh on the Opponent after an Instant Bleed, allowing Squirrel Girl to chain multiple Instant Bleeds, if she has enough hits in her Combo Meter."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-squirrel-girl/"
+    },
+    "youtube": "w6NGc4Z1UNA"
+}

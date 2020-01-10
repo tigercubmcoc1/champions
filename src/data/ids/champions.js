@@ -88,6 +88,7 @@ export const OMEGARED = 'omegared';
 export const PSYLOCKEXFORCE = 'psylockexforce';
 export const ROGUE = 'rogue';
 export const SABRETOOTH = 'sabretooth';
+export const SQUIRRELGIRL = 'squirrelgirl';
 export const STORM = 'storm';
 export const SUNSPOT = 'sunspot';
 export const WEAPONX = 'weaponx';

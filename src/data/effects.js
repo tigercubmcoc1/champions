@@ -255,6 +255,15 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.HERALDS_OF_GALACTUS ]: [ 10, 12, 15 ],
     [ EFFECT.SECRET_DEFENDERS ]: [ 10, 12, 15 ],
     [ EFFECT.MINE_TRAVELS_THROUGH_SPACE ]: [ 10, 12, 15 ],
+    [ EFFECT.NEW_WARRIOR_BLOOD ]: [ 10, 12, 15 ],
+    [ EFFECT.TOTAL_ANNIHILATION ]: [ 10, 12, 15 ],
+    [ EFFECT.MAXIMUM_OUTPUT ]: [ 10, 12, 15 ],
+    [ EFFECT.PHALANX_FEUD ]: [ 10, 12, 15 ],
+    [ EFFECT.FULL_SPEED_AHEAD ]: [ 10, 12, 15 ],
+    [ EFFECT.SUPERNANNY ]: [ 10, 12, 15 ],
+    [ EFFECT.DEADPOOLS_GUIDE_TO_SUPER_VILLAINS ]: [ 10, 12, 15 ],
+    [ EFFECT.HARDWIRED_FOR_HEARTBREAK ]: [ 10, 12, 15 ],
+    [ EFFECT.BEAT_UP_THE_UNIVERSE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -514,6 +523,15 @@ const effects = [
     { uid: EFFECT.HERALDS_OF_GALACTUS },
     { uid: EFFECT.SECRET_DEFENDERS },
     { uid: EFFECT.MINE_TRAVELS_THROUGH_SPACE },
+    { uid: EFFECT.NEW_WARRIOR_BLOOD },
+    { uid: EFFECT.TOTAL_ANNIHILATION },
+    { uid: EFFECT.MAXIMUM_OUTPUT },
+    { uid: EFFECT.PHALANX_FEUD },
+    { uid: EFFECT.FULL_SPEED_AHEAD },
+    { uid: EFFECT.SUPERNANNY },
+    { uid: EFFECT.DEADPOOLS_GUIDE_TO_SUPER_VILLAINS },
+    { uid: EFFECT.HARDWIRED_FOR_HEARTBREAK },
+    { uid: EFFECT.BEAT_UP_THE_UNIVERSE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -777,6 +795,15 @@ const effectIcons = {
     [ EFFECT.HERALDS_OF_GALACTUS ]: 'effect-believer',
     [ EFFECT.SECRET_DEFENDERS ]: 'effect-time',
     [ EFFECT.MINE_TRAVELS_THROUGH_SPACE ]: 'effect-hell-lords',
+    [ EFFECT.NEW_WARRIOR_BLOOD ]: 'effect-armor-break',
+    [ EFFECT.TOTAL_ANNIHILATION ]: 'effect-resist-physical',
+    [ EFFECT.MAXIMUM_OUTPUT ]: 'effect-shock',
+    [ EFFECT.PHALANX_FEUD ]: 'effect-phalanx-feud',
+    [ EFFECT.FULL_SPEED_AHEAD ]: 'effect-lullaby',
+    [ EFFECT.SUPERNANNY ]: 'effect-attack',
+    [ EFFECT.DEADPOOLS_GUIDE_TO_SUPER_VILLAINS ]: 'effect-deadpools-guide',
+    [ EFFECT.HARDWIRED_FOR_HEARTBREAK ]: 'effect-electric-supercharge',
+    [ EFFECT.BEAT_UP_THE_UNIVERSE ]: 'effect-lullaby',
 };
 
 function effectIcon(uid) {

@@ -86,31 +86,6 @@ const RosterMenu = {
         options.push(
             <MenuOption
                 icon={(
-                    <Icon icon="upload" before />
-                )}
-                title="export-alliance"
-                onclick={ () => {
-                    const csvElement = document.getElementById('roster-exporter-alliance-csv');
-                    csvElement.value = roster.toCSV('\r\n');
-                    clickElementById('roster-exporter-alliance-submit');
-                    m.redraw.strategy('none');
-                }}
-            />
-        );
-        options.push(
-            <form
-                action="http://coc.frogspawn.de/player/csv_import.php"
-                method="post"
-                target="_blank"
-                style="display:none"
-            >
-                <textarea id="roster-exporter-alliance-csv" name="csv_string" type="text" />
-                <input id="roster-exporter-alliance-submit" type="submit" />
-            </form>
-        );
-        options.push(
-            <MenuOption
-                icon={(
                     <Icon icon="user-times" before />
                 )}
                 title="delete-all"

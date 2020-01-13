@@ -116,15 +116,6 @@ const MenuOptions = {
             options.push(
                 <MenuOption
                     icon={
-                        <Icon icon="user-secret" before />
-                    }
-                    title="link-frogspawn"
-                    href="http://coc.frogspawn.de/"
-                />
-            );
-            options.push(
-                <MenuOption
-                    icon={
                         <Icon icon="github" before />
                     }
                     title="link-github"

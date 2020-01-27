@@ -1,0 +1,30 @@
+{
+    "description": "All was normal for New York high-school student, Richard Rider until he came into contact with the Nova Corps, a peace-keeping force based on the planet Xandar. After the planet Xandar was invaded and destroyed by a space pirate known as Zorr, the last surviving member of Xandar’s elite Nova Corps, Rhomann Dey, selected Richard Rider to replace him. Rider is given a uniform and powers of a Nova Centurion but little instruction on how to use them. Calling himself Nova, Rider becomes a Super Hero, teaming with other heroes such as Spider-Man and Thor to use his powers for the good of Earth and the universe while serving as its protector.",
+    "youtube": "ShCJSiocE40",
+    "gameplay": {
+        "description": "Passive\n- When successfully striking opponents Nova has -30% Offensive Power Rate.\n- While dashing forward, Nova passively gains up to 20% of a Bar of Power based on the distance travelled.\n- Nova’s Medium Attacks do not make Contact and deal Energy Damage.\n- Nova starts the fight with a permanent Fury Buff increasing Attack Rating by 803.6. If Nullified, Removed, or prevented in any way this Buff goes on cooldown for 12 seconds.\n- When Nova is struck with True Strike, Unblockable, or guaranteed critical hits Opponents have -70% Attack Rating.\n\n\nWorldmind Intervention\n- While Nova has a Fury Buff active, being struck when dashing forward activates Auto-Block allowing Nova to automatically block incoming Basic Attacks. Triggering this ability removes all Fury Buffs and consumes 25 Nova Charges.\n\n\nNova Charges – Max: 100\n- Nova enters the fight at 0 Nova Charges and passively generates them over time. Nova Charges passively generate slower the more charges he has.\n- While dashing forward Nova generates additional Nova Charges. More Nova Charges are generated the farther he travels.\n- If struck with True Strike, an Unblockable attack, or a guaranteed critical hit, generate 50 Nova Charges.\n- When one of Nova’s Buffs is Nullified, remove 25 Charges, and prevent Nova Charges from being generated for 6 seconds.\n\n\nNova Force\n- Nova’s Medium Attacks deal 30% of damage done as a burst of Energy Damage.\n- At 25+ Nova Charges: Nova’s Second Medium Attack deals an additional 20% of damage done as burst Energy Damage. Activating this ability consumes 25 Nova Charges.\n- At 50+ Nova Charges: Auto-Blocks can be triggered while Stunned. Activating this ability Purifies Stun Debuffs.\n- At 75+ Nova Charges: Gain a Fury Buff increasing Attack Rating by 172.2 for 7 seconds and refresh Nova’s active Fury Buffs while below maximum stacks. Max 4 stacks.\n- When reaching 100 Nova Charges: Gain an Unblockable Buff for 2.5 seconds. This ability consumes 100 Nova Charges when this Buff expires, is Nullified, or prevented and prevents Nova Charges from being generated for 6 seconds.\n- Against Tech Champions, consuming Nova Charges inflicts an Armor Break Debuff reducing Armor by 500 for 24 seconds. This can only stack once."
+    },
+    "specials": {
+        "1": {
+            "description": "Centurion Tackle\n- This attack pauses all Fury Buffs for 3.50 seconds.\n- Consume 25 Nova Charges to gain an Energize Buff increasing Power Rate by 30% for 7 seconds.\n- If activated at 75+ Nova Charges, gain a True Strike Buff allowing Nova to ignore Armor, Resistances, Auto-Block and Evade effects for 7 seconds.",
+            "note": "Opting for this ability while playing Nova gives him considerable utility depending on when this Special Attack is used. Likewise if players fight Nova, this special attack is worth trying to bait out."
+        },
+        "2": {
+            "description": "Gravimetric Cannon\n- Gain a Nova Surge Buff granting +100% additional Nova Charge generation for 9 seconds.\n- Consume up to 50 Nova Charges to deal up to 50% of damage done as burst Energy Damage with each hit of this attack.",
+            "note": "Special 2 is Nova’s main source of Energy Damage. This can be used to spend Nova charges for big damage or to generate even more Charges for the future."
+        },
+        "3": {
+            "description": "Gravimetric Hold\n- Consumes all Nova Charges and deals 0.5% of damage done as an additional burst of Energy for every Nova Charge consumed.\n- Re-activate Nova’s permanent Fury Buff if it is on cooldown.",
+            "note": "This does not appear to deal a large amount of damage at first glance, but considering Nova can attain up to 100 Nova Charges, and can increase the base damage of this attack with stacking Fury Buffs, these factors easily multiply into large bursts of Energy Damage."
+        }
+    },
+    "signature": {
+        "description": "The Human Rocket\n- Nova’s Medium Attacks gain up to 2870.68 Bonus Attack Rating based on the distance travelled in the last executed dash.\n- At 75+ Nova Charges: Nova’s Auto Block triggers the Parry Mastery. This effect cannot interrupt Special Attacks.\n- The duration of Buffs is increased by 80%.",
+        "note": "Nova’s Signature Ability highlights the main threats of his abilities while on Attack and on Alliance War Defense. Nova’s Medium Attacks become much more threatening from full-screen with this Signature. Being able to trigger Parry from Nova’s Auto-Block means players need to pay attention to his Nova Charges while fighting against to avoid being Stunned. Once Awakened, Nova is better placed on Alliance War Defense, on nodes with Buffs such as Buff Toggle (Unblockable), (Unstoppable), and Aegis (Intercept)."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-nova/"
+    }
+}

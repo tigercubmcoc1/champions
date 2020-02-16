@@ -264,6 +264,13 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.DEADPOOLS_GUIDE_TO_SUPER_VILLAINS ]: [ 10, 12, 15 ],
     [ EFFECT.HARDWIRED_FOR_HEARTBREAK ]: [ 10, 12, 15 ],
     [ EFFECT.BEAT_UP_THE_UNIVERSE ]: [ 10, 12, 15 ],
+    [ EFFECT.MOJOVERSE ]: [ 10, 12, 15 ],
+    [ EFFECT.SMILE_FOR_THE_CAMERAS ]: [ 10, 12, 15 ],
+    [ EFFECT.WITHOUT_A_LEG_TO_STAND_ON ]: [ 10, 12, 15 ],
+    [ EFFECT.CROWD_PLEASERS ]: [ 10, 12, 15 ],
+    [ EFFECT.CIVIL_WAR_STORIES ]: [ 10, 12, 15 ],
+    [ EFFECT.LOVE_TRIANGLES ]: [ 10, 12, 15 ],
+    [ EFFECT.PROBABLY_OP ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -532,6 +539,13 @@ const effects = [
     { uid: EFFECT.DEADPOOLS_GUIDE_TO_SUPER_VILLAINS },
     { uid: EFFECT.HARDWIRED_FOR_HEARTBREAK },
     { uid: EFFECT.BEAT_UP_THE_UNIVERSE },
+    { uid: EFFECT.MOJOVERSE },
+    { uid: EFFECT.SMILE_FOR_THE_CAMERAS },
+    { uid: EFFECT.WITHOUT_A_LEG_TO_STAND_ON },
+    { uid: EFFECT.CROWD_PLEASERS },
+    { uid: EFFECT.CIVIL_WAR_STORIES },
+    { uid: EFFECT.LOVE_TRIANGLES },
+    { uid: EFFECT.PROBABLY_OP },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -804,6 +818,13 @@ const effectIcons = {
     [ EFFECT.DEADPOOLS_GUIDE_TO_SUPER_VILLAINS ]: 'effect-deadpools-guide',
     [ EFFECT.HARDWIRED_FOR_HEARTBREAK ]: 'effect-electric-supercharge',
     [ EFFECT.BEAT_UP_THE_UNIVERSE ]: 'effect-lullaby',
+    [ EFFECT.MOJOVERSE ]: 'effect-degeneration',
+    [ EFFECT.SMILE_FOR_THE_CAMERAS ]: 'effect-power',
+    [ EFFECT.WITHOUT_A_LEG_TO_STAND_ON ]: 'effect-mercs-for-money',
+    [ EFFECT.CROWD_PLEASERS ]: 'effect-crowd-pleasers',
+    [ EFFECT.CIVIL_WAR_STORIES ]: 'effect-civil-war-stories',
+    [ EFFECT.LOVE_TRIANGLES ]: 'effect-love-triangles',
+    [ EFFECT.PROBABLY_OP ]: 'effect-genetic-recode-probability',
 };
 
 function effectIcon(uid) {

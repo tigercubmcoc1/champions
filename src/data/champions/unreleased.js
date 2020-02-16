@@ -6,11 +6,10 @@ export const UNRELEASED_CHAMPIONS = [
     // Tech
     // Mutant
     CHAMPION.WEAPONX,
-    CHAMPION.LONGSHOT,
-    CHAMPION.MOJO,
     // Skill
     // Science
     // Mystic
+    CHAMPION.MOJO,
     // Universal
     CHAMPION.MAESTRO,
     CHAMPION.THECOLLECTOR,

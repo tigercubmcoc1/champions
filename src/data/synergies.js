@@ -1144,6 +1144,12 @@ const synergies = [
         ...fromStars(4, 6, [ CHAMPION.MAGNETO, CHAMPION.MAGNETOMARVELNOW ], EFFECT.MASTERMINDS),
     ]),
 
+    ...fromId(CHAMPION.LONGSHOT, [
+        ...fromStars(3, 6, [ CHAMPION.CAPTAINAMERICAIW, CHAMPION.CAPTAINAMERICA ], EFFECT.CIVIL_WAR_STORIES),
+        ...fromStars(3, 6, [ CHAMPION.ROGUE ], EFFECT.LOVE_TRIANGLES),
+        ...fromStars(3, 6, [ CHAMPION.DOMINO ], EFFECT.PROBABLY_OP),
+    ]),
+
     ...fromId(CHAMPION.MAGIK, [
         ...fromStars(2, 5, [ CHAMPION.COLOSSUS, CHAMPION.UNSTOPPABLECOLOSSUS ], EFFECT.HEALTH),
         ...fromStars(3, 5, [ CHAMPION.STORM ], EFFECT.ARMOR),
@@ -1161,6 +1167,13 @@ const synergies = [
     ...fromId(CHAMPION.MEPHISTO, [
         ...fromStars(3, 5, [ CHAMPION.DORMAMMU ], EFFECT.DEMONS),
         ...fromStars(3, 5, [ CHAMPION.GHOSTRIDER, CHAMPION.DRSTRANGE ], EFFECT.PACT_WITH_A_DEMON),
+    ]),
+
+    ...fromId(CHAMPION.MOJO, [
+        ...fromStars(3, 6, [ CHAMPION.LONGSHOT ], EFFECT.MOJOVERSE),
+        ...fromStars(3, 6, [ CHAMPION.PSYLOCKEXFORCE ], EFFECT.SMILE_FOR_THE_CAMERAS),
+        ...fromStars(3, 6, [ CHAMPION.MODOK ], EFFECT.WITHOUT_A_LEG_TO_STAND_ON),
+        ...fromStars(3, 6, [ CHAMPION.HULKRAGNAROK, CHAMPION.KORG ], EFFECT.CROWD_PLEASERS),
     ]),
 
     ...fromId(CHAMPION.MORNINGSTAR, [

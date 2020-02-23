@@ -1,0 +1,32 @@
+{
+    "description": "Ladies and gentlemen! Today we’re discussing me, Mojo! The greatest Champion to ever grace the Contest! I’m the ruler and slaver overlord of a cute little place called the Mojoverse. It’s my job to bring nothing but the most entertaining, top-tier, thrilling cinematic content to all my Spineless viewers and followers back home. And if I have to viciously degenerate and destroy a few other D-list characters to do it, even better!",
+    "gameplay": {
+        "description": "Passive:\n- Mojo gains 30% less Power from landing Hits.\n- Physical Resistance decreased by -352.94.\n\n\nAudience Prompts:\n- After the start of the fight, Mojo receives a random Prompt from his adoring audience, who want to see certain actions performed. These Prompts last for 8 second(s).\n- If either Champion does what the audience wants, the Prompt is completed and Mojo gains 1 million Followers.\n- If a Prompt expires without being completed, Mojo fails the Prompt and loses 5 million Followers.\n- When a Prompt is completed, Mojo activates his Anti-Life Field for 7 second(s).\n- Mojo receives a new Prompt when his Anti-Life Field expires or a Prompt is failed.\n- Prompts are paused during any Special Attack.\n- Prompts are unaffected by Ability Accuracy.\n\n\nAnti-Life Field – Passive: \n- Any Buff triggered on the Opponent has 90% reduced duration.\n- Any time a Buff is Nullified or Expires off the Opponent, Mojo Passively Degenerates them for 901.67 Damage over 6 second(s).\n- The Anti-Life Field is paused during any Special Attack.\n\n\nAudience Adoration: \n- Mojo gains additional Passive abilities based on how many Followers he has.\n- 1 million – Any time a Buff expires or is Nullified off the Opponent, Mojo heals for 3% of his Missing Health over 2 second(s). This does not stack.\n- 3 million – When a Prompt is completed, Mojo gains up to 50% of a Bar of Power based on how many Followers he has.\n- 5 million – Completing a Prompt has a 100% chance to place a Hater Buff on the Opponent for 20 second(s). Basic Attacks have a 15% chance to place one. Haters have no effect.\n\n\nPossible Audience Prompts: \n- Activate a Special Attack\n- Charge a Heavy Attack\n- Dash backwards\n- Block a Hit\n- Use Dexterity to avoid a Hit\n- Hold Block for 1.5 second(s)\n- Inflict a Stun\n- When any Buff expires or is Nullified\n- Back into the corner\n- Idle for 1 second(s)\n- Punish a Special Attack, by striking the Opponent while they’re recovering from the Attack\n- Knock down a Champion"
+    },
+    "attack": {
+        "heavy": "If a Prompt is active, Mojo replaces it with a new Prompt. This does not affect his Followers."
+    },
+    "specials": {
+        "1": {
+            "description": "WHAT’S UP GUYS?!: \n- 100% chance on the first hit to Nullify one Buff from the Opponent.",
+            "note": "This is Mojo’s only way to interact with Buffs that last indefinitely, such as the Power Gain on Vision (Aarkus) or Annihilus’ Cosmic Rod."
+        },
+        "2": {
+            "description": "YOU WON’T BELIEVE IT!: \n- If the Anti-Life Field is not active, trigger its Degeneration.\n- If the Anti-Life Field is active, trigger its Degeneration for every million Followers Mojo has, up to 5 million.",
+            "note": "The SP2 is Mojo’s main source of damage, so it’s the one he’ll want to use most often if the Opponent doesn’t have important, indefinite Buffs."
+        },
+        "3": {
+            "description": "SMASH THAT DISLIKE BUTTON!: \n- Completes the current Prompt.\n- Triggers the Anti-Life Field Degeneration for every million Followers Mojo has, up to 5 million.",
+            "note": "If your current Prompt is too difficult to accomplish and you find yourself unable to use the Heavy Attack, then the SP3 provides another way to accomplish it, in addition to triggering more Degens on the Opponent"
+        }
+    },
+    "signature": {
+        "description": "Big Mojo Energy:\n \nPassive: \n- When Mojo activates his Anti-Life Field, if he has at least 5 million Followers, he also gains a Fury Buff for the duration of his Anti-Life Field, increasing Attack Rating by +1756.51.\n- Additionally, Mojo starts each Quest with 1 million Persistent Subscribers, up to 5 million.\n- At the beginning of the fight, each Subscriber gives him a Follower. His Followers can never fall below his Subscribers.\n- When Mojo wins a fight, if he has more Followers than Subscribers, he gains 1 million Subscribers. When Mojo loses a fight, he loses 1 million Subscribers.",
+        "note": "The Fury will also increase the damage of all of Mojo’s Degenerate effects that are triggered while the Anti-Life Field is up, so once you reach 5 million Followers, his damage can increase significantly. Persistent Subscribers allow Mojo to maintain his Follower base between fights. As long as he keeps winning fights and increasing his Followers, he’ll be able to begin each fight at a higher and higher Follower count. Important to note that Subscribers start at 1 million, so if Mojo is defending and he has his Signature ability, he’ll also have his ability to Regenerate whenever a Buff expires (like, say, the Precision from Dexterity)."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-mojo/"
+    }
+}

@@ -271,6 +271,12 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.CIVIL_WAR_STORIES ]: [ 10, 12, 15 ],
     [ EFFECT.LOVE_TRIANGLES ]: [ 10, 12, 15 ],
     [ EFFECT.PROBABLY_OP ]: [ 10, 12, 15 ],
+    [ EFFECT.GOOD_VIBRATIONS ]: [ 10, 12, 15 ],
+    [ EFFECT.MONSTER_MASH ]: [ 10, 12, 15 ],
+    [ EFFECT.FANTASTIC_FRIENDS ]: [ 10, 12, 15 ],
+    [ EFFECT.DEATH_AND_RESURRECTION ]: [ 10, 12, 15 ],
+    [ EFFECT.ELDERS_GAME ]: [ 10, 12, 15 ],
+    [ EFFECT.PRISONER ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -546,6 +552,12 @@ const effects = [
     { uid: EFFECT.CIVIL_WAR_STORIES },
     { uid: EFFECT.LOVE_TRIANGLES },
     { uid: EFFECT.PROBABLY_OP },
+    { uid: EFFECT.GOOD_VIBRATIONS },
+    { uid: EFFECT.MONSTER_MASH },
+    { uid: EFFECT.FANTASTIC_FRIENDS },
+    { uid: EFFECT.DEATH_AND_RESURRECTION },
+    { uid: EFFECT.ELDERS_GAME },
+    { uid: EFFECT.PRISONER },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -825,6 +837,12 @@ const effectIcons = {
     [ EFFECT.CIVIL_WAR_STORIES ]: 'effect-civil-war-stories',
     [ EFFECT.LOVE_TRIANGLES ]: 'effect-love-triangles',
     [ EFFECT.PROBABLY_OP ]: 'effect-genetic-recode-probability',
+    [ EFFECT.GOOD_VIBRATIONS ]: 'effect-idol',
+    [ EFFECT.MONSTER_MASH ]: 'effect-idol',
+    [ EFFECT.FANTASTIC_FRIENDS ]: 'effect-idol',
+    [ EFFECT.DEATH_AND_RESURRECTION ]: 'effect-idol',
+    [ EFFECT.ELDERS_GAME ]: 'effect-idol',
+    [ EFFECT.PRISONER ]: 'effect-idol',
 };
 
 function effectIcon(uid) {

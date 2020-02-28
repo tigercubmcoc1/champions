@@ -525,6 +525,9 @@
     "effect-deathandresurrection-name": "Death & Resurrection",
     "effect-eldersgame-name": "Elders' Game",
     "effect-prisoner-name": "Prisoner",
+    "effect-agangof-name": "A Gang Of",
+    "effect-labpartners-name": "Lab Partners",
+    "effect-trophycase-name": "Trophy Case",
 
     "effect-attack-type": "Attack",
     "effect-critrate-type": "Critical Rate",
@@ -804,6 +807,9 @@
     "effect-deathandresurrection-type": "Death & Resurrection (Unique Sinergy)",
     "effect-eldersgame-type": "Elders' Game (Unique Sinergy)",
     "effect-prisoner-type": "Prisoner (Unique Sinergy)",
+    "effect-agangof-type": "A Gang Of (Unique Sinergy)",
+    "effect-labpartners-type": "Lab Partners (Unique Sinergy)",
+    "effect-trophycase-type": "Trophy Case (Unique Sinergy)",
 
     "effect-attack-description": "Increases damage on all attacks.",
     "effect-critrate-description": "Increases the chance for critical hit.",
@@ -1083,6 +1089,9 @@
     "effect-deathandresurrection-description": "Terrax: Well-timed blocks give Terrax +3% of a Bar of Power. \nPhoenix: When striking with her fourth Light Attack, Phoenix consumes one of her personal Fury Buffs, increasing the hit damage by 100%.",
     "effect-eldersgame-description": "Terrax: Gain +15% chance to Armor Break during his Rock Field. \nRed Hulk: When hitting the Opponent with his first Heavy Hit, Red Hulk consumes a Heat Charge and inflicts an Armor Break Debuff, reducing the Opponent’s Armor Rating by 50% for 8 seconds. \nMordo: While charging a Heavy Attack, if the Opponent attacks, Mordo will evade. This ability has a 25 second cooldown.",
     "effect-prisoner-description": "Terrax: +15% Attack Rating \nAnnihilus: All Fury Buffs last an additional 1 second(s).",
+    "effect-agangof-description": "All: Regen Buffs grant +15% Attack.",
+    "effect-labpartners-description": "Wolverine (Weapon X), Sabretooth: +15% Bleed Debuff Potency.",
+    "effect-trophycase-description": "Wolverine (Weapon X): Start the fight with 5 Rage charges. \nGoldpool, Thanos, Kang: Start the fight with a Fury Buff, granting 50% of your Base Attack for 15 Seconds.",
 
     "type-cosmic-name": "Cosmic",
     "type-tech-name": "Tech",

@@ -276,3 +276,6 @@ export const FANTASTIC_FRIENDS = 'fantasticfriends';
 export const DEATH_AND_RESURRECTION = 'deathandresurrection';
 export const ELDERS_GAME = 'eldersgame';
 export const PRISONER = 'prisoner';
+export const A_GANG_OF = 'agangof';
+export const LAB_PARTNERS = 'labpartners';
+export const TROPHY_CASE = 'trophycase';

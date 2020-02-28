@@ -277,6 +277,9 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.DEATH_AND_RESURRECTION ]: [ 10, 12, 15 ],
     [ EFFECT.ELDERS_GAME ]: [ 10, 12, 15 ],
     [ EFFECT.PRISONER ]: [ 10, 12, 15 ],
+    [ EFFECT.A_GANG_OF ]: [ 10, 12, 15 ],
+    [ EFFECT.LAB_PARTNERS ]: [ 10, 12, 15 ],
+    [ EFFECT.TROPHY_CASE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -558,6 +561,9 @@ const effects = [
     { uid: EFFECT.DEATH_AND_RESURRECTION },
     { uid: EFFECT.ELDERS_GAME },
     { uid: EFFECT.PRISONER },
+    { uid: EFFECT.A_GANG_OF },
+    { uid: EFFECT.LAB_PARTNERS },
+    { uid: EFFECT.TROPHY_CASE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -843,6 +849,9 @@ const effectIcons = {
     [ EFFECT.DEATH_AND_RESURRECTION ]: 'effect-idol',
     [ EFFECT.ELDERS_GAME ]: 'effect-idol',
     [ EFFECT.PRISONER ]: 'effect-idol',
+    [ EFFECT.A_GANG_OF ]: 'effect-idol',
+    [ EFFECT.LAB_PARTNERS ]: 'effect-idol',
+    [ EFFECT.TROPHY_CASE ]: 'effect-idol',
 };
 
 function effectIcon(uid) {

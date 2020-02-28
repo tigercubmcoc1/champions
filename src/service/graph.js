@@ -299,6 +299,9 @@ const EFFECT_COLORS = {
     [ EFFECT.DEATH_AND_RESURRECTION ]: '#001',
     [ EFFECT.ELDERS_GAME ]: '#473',
     [ EFFECT.PRISONER ]: '#fa5',
+    [ EFFECT.A_GANG_OF ]: '#45f',
+    [ EFFECT.LAB_PARTNERS ]: '#5e3',
+    [ EFFECT.TROPHY_CASE ]: '#da2',
 
 };
 

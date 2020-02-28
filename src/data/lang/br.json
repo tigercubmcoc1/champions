@@ -508,6 +508,9 @@
     "effect-deathandresurrection-name": "Morte & Ressurreição",
     "effect-eldersgame-name": "Jogo de Anciões",
     "effect-prisoner-name": "Prisioneiro",
+    "effect-agangof-name": "Gangue",
+    "effect-labpartners-name": "Parceiros de Laboratório",
+    "effect-trophycase-name": "Caixa de Troféu",
 
     "effect-attack-type": "Ataque",
     "effect-stun-type": "Atordoamento",
@@ -784,6 +787,9 @@
     "effect-deathandresurrection-type": "Morte & Ressurreição (Sinergia Única)",
     "effect-eldersgame-type": "Jogo de Anciões (Sinergia Única)",
     "effect-prisoner-type": "Prisioneiro (Sinergia Única)",
+    "effect-agangof-type": "Gangue (Unique Sinergy)",
+    "effect-labpartners-type": "Parceiros de Laboratório (Unique Sinergy)",
+    "effect-trophycase-type": "Caixa de Troféu (Unique Sinergy)",
 
     "effect-attack-description": "Aumenta o dano de todos os ataques.",
     "effect-stun-description": "Chance de Atordoar nos Ataques Especiais",
@@ -1061,6 +1067,9 @@
     "effect-deathandresurrection-description": "Terrax: Bloqueios Sincronizados dão a Terrax +3% de uma Barra de Poder. \nFênix: Ao acertar com seu quarto Ataque Leve, Fênix consome um de seus Bônus de Fúria Pessoais, aumentando o dano de acerto em 100%.",
     "effect-eldersgame-description": "Terrax: Recebe +15% de chance de causar Quebra de Armadura durante seu Campo de Pedras. \nHulk Vermelho: Ao acertar o oponente com seu primeiro Ataque Pesado, Hulk Vermelho consome uma Carga de Calor e causa uma Debilitação de Quebra de Armadura, reduzindo a Avaliação de Armadura do oponente em 50% por 8 segundos. \nMordo: Enquanto carrega um Ataque Pesado, se o oponente atacar, Mordo vai esquivar. Esta habilidade tem uma recarga de 25 segundos.",
     "effect-prisoner-description": "Terrax: +15% de Avaliação de Ataque. \nAniquilador: Todos os Bônus de Fúria duram mais 1 segundo.",
+    "effect-agangof-description": "Todos: Os Bônus de regeneração concedem +15% de Ataque.",
+    "effect-labpartners-description": "Wolverine (Arma X), Dentes-de-Sabre: +15% de potência da Debilitação de Sangramento.",
+    "effect-trophycase-description": "Wolverine (Arma X): Começa a luta com 5 Cargas de Raiva. \nGoldpool, Thanos, Kang: Começam a luta com o Bônus de Fúria, que concede 50% de seu Ataque Base por 15 segundos.",
 
     "type-cosmic-name": "Cósmico",
     "type-tech-name": "Tecnológico",

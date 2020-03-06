@@ -232,7 +232,7 @@ const synergies = [
         ...fromStars(3, 6, [ CHAMPION.PHOENIX ], EFFECT.DEATH_AND_RESURRECTION),
         ...fromStars(5, 6, [ CHAMPION.REDHULK, CHAMPION.KARLMORDO ], EFFECT.ELDERS_GAME),
         ...fromStars(3, 6, [ CHAMPION.ANNIHILUS ], EFFECT.PRISONER),
-      ]),
+    ]),
 
     ...fromId(CHAMPION.THANOS, [
         ...fromStars(4, 4, [ CHAMPION.STARLORD, CHAMPION.HULK ], EFFECT.CRITICAL_RATE),

@@ -271,6 +271,15 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.CIVIL_WAR_STORIES ]: [ 10, 12, 15 ],
     [ EFFECT.LOVE_TRIANGLES ]: [ 10, 12, 15 ],
     [ EFFECT.PROBABLY_OP ]: [ 10, 12, 15 ],
+    [ EFFECT.GOOD_VIBRATIONS ]: [ 10, 12, 15 ],
+    [ EFFECT.MONSTER_MASH ]: [ 10, 12, 15 ],
+    [ EFFECT.FANTASTIC_FIENDS ]: [ 10, 12, 15 ],
+    [ EFFECT.DEATH_AND_RESURRECTION ]: [ 10, 12, 15 ],
+    [ EFFECT.ELDERS_GAME ]: [ 10, 12, 15 ],
+    [ EFFECT.PRISONER ]: [ 10, 12, 15 ],
+    [ EFFECT.A_GANG_OF ]: [ 10, 12, 15 ],
+    [ EFFECT.LAB_PARTNERS ]: [ 10, 12, 15 ],
+    [ EFFECT.TROPHY_CASE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -546,6 +555,15 @@ const effects = [
     { uid: EFFECT.CIVIL_WAR_STORIES },
     { uid: EFFECT.LOVE_TRIANGLES },
     { uid: EFFECT.PROBABLY_OP },
+    { uid: EFFECT.GOOD_VIBRATIONS },
+    { uid: EFFECT.MONSTER_MASH },
+    { uid: EFFECT.FANTASTIC_FIENDS },
+    { uid: EFFECT.DEATH_AND_RESURRECTION },
+    { uid: EFFECT.ELDERS_GAME },
+    { uid: EFFECT.PRISONER },
+    { uid: EFFECT.A_GANG_OF },
+    { uid: EFFECT.LAB_PARTNERS },
+    { uid: EFFECT.TROPHY_CASE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -825,6 +843,15 @@ const effectIcons = {
     [ EFFECT.CIVIL_WAR_STORIES ]: 'effect-civil-war-stories',
     [ EFFECT.LOVE_TRIANGLES ]: 'effect-love-triangles',
     [ EFFECT.PROBABLY_OP ]: 'effect-genetic-recode-probability',
+    [ EFFECT.GOOD_VIBRATIONS ]: 'effect-bleed',
+    [ EFFECT.MONSTER_MASH ]: 'effect-unstoppable',
+    [ EFFECT.FANTASTIC_FIENDS ]: 'effect-stun',
+    [ EFFECT.DEATH_AND_RESURRECTION ]: 'effect-hell-lords',
+    [ EFFECT.ELDERS_GAME ]: 'effect-elders-game',
+    [ EFFECT.PRISONER ]: 'effect-armor-break',
+    [ EFFECT.A_GANG_OF ]: 'effect-idol',
+    [ EFFECT.LAB_PARTNERS ]: 'effect-idol',
+    [ EFFECT.TROPHY_CASE ]: 'effect-idol',
 };
 
 function effectIcon(uid) {

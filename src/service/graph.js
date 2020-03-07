@@ -293,6 +293,15 @@ const EFFECT_COLORS = {
     [ EFFECT.CIVIL_WAR_STORIES ]: '#5d5',
     [ EFFECT.LOVE_TRIANGLES ]: '#d4c',
     [ EFFECT.PROBABLY_OP ]: '#38a',
+    [ EFFECT.GOOD_VIBRATIONS ]: '#4ed',
+    [ EFFECT.MONSTER_MASH ]: '#f3a',
+    [ EFFECT.FANTASTIC_FIENDS ]: '#a7d',
+    [ EFFECT.DEATH_AND_RESURRECTION ]: '#001',
+    [ EFFECT.ELDERS_GAME ]: '#473',
+    [ EFFECT.PRISONER ]: '#fa5',
+    [ EFFECT.A_GANG_OF ]: '#45f',
+    [ EFFECT.LAB_PARTNERS ]: '#5e3',
+    [ EFFECT.TROPHY_CASE ]: '#da2',
 
 };
 

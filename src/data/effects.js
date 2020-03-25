@@ -280,6 +280,16 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.A_GANG_OF ]: [ 10, 12, 15 ],
     [ EFFECT.LAB_PARTNERS ]: [ 10, 12, 15 ],
     [ EFFECT.TROPHY_CASE ]: [ 10, 12, 15 ],
+    [ EFFECT.CHAMPIONS_OF_BATTLEWORLD ]: [ 10, 12, 15 ],
+    [ EFFECT.DOCTORS_STRANGE ]: [ 10, 12, 15 ],
+    [ EFFECT.MYSTIC_ARTS ]: [ 10, 12, 15 ],
+    [ EFFECT.BLUETIFUL_PEOPLE ]: [ 10, 12, 15 ],
+    [ EFFECT.GAMMA_HORDE ]: [ 10, 12, 15 ],
+    [ EFFECT.HOUSE_OF_IRON ]: [ 10, 12, 15 ],
+    [ EFFECT.SETUP_AND_SPIKE ]: [ 10, 12, 15 ],
+    [ EFFECT.UNDER_THE_WEATHER ]: [ 10, 12, 15 ],
+    [ EFFECT.KINGDOM_OF_WAKANDA ]: [ 10, 12, 15 ],
+    [ EFFECT.SPIDERGUILD ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -564,6 +574,16 @@ const effects = [
     { uid: EFFECT.A_GANG_OF },
     { uid: EFFECT.LAB_PARTNERS },
     { uid: EFFECT.TROPHY_CASE },
+    { uid: EFFECT.CHAMPIONS_OF_BATTLEWORLD },
+    { uid: EFFECT.DOCTORS_STRANGE },
+    { uid: EFFECT.MYSTIC_ARTS },
+    { uid: EFFECT.BLUETIFUL_PEOPLE },
+    { uid: EFFECT.GAMMA_HORDE },
+    { uid: EFFECT.HOUSE_OF_IRON },
+    { uid: EFFECT.SETUP_AND_SPIKE },
+    { uid: EFFECT.UNDER_THE_WEATHER },
+    { uid: EFFECT.KINGDOM_OF_WAKANDA },
+    { uid: EFFECT.SPIDERGUILD },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -852,6 +872,16 @@ const effectIcons = {
     [ EFFECT.A_GANG_OF ]: 'effect-idol',
     [ EFFECT.LAB_PARTNERS ]: 'effect-idol',
     [ EFFECT.TROPHY_CASE ]: 'effect-idol',
+    [ EFFECT.CHAMPIONS_OF_BATTLEWORLD ]: 'effect-idol',
+    [ EFFECT.DOCTORS_STRANGE ]: 'effect-idol',
+    [ EFFECT.MYSTIC_ARTS ]: 'effect-idol',
+    [ EFFECT.BLUETIFUL_PEOPLE ]: 'effect-idol',
+    [ EFFECT.GAMMA_HORDE ]: 'effect-idol',
+    [ EFFECT.HOUSE_OF_IRON ]: 'effect-idol',
+    [ EFFECT.SETUP_AND_SPIKE ]: 'effect-idol',
+    [ EFFECT.UNDER_THE_WEATHER ]: 'effect-idol',
+    [ EFFECT.KINGDOM_OF_WAKANDA ]: 'effect-idol',
+    [ EFFECT.SPIDERGUILD ]: 'effect-idol',
 };
 
 function effectIcon(uid) {

@@ -1,0 +1,33 @@
+{
+    "description": "This is not the Storm you know. She has been indoctrinated into Pyramid X by her God Apocalypse. Storm is able to channel her weather-bending abilities through her ornate wand Heset’s Ruin, to raze entire cities and subjugate those who do not submit to En Sabah Nur.",
+    "gameplay": {
+        "description": "Passive:  \n- Storm’s basic attacks deal Energy Damage instead of Physical.\n- Storm has 1400 Energy Resistance.\n- If the Opponent Purifies a Stun Debuff it is replaced with a Passive Stun lasting 2 seconds.\n\n\nPre Fight Ability – Tempests\n- By default, Ice Tempest is selected. If selecting a different Tempest in the Pre-Fight Screen, it becomes the new default. Default Tempests can be switched once per Fight.\n- When Power Locked or Power Drained, Tempests are removed for 8 seconds.\n- Activation of Tempests is unaffected by Ability Accuracy.\n- Ice Tempest: Gain Immunity to Coldsnap and Frostbite, and incoming Basic Attacks have a 60% chance to Glance. Glancing Hits cannot be Critical, deal 50% reduced damage, and suffer -100% Offensive Ability Accuracy.\n- Lightning Tempest: Decrease the potency of incoming Shock effects by 100% and each active Prowess adds 2% chance to Stun the Opponent on Hit for 0.9 second(s). Max 16% chance.\n\n\nWhen Knocked Down:\n- When Knocked Down, if not already active, Storm activates her Alternate Tempest for 12 seconds. Duration is paused during Heavy Attacks and Special Attacks. \n\n\nProwess – When Either Champion Fills a Bar of Power:\n- Each Tempest generates 1 Prowess, increasing the next Special Attacks damage by 40%. The first 3 Prowess Buffs last indefinitely. Additional Prowess Buffs last 10 seconds. Max 12.\n- If Storm has 6 Prowess effects active during a Special Attack, gain a Passive Unblockable for 1.8 second(s)."
+    },
+    "attack": {
+        "heavy": "Charging a Heavy Attack creates a dormant Prowess which charges from 0 to 100%. Launching a Special Attack while charging a Heavy Attack converts this dormant Prowess into a Passive Prowess increasing the Special Attacks damage by up to 100% based on how long the Heavy Attack was charged.",
+        "note": "This ability might read a bit strange, It’s the first time we have used animation cancelling as a mechanic for a Champion. While you’re charging a Heavy Attack there will be a grey Prowess Icon on screen, without releasing your finger from the screen, tap the Special Attack button to launch a Special Attack and convert the grey Prowess Icon into an actual Prowess."
+    },
+    "specials": {
+        "1": {
+            "description": "CLOUDY WITH A CHANCE OF PAIN – Storm calls forth a hailstorm of ice directed entirely on her unfortunate Opponent.\n\n- Inflict a Passive Slow for the duration of this Special Attack, preventing the effects of Unstoppable and lowering Evade Ability Accuracy by 100%. Opponents with a natural Class Advantage cannot be slowed.\n- Ice Tempest: Each Hit that contacts the Opponent generates 1 Prowess Buff increasing Special Attack damage by 10% for the remainder of this Special Attack. Additionally, the final Hit inflicts a Passive Coldsnap dealing 1949.6 Energy Damage over 14 seconds.",
+            "note": "While the Ice Tempest is active Storm can apply a Passive Coldsnap. Champions who Purify Debuffs or have Immunity to Debuffs will still be affected by Coldsnap. Coldsnap also prevents the activation of Evade."
+        },
+        "2": {
+            "description": "WHEN TOADS MEET LIGHTNING – Storm channels a conduit of electrical force before discharging a rapid burst of lightning obliterating everything in its path.\n\n- Each hit inflicts a Shock Debuff dealing 1949.6 damage over 9 second(s). If the Opponent Purifies any of these Shock Debuffs, deal a burst of 1949.6 instant Shock Damage instead.\n- Lightning Tempest: Shock damage is increased by up to 90% based on the Opponents current Power. Additionally, each Prowess reduces the Opponents Defensive Power Rate by 25% up to a max of 100%.",
+            "note": "While Lightning Tempest is active, this Special Attack can be launched safely regardless of how much Power the Opponent has. If playing aggressively, Storm (Pyramid X) can launch this Attack while the Opponent is near 3 bars of Power to almost double the damage."
+        },
+        "3": {
+            "description": "ACCELERATED CLIMATE CHANGE – Storm demonstrates her absolute control over the elements by conjuring a devastating localized storm. Witness the true power of an Omega level mutant.\n\n- If both Tempests are already active, Storm increases her Attack Rating by 3655.5 during this Special Attack.\n- After this Special Attack ends, Storm activates her alternate Tempest for 35 seconds. This duration is paused while charging Heavy Attacks and launching Special Attacks.",
+            "note": "By Launching a Special 3 Storm gains both Tempests. Each Tempest provides 1 Prowess whenever either Champion gains a bar of Power, if players can keep both Tempests up through an entire Fight Storms potential Special Attack damage is doubled."
+        }
+    },
+    "signature": {
+        "description": "While below 30% of her maximum health, Storm activates both Tempests.",
+        "note": "When fighting against Storm, be prepared for the final 30% of her remaining Health. She’s going to be gaining more Prowess, more Unblockable, and have a chance to Stun on hit. I really do recommend bringing a Champion with Power Lock or Power Drain, otherwise this is going to be a tough fight."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-storm-pyramid-x/"
+    }
+}

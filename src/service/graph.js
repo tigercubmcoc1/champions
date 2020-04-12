@@ -302,6 +302,16 @@ const EFFECT_COLORS = {
     [ EFFECT.A_GANG_OF ]: '#45f',
     [ EFFECT.LAB_PARTNERS ]: '#5e3',
     [ EFFECT.TROPHY_CASE ]: '#da2',
+    [ EFFECT.CHAMPIONS_OF_BATTLEWORLD ]: '#ae3',
+    [ EFFECT.DOCTORS_STRANGE ]: '#b2c',
+    [ EFFECT.MYSTIC_ARTS ]: '#4dc',
+    [ EFFECT.BLUETIFUL_PEOPLE ]: '#45d',
+    [ EFFECT.GAMMA_HORDE ]: '#4e5',
+    [ EFFECT.HOUSE_OF_IRON ]: '#35f',
+    [ EFFECT.SETUP_AND_SPIKE ]: '#9ed',
+    [ EFFECT.UNDER_THE_WEATHER ]: '#445',
+    [ EFFECT.KINGDOM_OF_WAKANDA ]: '#f12',
+    [ EFFECT.SPIDERGUILD ]: '#3d2',
 
 };
 

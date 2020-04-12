@@ -1,0 +1,33 @@
+{
+    "description": "Sorcerer Supreme was born into poverty, collecting stray dreams on the outskirts of the Nightmare Realm before finding her way to the Temple of Vishanti. Realizing her potential in the mystic arts, she rose up and became one of the most brilliant students in the Temple. Now, armed with her cunning, daring, and mastery over her Book Of Vishanti and Crimson Orbs Of The Cosmos, The Ancient One has called upon her to be a key player in a much larger, more dangerous game…",
+    "gameplay": {
+        "description": "Passive:\n- Basic attacks deal Energy Damage instead of Physical.\n- Sorcerer Supreme gains 70% less Power from Attacking, Blocking, and being Struck, but gains 25% of her Max Power every 9 second(s).\n- -370.59 Physical Resistance.\n- +2100 Energy Resistance.\n\n\nPassive – Blessings of the Realm – Pre-Fight Ability:\n- Sorcerer Supreme rotates between different Blessings every 8 second(s), in the order of Cyttorak’s Ferocity, Raggadorr’s Resolve, and Ikonn’s Ingenuity.\n- Each fight starts in Cyttorak’s Ferocity, unless a different Blessing is chosen on the Pre-Fight Screen.\n- Cyttorak’s Ferocity grants +1218.5 Attack Rating and increased Critical Damage Rating.\n- Raggadorr’s Resolve grants +1400 Armor and 30% Perfect Block chance.\n- Ikonn’s Ingenuity grants all hits Power Steal for 3% of the Opponent’s current Power. Sorcerer Supreme gains 150% of the Power Stolen.\n\n\nSpecial Attacks – Runic Spells:\n- All Special Attacks store Runes of the current Blessing. Stored Runes have no effect.\n- After Runes are stored, Sorcerer Supreme then consumes up to 1 of each Rune to trigger different effects.\n- Runes of Cyttorak Armor Break the Opponent for 12 second(s), reducing Armor Rating by -2100.\n- Runes of Raggadorr Passively Regenerate Sorcerer Supreme for 524.32 Health over 12 second(s). While this is active, Sorcerer Supreme Regenerates 75% of the damage she takes from Blocked Hits.\n- Runes of Ikonn Slow the Opponent for 12 second(s), preventing their Unstoppable and Evade effects. Opponents with a natural Class Advantage cannot be Slowed."
+    },
+    "attack": {
+        "heavy": "Rotate to the next Blessing."
+    },
+    "specials": {
+        "1": {
+            "description": "AURA OF SILENCE – Sorcerer Supreme conjures the Crimson Orbs of the Cosmos to launch missiles of mystical energy at the Opponent.\n\n- Store 2 Rune(s) of the current Blessing.\n- The first hit has a 100% chance to Nullify 1 Buff off the Opponent.\n- After this attack, Sorcerer Supreme casts a Nullification Aura around herself for 10 second(s). Every 0.75 second(s) the Opponent spends in the Aura, 1 of their Buffs is Nullified.",
+            "note": "Since Runes are both stored and consumed when using Special Attacks, this attack effectively grants Sorcerer Supreme 1 Rune of her current Blessing."
+        },
+        "2": {
+            "description": "ASTRAL SLIDE – Using a seal of the Vishanti, Sorcerer Supreme enters the astral plane, charges at the Opponent, and detonates them with ethereal energy.\n\n- Store 3 Rune(s) of the current Blessing.\n- After consuming Runes, Pause all Rune effects until 5 second(s) after this attack ends.",
+            "note": "Regeneration still happens while the effect is paused, so this Special Attack can be used to get even more healing out of the Runes of Raggadorr."
+        },
+        "3": {
+            "description": "SUPREME VERDICT – Sorcerer Supreme enchants her Crimson Orbs of the Cosmos to hunt down her Opponent and sear their soul with arcane electricity.\n\n- The first time this is used in a fight, store a permanent Rune of the current Blessing. This Rune is never consumed.\n- Subsequent uses store 2 non-permanent Runes instead.\n- Attack Rating is increased by up to +7311 based on stored Runes.",
+            "note": "This attack is useful for when you want to trigger a specific Rune effect for every single Special Attack in the whole fight. The maximum Attack Rating increase is achieved by having 10 stored Runes."
+        }
+    },
+    "signature": {
+        "description": "RING OF OBLIVION\n\nPassive\n- Sorcerer Supreme gains +50% Ability Accuracy.\nThe Potency of Blessings is increased by 33%.",
+        "note": "All of Sorcerer Supreme’s abilities already have the default 100% chance to trigger, so the Ability Accuracy she gains in her Signature Ability is more useful for when she encounters Buffs or Opponents who would reduce it."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-sorcerer-supreme/"
+    },
+    "youtube":"TKx9hP3s3QE"
+}

@@ -1,0 +1,33 @@
+{
+    "description": "Alexei Shostakov was one of the Soviet Union’s most acclaimed pilots, crediting them with air supremacy over the skies of Stalingrad and Kursk during World War II and thus granting him national recognition. As the Cold War flared, Soviet Premier Nikita Khrushchev determined the Soviet Union needed its own equivalent to Captain America and seeing Shostakov’s popularity, chose him to fill that role. The KGB then faked his death, training him in secret and turning him into a master of hand-to-hand combat and a highly skilled athlete.",
+    "gameplay": {
+        "description": "Ablative Shield\n- Red Guardian can’t gain Buffs, whenever a Buff attempts to trigger he gains +1 Durability for his Ablative Shield instead. Cooldown: 0.80 seconds.\n- The Ablative Shield starts each fight at 9 Durability and can stack up to a max of 10. Each blocked hit removes 1 Durability.\n- Each Stack of Durability increases Perfect Block chance by 5%. Perfect Blocks, reduce incoming damage to 0.\n- While the Shield is intact, Red Guardian can block Heavy and Unblockable Attacks and gains 1400 Block Proficiency.\n- Blocking a Heavy or Unblockable Attack reduces Shield Durability to 0, however all hits of the incoming Attack can be blocked.\n- When reaching 0 Durability the Shield is Fractured, entering cooldown for 8 seconds. This cooldown increases by 300% each time Fracture occurs. When cooldown ends, the Shield is repaired at 7 Durability.\n\n\nOn Fracture\n- Carbonadium shards from the Ablative Shield burst onto the Opponent, inflicting a Stun Debuff for 1.90 seconds.\n- Inflict a Trauma Debuff for 3 seconds, Trauma causes each hit to deal an additional 70% of the damage recently dealt as burst Physical Damage. Max Stacks 3."
+    },
+    "specials": {
+        "1": {
+            "description": "Shield Charge\n- On activation inflict a non-stacking Slow Debuff for 12 seconds reducing the Ability Accuracy of the Opponent’s Unstoppable and Evade effects by 100%. Opponents with a natural Class Advantage cannot be Slowed.\n- While the Opponent is suffering from Slow, Red Guardian’s Power Rate is increased by 25%.",
+            "note": "Generally this Attack is always the best opener to use since it gives Red Guardian additional power rate while his opponent is slowed. This allows him to build to his other specials much quicker and can be maintained with his heavy attack!"
+        },
+        "2": {
+            "description": "Ablative Bash\n- On activation if the Ablative Shield was intact, gain +859.2 Attack Rating throughout this Special.\n- If this Attack strikes the Opponent, the Ablative Shield is Fractured, removing all Durability. Each stack of Durability removed grants an additional +322.2 Attack Rating to each hit of this attack.\n- During this attack any Debuffs inflicted last 100% longer.",
+            "note": "Red Guardian’s ideal loop is to use this attack to Fracture his own shield thus inflicting Trauma and Stun at +100% duration. This is also a great way to deal some huge damage because attack rating is increased for each stack of Durability and this damage will burst even more with the Trauma debuff!"
+        },
+        "3": {
+            "description": "KGB Beatdown\n- If the Ablative Shield is active, its Durability is set to max. If the Ablative Shield is Fractured, its cooldown ends immediately.\n- 100% chance to inflict a Stun Debuff for 1.90 seconds.\n- Inflict a non-stacking Vulnerability Debuff for 20 seconds. When attacking a Vulnerable Opponent, increase Critical Damage Rating by 1181.25 and decrease their Block Proficiency by 50%.",
+            "note": "KGB Beatdown is best used to repair the Ablative Shield when its cooldown gets too long to wait out. It’s also a great way to gain another unique debuff and the stun gives an instant opportunity to start the next combo!"
+        }
+    },
+    "attack": {
+        "heavy": "Gain +402.75 Attack Rating for each unique Debuff on the Opponent. Refresh all Slow, Vulnerability and Trauma Debuffs on the Opponent.",
+        "note": "Stacking unique debuffs is a great way to deal high amounts of damage with Red Guardian and can give him a lot of damage potential when fighting on a node that puts debuffs on the opponent, or with synergy team partners that give him additional unique debuffs such as Mister Fantastic’s pre-fight ability!"
+    },
+    "signature": {
+        "description": "Enhanced Combat Durability\n- Maximum Durability for the Ablative Shield is increased by +1 for every 40 signature levels obtained. Max increase of +5.\n- Well-Timed blocks have a 100.00% chance to prevent Durability loss.\n- Trauma, Slow and Vulnerability Debuffs last 30% longer.",
+        "note": "Red Guardian’s Signature Ability is very important to upkeep his shield durability and will also increase the max cap on his durability! It’s important to note that the increase to durability works a little differently than other champions, increasing the durability cap at certain thresholds in the Signature Ability rather than a gradual increase at each level."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-red-guardian/"
+    }
+}

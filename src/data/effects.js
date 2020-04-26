@@ -290,6 +290,14 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.UNDER_THE_WEATHER ]: [ 10, 12, 15 ],
     [ EFFECT.KINGDOM_OF_WAKANDA ]: [ 10, 12, 15 ],
     [ EFFECT.SPIDERGUILD ]: [ 10, 12, 15 ],
+    [ EFFECT.FAMILY_REUNION ]: [ 10, 12, 15 ],
+    [ EFFECT.EASTERN_BLOCKERS ]: [ 10, 12, 15 ],
+    [ EFFECT.LIVING_STEEL_CURTAIN ]: [ 10, 12, 15 ],
+    [ EFFECT.MAGNIFICENT_MANES ]: [ 10, 12, 15 ],
+    [ EFFECT.ENHANCED_WITH_CARBONADIUM ]: [ 10, 12, 15 ],
+    [ EFFECT.REMEMBER_ME ]: [ 10, 12, 15 ],
+    [ EFFECT.REMEMBERING_BUDAPEST ]: [ 10, 12, 15 ],
+    [ EFFECT.COVERT_EXPERTISE ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -584,6 +592,14 @@ const effects = [
     { uid: EFFECT.UNDER_THE_WEATHER },
     { uid: EFFECT.KINGDOM_OF_WAKANDA },
     { uid: EFFECT.SPIDERGUILD },
+    { uid: EFFECT.FAMILY_REUNION },
+    { uid: EFFECT.EASTERN_BLOCKERS },
+    { uid: EFFECT.LIVING_STEEL_CURTAIN },
+    { uid: EFFECT.MAGNIFICENT_MANES },
+    { uid: EFFECT.ENHANCED_WITH_CARBONADIUM },
+    { uid: EFFECT.REMEMBER_ME },
+    { uid: EFFECT.REMEMBERING_BUDAPEST },
+    { uid: EFFECT.COVERT_EXPERTISE },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -882,6 +898,14 @@ const effectIcons = {
     [ EFFECT.UNDER_THE_WEATHER ]: 'effect-time',
     [ EFFECT.KINGDOM_OF_WAKANDA ]: 'effect-bleed',
     [ EFFECT.SPIDERGUILD ]: 'effect-evade',
+    [ EFFECT.FAMILY_REUNION ]: 'effect-idol',
+    [ EFFECT.EASTERN_BLOCKERS ]: 'effect-idol',
+    [ EFFECT.LIVING_STEEL_CURTAIN ]: 'effect-idol',
+    [ EFFECT.MAGNIFICENT_MANES ]: 'effect-idol',
+    [ EFFECT.ENHANCED_WITH_CARBONADIUM ]: 'effect-idol',
+    [ EFFECT.REMEMBER_ME ]: 'effect-idol',
+    [ EFFECT.REMEMBERING_BUDAPEST ]: 'effect-idol',
+    [ EFFECT.COVERT_EXPERTISE ]: 'effect-idol',
 };
 
 function effectIcon(uid) {

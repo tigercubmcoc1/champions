@@ -1,6 +1,6 @@
 # [<img src="dev/images/icon.png" width="28" height="28" alt="Icon">](#-champions) Champions
 
-[<img src="https://travis-ci.com/hook/champions.svg?branch=master" alt="Build Status">](https://travis-ci.org/hook/champions)
+[<img src="https://travis-ci.com/hook/champions.svg?branch=master" alt="Build Status">](https://travis-ci.com/hook/champions)
 [<img src="https://img.shields.io/gitter/room/hook/champions.svg" alt="Join the chat at https://gitter.im/hook/champions">](https://gitter.im/hook/champions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Download

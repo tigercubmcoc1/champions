@@ -5,18 +5,18 @@ dist:
   - "xenial"
 os:
   - "linux"
+
 addons:
   apt:
     sources:
       - ubuntu-toolchain-r-test
     packages:
       - g++-4.8
-after_success:
-  - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run deploy || false'
+
 env:
   global:
     - CXX=g++-4.8
     - GH_REF: github.com/hook/champions.git
-branches:
-  only:
-    - master
+
+after_success:
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && npm run deploy

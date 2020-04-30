@@ -14,8 +14,8 @@ addons:
 after_success:
   - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && npm run deploy || false'
 env:
-  - CXX=g++-4.8
   global:
+    - CXX=g++-4.8
     - GH_REF: github.com/hook/champions.git
 branches:
   only:

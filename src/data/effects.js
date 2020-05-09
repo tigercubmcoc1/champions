@@ -898,14 +898,14 @@ const effectIcons = {
     [ EFFECT.UNDER_THE_WEATHER ]: 'effect-time',
     [ EFFECT.KINGDOM_OF_WAKANDA ]: 'effect-bleed',
     [ EFFECT.SPIDERGUILD ]: 'effect-evade',
-    [ EFFECT.FAMILY_REUNION ]: 'effect-idol',
-    [ EFFECT.EASTERN_BLOCKERS ]: 'effect-idol',
-    [ EFFECT.LIVING_STEEL_CURTAIN ]: 'effect-idol',
-    [ EFFECT.MAGNIFICENT_MANES ]: 'effect-idol',
-    [ EFFECT.ENHANCED_WITH_CARBONADIUM ]: 'effect-idol',
-    [ EFFECT.REMEMBER_ME ]: 'effect-idol',
-    [ EFFECT.REMEMBERING_BUDAPEST ]: 'effect-idol',
-    [ EFFECT.COVERT_EXPERTISE ]: 'effect-idol',
+    [ EFFECT.FAMILY_REUNION ]: 'effect-lullaby',
+    [ EFFECT.EASTERN_BLOCKERS ]: 'special-2',
+    [ EFFECT.LIVING_STEEL_CURTAIN ]: 'effect-living-steel-curtain',
+    [ EFFECT.MAGNIFICENT_MANES ]: 'effect-worthy-opponent',
+    [ EFFECT.ENHANCED_WITH_CARBONADIUM ]: 'effect-enhanced-with-carbonadium',
+    [ EFFECT.REMEMBER_ME ]: 'effect-remember-me',
+    [ EFFECT.REMEMBERING_BUDAPEST ]: 'effect-immunity-bleed',
+    [ EFFECT.COVERT_EXPERTISE ]: 'effect-critical-rate',
 };
 
 function effectIcon(uid) {

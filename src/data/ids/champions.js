@@ -112,6 +112,7 @@ export const ELSABLOODSTONE = 'elsabloodstone';
 export const FALCON = 'falcon';
 export const GWENPOOL = 'gwenpool';
 export const HAWKEYE = 'hawkeye';
+export const HITMONKEY = 'hitmonkey';
 export const KARNAK = 'karnak';
 export const KILLMONGER = 'killmonger';
 export const KINGPIN = 'kingpin';
@@ -183,6 +184,7 @@ export const SCARLETWITCHULTIMATE = 'scarletwitchultimate';
 export const SORCERERSUPREME = 'sorcerersupreme';
 export const SYMBIOTESUPREME = 'symbiotesupreme';
 export const THORJANEFOSTER = 'thorjanefoster';
+export const TIGRA = 'tigra';
 export const UNSTOPPABLECOLOSSUS = 'unstoppablecolossus';
 // Universal
 export const MAESTRO = 'maestro';

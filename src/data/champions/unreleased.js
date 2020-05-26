@@ -7,9 +7,10 @@ export const UNRELEASED_CHAMPIONS = [
     // Mutant
     CHAMPION.PLATINUMPOOL,
     // Skill
+    CHAMPION.HITMONKEY,
     // Science
-    CHAMPION.REDGUARDIAN,
     // Mystic
+    CHAMPION.TIGRA,
     // Universal
     CHAMPION.MAESTRO,
     CHAMPION.THECOLLECTOR,

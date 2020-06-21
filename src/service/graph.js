@@ -320,6 +320,14 @@ const EFFECT_COLORS = {
     [ EFFECT.REMEMBER_ME ]: '#8ae',
     [ EFFECT.REMEMBERING_BUDAPEST ]: '#cad',
     [ EFFECT.COVERT_EXPERTISE ]: '#21e',
+    [ EFFECT.WEST_COAST_AVENGERS ]: '#7a5',
+    [ EFFECT.FELINE_POSSESSION ]: '#26e',
+    [ EFFECT.ENTREE ]: '#f95',
+    [ EFFECT.BIG_GAME_HUNTERS ]: '#f24',
+    [ EFFECT.NOT_THE_FACE ]: '#aff',
+    [ EFFECT.SPIDER_MONKEY ]: '#ae2',
+    [ EFFECT.FURRY_FRENEMIES ]: '#725',
+    [ EFFECT.NO_EVIL ]: '#35a',
 
 };
 

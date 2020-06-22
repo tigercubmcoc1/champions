@@ -4,13 +4,13 @@ export const UNRELEASED_CHAMPIONS = [
     // Cosmic
     CHAMPION.DARKPHOENIX,
     // Tech
+    CHAMPION.GUARDIAN,
     // Mutant
     CHAMPION.PLATINUMPOOL,
     // Skill
-    CHAMPION.HITMONKEY,
     // Science
     // Mystic
-    CHAMPION.TIGRA,
+    CHAMPION.SASQUATCH,
     // Universal
     CHAMPION.MAESTRO,
     CHAMPION.THECOLLECTOR,

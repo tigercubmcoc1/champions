@@ -298,6 +298,14 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.REMEMBER_ME ]: [ 10, 12, 15 ],
     [ EFFECT.REMEMBERING_BUDAPEST ]: [ 10, 12, 15 ],
     [ EFFECT.COVERT_EXPERTISE ]: [ 10, 12, 15 ],
+    [ EFFECT.WEST_COAST_AVENGERS ]: [ 10, 12, 15 ],
+    [ EFFECT.FELINE_POSSESSION ]: [ 10, 12, 15 ],
+    [ EFFECT.ENTREE ]: [ 10, 12, 15 ],
+    [ EFFECT.BIG_GAME_HUNTERS ]: [ 10, 12, 15 ],
+    [ EFFECT.NOT_THE_FACE ]: [ 10, 12, 15 ],
+    [ EFFECT.SPIDER_MONKEY ]: [ 10, 12, 15 ],
+    [ EFFECT.FURRY_FRENEMIES ]: [ 10, 12, 15 ],
+    [ EFFECT.NO_EVIL ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -600,6 +608,14 @@ const effects = [
     { uid: EFFECT.REMEMBER_ME },
     { uid: EFFECT.REMEMBERING_BUDAPEST },
     { uid: EFFECT.COVERT_EXPERTISE },
+    { uid: EFFECT.WEST_COAST_AVENGERS },
+    { uid: EFFECT.FELINE_POSSESSION },
+    { uid: EFFECT.ENTREE },
+    { uid: EFFECT.BIG_GAME_HUNTERS },
+    { uid: EFFECT.NOT_THE_FACE },
+    { uid: EFFECT.SPIDER_MONKEY },
+    { uid: EFFECT.FURRY_FRENEMIES },
+    { uid: EFFECT.NO_EVIL },
 
 ].map(({ uid }) => new Effect({
     uid,
@@ -906,6 +922,14 @@ const effectIcons = {
     [ EFFECT.REMEMBER_ME ]: 'effect-remember-me',
     [ EFFECT.REMEMBERING_BUDAPEST ]: 'effect-immunity-bleed',
     [ EFFECT.COVERT_EXPERTISE ]: 'effect-critical-rate',
+    [ EFFECT.WEST_COAST_AVENGERS ]: 'effect-poison',
+    [ EFFECT.FELINE_POSSESSION ]: 'effect-nullify',
+    [ EFFECT.ENTREE ]: 'effect-attack',
+    [ EFFECT.BIG_GAME_HUNTERS ]: 'effect-time',
+    [ EFFECT.NOT_THE_FACE ]: 'effect-bleed',
+    [ EFFECT.SPIDER_MONKEY ]: 'effect-bane-of-hells-kitchen',
+    [ EFFECT.FURRY_FRENEMIES ]: 'effect-armor-break',
+    [ EFFECT.NO_EVIL ]: 'effect-critical-damage',
 };
 
 function effectIcon(uid) {

@@ -1,0 +1,35 @@
+{
+    "description": "Greer Nelson was once a Super Hero going by the name “Cat”, who was gravely injured pursuing members of Hydra. In an effort to save her life, her ex-boss performed an ancient ritual which resulted in her possession by Tigra, the greatest Warrior from a race of humanoid cat-people.",
+    "youtube": "iGJ7r7OMfys",
+    "gameplay": {
+        "description": "Special Attacks: \n- If the Opponent is far away from Tigra at any point during a Special Attack she gains Unblockable for the next hit.\n- Landing an Unblockable strike inflicts Rupture dealing 1320 Physical Damage over 8 seconds.\n\n\nFighting Non-Cosmic Champions:\n- If affected by Weakness, Slow, or Exhaustion Debuffs, prevent the activation of Tigra’s personal miss and Unblockable effects."
+    },
+    "attack": {
+        "description": "- On Hit, inflict a non-stacking Passive Neutralize for 2.50 second(s). If this Neutralize is already active, its duration is refreshed instead. Neutralized Opponents have -100% Buff Ability Accuracy.\n- While the Opponent is Neutralized, if they fail to gain a Buff through Chance, inflict Rupture, dealing 132 Physical Damage over 1 second(s). Cooldown 1 second(s)",
+        "heavy": "While Charging a Heavy Attack and 0.10 seconds after launching a Heavy Attack, all non-contact hits from Special Attacks have a 100% chance to Miss. If Tigra Interrupts the Opponent’s Attack or causes them to Miss while charging this attack, each Hit inflicts Rupture dealing 1320 Physical Damage over 18 seconds.",
+        "note": "Tigra’s Heavy Attack is the most important attack for her to land. Keeping these long duration Ruptures on the Opponent will lead to insane damage through the Special 2."
+    },
+    "specials": {
+        "1": {
+            "description": "Claws and Effect\n- On activation, alternate between triggering Primal Sense and Huntress Sense. Senses last for 14 seconds. Duration is paused while the Opponent is Neutralized.\n- Primal Sense: Whenever inflicting Rupture, deal a burst of up to 2244 Physical Damage based on the number of damaging Debuffs on the Opponent. This damage is increased by 100% during Special Attacks.\n- Huntress Sense: 10% chance for all non-contact attacks from Special Attacks to Miss. Whenever inflicting Rupture or causing the Opponent to Miss, generate 10% of a bar of Power.",
+            "note": "Maintaining Primal Sense and Huntress Sense is crucial for Tigra. Keep an eye on timers, if you think they will run out before launching a Special 2, launch a couple Special 1’s first."
+        },
+        "2": {
+            "description": "Crouching Tiger\n- Each hit has a 10% chance to inflict Rupture dealing 2244 Physical damage over 4 seconds.\n- Each damaging Debuff on the Opponent increases the chance of inflicting Rupture during this Special Attack by a flat 10%.",
+            "note": "This is Tigra’s damaging Special Attack. Looping Heavy Attacks into her offense will ensure this Attack is used to its full effect."
+        },
+        "3": {
+            "description": "Prey For Mercy\n- Gain Primal Sense and Huntress Sense for 14 seconds.\n- Inflict a non-stacking, indefinite Rupture dealing 132 Physical Damage every 0.5 seconds. This Rupture is removed and reapplied each time Tigra lands an Unblockable strike.",
+            "note": "For longer fights, it’s a good idea to throw a Special 3 at least once. This indefinite Rupture will reapply itself each time you land an Unblockable strike, meaning you get 2 bursts of Physical Damage while Primal Sense is active."
+        }
+    },
+    "signature": {
+        "description": "Warrior Spirit\n- Start the fight with Primal Sense and Huntress Sense for 12 seconds.",
+        "note": "This Signature Ability will help Tigra immensely in shorter fights. Allowing Tigra to head straight for Special 2."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-tigra/"
+    }
+}
